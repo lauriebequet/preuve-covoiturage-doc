@@ -5,7 +5,6 @@
 * [Définitions](definitions.md)
 * [Juridique](juridique.md)
 * [CGU](cgu.md)
-* [Kit de communication](kit-de-communication.md)
 
 ## API
 
@@ -16,4 +15,9 @@
 ## Spécifications
 
 * [Classes de preuve de covoiturage](specifications/classes-de-preuve-de-covoiturage.md)
+
+## Boite à outils
+
+* [Compte rendu](boite-a-outils/compte-rendu.md)
+* [Kit de communication](boite-a-outils/kit-de-communication.md)
 
