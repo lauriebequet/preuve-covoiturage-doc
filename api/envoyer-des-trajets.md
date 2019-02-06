@@ -1,9 +1,3 @@
----
-description: >-
-  A destination des opérateurs de covoiturage et tout organisation collectant
-  des trajets covoiturés.
----
-
 # Envoyer des trajets
 
 ## Pré-requis
