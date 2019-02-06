@@ -8,3 +8,12 @@
 * [CGU](cgu.md)
 * [Kit de communication](kit-de-communication.md)
 
+## API
+
+* [Envoyer des trajets](api/envoyer-des-trajets.md)
+* [Schema JSON](api/schema-json.md)
+
+## Spécifications
+
+* [Classes de preuve de covoiturage](specifications/classes-de-preuve-de-covoiturage.md)
+
