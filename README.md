@@ -2,6 +2,10 @@
 description: VERSION BETA
 ---
 
+# Registre de preuve de covoiturage
+
+[Documentation en ligne](https://registre-preuve-de-covoiturage.gitbook.io/produit/)
+
 # Généralités
 
 ## **Objectifs**
@@ -11,6 +15,4 @@ Le registre de preuve de covoiturage est à la fois un label et une plate-forme 
 ## **Retours**
 
 Vous pouvez nous aider à améliorer cette documentation ainsi que le produit en nous faisant par de vos retours par email à contact@covoiturage.beta.gouv.fr.
-
-\*\*\*\*
 
