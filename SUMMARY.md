@@ -12,7 +12,7 @@
 
 * [Envoyer des trajets](api/envoyer-des-trajets.md)
 * [Schema JSON](api/schema-json.md)
-* [Schema Test](api/schema-test.md)
+* [Schema CSV](api/schema-csv.md)
 
 ## Spécifications
 
