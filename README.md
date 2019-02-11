@@ -1,16 +1,14 @@
 # Généralités
 
---- description: VERSION BETA ---
-
 ## Registre de preuve de covoiturage
-
-[Documentation en ligne](https://registre-preuve-de-covoiturage.gitbook.io/produit/)
 
 ## Généralités
 
 ### **Objectifs**
 
-Le registre de preuve de covoiturage est à la fois un label et une plate-forme technique pour distribuer à grande échelle des incitatifs monétaires ou non monétaires, sans risque de fraude massive. Ceci prend la forme d’un module qui permet à des opérateurs labellisés d’y faire converger, gratuitement et simplement, des preuves de covoiturage. Chaque trajet se verra attribuer un niveau de confiance sur la véracité du trajet réalisé. Ce niveau est fixé en fonction des mécanismes et processus de vérification du trajet mis en place par l’opérateur de covoiturage. Le choix de l’incitatif et son destinataire \(opérateur ou usager\) est défini par les acteurs locaux en fonction de leur connaissance de leur territoire et des différents niveaux de preuve. Ces incitatifs sont de natures diverses suivant l’objectif visé, le territoire, et la compétence territoriale concernés.
+Le registre de preuve de covoiturage est à la fois : Une plateforme technique permettant à l’ensemble des opérateurs de covoiturage, volontaires, de faire converger et d’attester les trajets effectués par leurs utilisateurs ; Un label qui permet aux autorités organisatrices de visualiser les différentes classes de preuve de covoiturage définies en fonction des mécanismes et processus de vérification du trajet mis en place par l’opérateur de covoiturage ; Des outils d’accompagnement des autorités organisatrices pour faciliter le développement du covoiturage sur leur territoire en facilitant au maximum l’ingénierie financière, opérationnelle et juridique à mettre en place. 
+
+Grâce au registre, une autorité organisatrice a désormais en main, l’ensemble des cartes lui permettant de mettre en oeuvre une politique incitative efficace en faveur du covoiturage. 
 
 ### **Retours**
 

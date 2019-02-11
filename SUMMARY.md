@@ -20,4 +20,5 @@
 
 * [Compte rendu](boite-a-outils/compte-rendu.md)
 * [Kit de communication](boite-a-outils/kit-de-communication.md)
+* [Guide des incitations](boite-a-outils/guide-des-incitations.md)
 
