@@ -16,8 +16,8 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 
   L'heure est exprimée en UTC \(Coordinated Universal Time\). UTC n'est pas ajusté sur l'heure d'été et hiver !
 
+* `{passenger|driver}.{start|end}.lat` : Latitude comprise entre 90deg et -90deg décimaux en datum WSG-84
 * `{passenger|driver}.{start|end}.lon` : Longitude comprise entre 180deg et -180deg décimaux en datum WSG-84
-* `{passenger|driver}.{start|end}.lat` : Longitude comprise entre 90deg et -90deg décimaux en datum WSG-84
 * `{passenger|driver}.{start|end}.insee` : Code INSEE commune ou arrondissement de la position.
 
   Pour le métropoles qui comportent un code INSEE global et des codes par arrondissement, utiliser le code arrondissement.
