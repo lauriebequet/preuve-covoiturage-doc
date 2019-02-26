@@ -16,25 +16,27 @@ Il est possible durant la phase d’expérimentation d’envoyer les données à
 * nombre maximum de lignes par fichier: 100000
 * **pas** de headers dans le fichier \(la première ligne contient des données\)
 
+Note ¹ : les champs de position sont requis de la manière suivante : lat/lon **OU** insee **OU** literal.
+
 ```text
-journey_id                         // String
-operator_class                     // String
+journey_id                         // String <required>
+operator_class                     // String <required : A, B, C>
 passenger.identity.firstname       // String
 passenger.identity.lastname        // String
 passenger.identity.email           // String
-passenger.identity.phone           // String
+passenger.identity.phone           // String <required>
 passenger.identity.company         // String
 passenger.identity.over_18         // Boolean
-passenger.start.datetime           // Date as String
-passenger.start.lat                // Number
-passenger.start.lon                // Number
-passenger.start.insee              // String
-passenger.start.literal            // String
-passenger.end.datetime             // Date as String
-passenger.end.lat                  // Number
-passenger.end.lon                  // Number
-passenger.end.insee                // String
-passenger.end.literal              // String
+passenger.start.datetime           // Date as String <required>
+passenger.start.lat                // Number <required ¹>
+passenger.start.lon                // Number <required ¹>
+passenger.start.insee              // String <required ¹>
+passenger.start.literal            // String <required ¹>
+passenger.end.datetime             // Date as String <required>
+passenger.end.lat                  // Number <required ¹>
+passenger.end.lon                  // Number <required ¹>
+passenger.end.insee                // String <required ¹>
+passenger.end.literal              // String <required ¹>
 passenger.seats                    // Number
 passenger.cost                     // Number
 passenger.distance                 // Number
@@ -42,18 +44,18 @@ passenger.duration                 // Number
 driver.identity.firstname          // String
 driver.identity.lastname           // String
 driver.identity.email              // String
-driver.identity.phone              // String
+driver.identity.phone              // String <required>
 driver.identity.company            // String
-driver.start.datetime              // Date as String
-driver.start.lat                   // Number
-driver.start.lon                   // Number
-driver.start.insee                 // String
-driver.start.literal               // String
-driver.end.datetime                // Date as String
-driver.end.lat                     // Number
-driver.end.lon                     // Number
-driver.end.insee                   // String
-driver.end.literal                 // String
+driver.start.datetime              // Date as String <required>
+driver.start.lat                   // Number <required ¹>
+driver.start.lon                   // Number <required ¹>
+driver.start.insee                 // String <required ¹>
+driver.start.literal               // String <required ¹>
+driver.end.datetime                // Date as String <required>
+driver.end.lat                     // Number <required ¹>
+driver.end.lon                     // Number <required ¹>
+driver.end.insee                   // String <required ¹>
+driver.end.literal                 // String <required ¹>
 driver.cost                        // Number
 driver.distance                    // Number
 driver.duration                    // Number
