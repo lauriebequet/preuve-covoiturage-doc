@@ -5,6 +5,7 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 ## Propriétés
 
 * `journey_id` : générée par l'opérateur et  doit être unique
+* `operator_journey_id` : générée par l'opérateur pour regrouper des trajets
 * `operator_class` : la classe de preuve correspondant au spécifications définies dans [Classes de preuve de covoiturage](../specifications/classes-de-preuve-de-covoiturage.md).
 * `{passenger|driver}.firstname` : Prénom de l'occupant
 * `{passenger|driver}.lastname` : Nom de l'occupant

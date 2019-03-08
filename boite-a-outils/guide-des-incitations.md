@@ -39,12 +39,13 @@ L’incitation financière peut soit prendre la forme d’une prise en charge to
   <thead>
     <tr>
       <th style="text-align:left">
-        <p><b>Focus sur : Opération Ile de France Mobilités, jours de grève et pics de pollution</b>
+        <p><b>Focus sur : Op&#xE9;ration Ile de France Mobilit&#xE9;s, jours de gr&#xE8;ve et pics de pollution</b>
         </p>
-        <p>En 2018, Ile de France Mobilités a offert le covoiturage pour tous les
-          Franciliens pendant les jours de grève et pics de pollution. L’incitation
-          était à destination, à la fois des conducteurs et des passagers. La condition
-          était de passer par une des 8 plateformes partenaires de l’opération.</p>
+        <p>En 2018, Ile de France Mobilit&#xE9;s a offert le covoiturage pour tous
+          les Franciliens pendant les jours de gr&#xE8;ve et pics de pollution. L&#x2019;incitation
+          &#xE9;tait &#xE0; destination, &#xE0; la fois des conducteurs et des passagers.
+          La condition &#xE9;tait de passer par une des 8 plateformes partenaires
+          de l&#x2019;op&#xE9;ration.</p>
       </th>
     </tr>
   </thead>
@@ -53,16 +54,17 @@ L’incitation financière peut soit prendre la forme d’une prise en charge to
   <thead>
     <tr>
       <th style="text-align:left">
-        <p><b>Focus sur : Opération Ile de France Mobilités, tous ensemble pour le covoiturage</b>
+        <p><b>Focus sur : Op&#xE9;ration Ile de France Mobilit&#xE9;s, tous ensemble pour le covoiturage</b>
         </p>
-        <p>Du 1 octobre 2017 au 31 octobre 2018 Ile de France Mobilités a conclu
-          un partenariat avec des opérateurs de covoiturage pour inciter la pratique
-          du covoiturage. Ces opérateurs peuvent respectivement recevoir jusqu’à
-          50.000€ d’aide financière pour le développement de nouvelles offres promotionnelles
-          visant à convertir davantage de Franciliens au covoiturage, en tant qu’usagers
-          et conducteurs. Le coup de pouce financier est de l’ordre de 2€ par trajet.
-          En fonction de la politique de l'opérateur, ce montant a été reversé au
-          conducteur et/ou passager.</p>
+        <p>Du 1 octobre 2017 au 31 octobre 2018 Ile de France Mobilit&#xE9;s a conclu
+          un partenariat avec des op&#xE9;rateurs de covoiturage pour inciter la
+          pratique du covoiturage. Ces op&#xE9;rateurs peuvent respectivement recevoir
+          jusqu&#x2019;&#xE0; 50.000&#x20AC; d&#x2019;aide financi&#xE8;re pour le
+          d&#xE9;veloppement de nouvelles offres promotionnelles visant &#xE0; convertir
+          davantage de Franciliens au covoiturage, en tant qu&#x2019;usagers et conducteurs.
+          Le coup de pouce financier est de l&#x2019;ordre de 2&#x20AC; par trajet.
+          En fonction de la politique de l&apos;op&#xE9;rateur, ce montant a &#xE9;t&#xE9;
+          revers&#xE9; au conducteur et/ou passager.</p>
       </th>
     </tr>
   </thead>
@@ -85,11 +87,12 @@ En fonction des compétences de la collectivité l’incitation peut prendre la 
   <thead>
     <tr>
       <th style="text-align:left">
-        <p><b>Focus sur : Covoit’Star - Rennes</b>
+        <p><b>Focus sur : Covoit&#x2019;Star - Rennes</b>
         </p>
-        <p>Le covoit’STAR à Rennes met en contact les automobilistes et les clients
-          du réseau STAR. Les conducteurs cumulent des points et accèdent également
-          à des places réservées dans tous les parcs relais P+R.</p>
+        <p>Le covoit&#x2019;STAR &#xE0; Rennes met en contact les automobilistes
+          et les clients du r&#xE9;seau STAR. Les conducteurs cumulent des points
+          et acc&#xE8;dent &#xE9;galement &#xE0; des places r&#xE9;serv&#xE9;es dans
+          tous les parcs relais P+R.</p>
       </th>
     </tr>
   </thead>
@@ -102,9 +105,9 @@ En fonction des compétences de la collectivité l’incitation peut prendre la 
   <thead>
     <tr>
       <th style="text-align:left">
-        <p><b>Focus sur : Ecosyst’m</b>
+        <p><b>Focus sur : Ecosyst&#x2019;m</b>
         </p>
-        <p><b>ECOSYST’M s’appuie sur les commerces de proximité signataires d’un Pacte de Partenariat de Proximité. Il engage les commerçants et activités signataires à accepter une monnaie propre au covoiturage, les Bons Énergie, et à proposer des services facilitant les déplacements de proximité. Il s’agit ainsi de redynamiser l’économie des centres villes.</b>
+        <p><b>ECOSYST&#x2019;M s&#x2019;appuie sur les commerces de proximit&#xE9; signataires d&#x2019;un Pacte de Partenariat de Proximit&#xE9;. Il engage les commer&#xE7;ants et activit&#xE9;s signataires &#xE0; accepter une monnaie propre au covoiturage, les Bons &#xC9;nergie, et &#xE0; proposer des services facilitant les d&#xE9;placements de proximit&#xE9;. Il s&#x2019;agit ainsi de redynamiser l&#x2019;&#xE9;conomie des centres villes.</b>
         </p>
       </th>
     </tr>
@@ -123,19 +126,19 @@ Il est envisageable de débloquer l’incitation à l’atteinte d’un grade \(
   <thead>
     <tr>
       <th style="text-align:left">
-        <p><b>Pour mettre en place une politique incitative il est nécessaire de définir le périmètre :</b>
+        <p><b>Pour mettre en place une politique incitative il est n&#xE9;cessaire de d&#xE9;finir le p&#xE9;rim&#xE8;tre :</b>
         </p>
         <ol>
           <li><b>Qui - le choix du destinataire.</b>
           </li>
-          <li><b>Quand - la période débloquant une incitation.</b>
+          <li><b>Quand - la p&#xE9;riode d&#xE9;bloquant une incitation.</b>
           </li>
-          <li><b>Où - la zone géographique donnant droit à une incitation.</b>
+          <li><b>O&#xF9; - la zone g&#xE9;ographique donnant droit &#xE0; une incitation.</b>
           </li>
           <li><b>Comment - le format des incitations.</b>
           </li>
         </ol>
-        <p><b>D’une manière générale, nous vous conseillons d’aller au plus simple et d’expérimenter sur des formats courts quitte à changer la politique à l’issue d’une première période d’expérimentation. Par exemple : incitation du covoitureur et passager sur les trajets dont l’origine et/ou la destination sont compris dans le territoire via une place de stationnement pour les preuves de confiance forte, 1€ par trajet pour les preuves dites intermédiaire et 0,50€ pour les preuves dont l’indice de confiance est faible.  </b>
+        <p><b>D&#x2019;une mani&#xE8;re g&#xE9;n&#xE9;rale, nous vous conseillons d&#x2019;aller au plus simple et d&#x2019;exp&#xE9;rimenter sur des formats courts quitte &#xE0; changer la politique &#xE0; l&#x2019;issue d&#x2019;une premi&#xE8;re p&#xE9;riode d&#x2019;exp&#xE9;rimentation. Par exemple : incitation du covoitureur et passager sur les trajets dont l&#x2019;origine et/ou la destination sont compris dans le territoire via une place de stationnement pour les preuves de confiance forte, 1&#x20AC; par trajet pour les preuves dites interm&#xE9;diaire et 0,50&#x20AC; pour les preuves dont l&#x2019;indice de confiance est faible.  </b>
         </p>
       </th>
     </tr>

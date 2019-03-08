@@ -6,7 +6,7 @@ description: >-
 
 # Juridique
 
-![CIn&#xE9;m](https://lh6.googleusercontent.com/P_7QOewgJOOaQbyODBFF4a4DFjkXknTrBCt4KZ-4WcshOMgVIJVcc0Upc3Khst1nsXbatnsQrmpeQ503l5Xmxx1pevrU8o6E58wJa5caOf7i45F-u26SIbUFNc4TFbGhmACxJT1-)
+![Cin&#xE9;matique](https://lh6.googleusercontent.com/P_7QOewgJOOaQbyODBFF4a4DFjkXknTrBCt4KZ-4WcshOMgVIJVcc0Upc3Khst1nsXbatnsQrmpeQ503l5Xmxx1pevrU8o6E58wJa5caOf7i45F-u26SIbUFNc4TFbGhmACxJT1-)
 
 ## **Etape 1 & 2** 
 
@@ -25,27 +25,30 @@ Sur ces deux étapes, les obligations juridiques de la part des opérateurs sont
       <th style="text-align:left">
         <p><b>Exemple de bonne pratique</b>
         </p>
-        <p>Veuillez noter que les informations et données suivantes pourront faire
-          l’objet d’un traitement informatisé :</p>
+        <p>Veuillez noter que les informations et donn&#xE9;es suivantes pourront
+          faire l&#x2019;objet d&#x2019;un traitement informatis&#xE9; :</p>
         <ul>
-          <li>A compléter.</li>
+          <li>A compl&#xE9;ter.</li>
         </ul>
-        <p>Ce traitement informatisé est destiné à faciliter la distribution d’incitation
-          monétaire ou non monétaires en votre faveur. Le seul destinataire des données
-          est la mission Incubateur de Services Numériques au sein de la Direction
-          Interministérielle du Numérique et du Système d'Information et de Communication,
-          dénommée “DINSIC” ainsi que l’Autorité Organisatrice de la Mobilité compétente
-          .
+        <p>Ce traitement informatis&#xE9; est destin&#xE9; &#xE0; faciliter la distribution
+          d&#x2019;incitation mon&#xE9;taire ou non mon&#xE9;taires en votre faveur.
+          Le seul destinataire des donn&#xE9;es est la mission Incubateur de Services
+          Num&#xE9;riques au sein de la Direction Interminist&#xE9;rielle du Num&#xE9;rique
+          et du Syst&#xE8;me d&apos;Information et de Communication, d&#xE9;nomm&#xE9;e
+          &#x201C;DINSIC&#x201D; ainsi que l&#x2019;Autorit&#xE9; Organisatrice de
+          la Mobilit&#xE9; comp&#xE9;tente .
           <br />
-          <br />Conformément à la loi relative à l’informatique, aux fichiers et aux libertés
-          du 6 janvier 1978 modifiée, vous bénéficiez d’un droit d’accès, de rectification
+          <br />Conform&#xE9;ment &#xE0; la loi relative &#xE0; l&#x2019;informatique,
+          aux fichiers et aux libert&#xE9;s du 6 janvier 1978 modifi&#xE9;e, vous
+          b&#xE9;n&#xE9;ficiez d&#x2019;un droit d&#x2019;acc&#xE8;s, de rectification
           et de suppression des informations qui vous concernent. Si vous souhaitez
           exercer ce droit et obtenir communication des informations vous concernant,
-          veuillez vous adresser à ………………………………
-          <br />
+          veuillez vous adresser &#xE0; &#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;
+          <br
+          />
         </p>
-        <p>Vous pouvez également, pour des motifs légitimes, vous opposer au traitement
-          des données vous concernant.
+        <p>Vous pouvez &#xE9;galement, pour des motifs l&#xE9;gitimes, vous opposer
+          au traitement des donn&#xE9;es vous concernant.
           <br />
         </p>
       </th>
@@ -76,14 +79,15 @@ Les données personnelles amenées à être collectées et traitées dans le cad
   <thead>
     <tr>
       <th style="text-align:left">
-        <p><b>Remarque : différence entre collecte et exposition de données personnelles</b>
+        <p><b>Remarque : diff&#xE9;rence entre collecte et exposition de donn&#xE9;es personnelles</b>
         </p>
-        <p>Il existe une différence entre collecter des données personnelles et les
-          exposer. La mission Incubateur de Services Numériques, collecte dans le
-          cadre de son service quelques données personnelles. Ces données sont nécessaires
-          à l’exercice de notre mission. Les données collectées ne seront pas exposées
-          de la même manière aux usagers (organismes incitateurs) du registre. Ceci
-          est explicité dans les mentions de l’étape 5.</p>
+        <p>Il existe une diff&#xE9;rence entre collecter des donn&#xE9;es personnelles
+          et les exposer. La mission Incubateur de Services Num&#xE9;riques, collecte
+          dans le cadre de son service quelques donn&#xE9;es personnelles. Ces donn&#xE9;es
+          sont n&#xE9;cessaires &#xE0; l&#x2019;exercice de notre mission. Les donn&#xE9;es
+          collect&#xE9;es ne seront pas expos&#xE9;es de la m&#xEA;me mani&#xE8;re
+          aux usagers (organismes incitateurs) du registre. Ceci est explicit&#xE9;
+          dans les mentions de l&#x2019;&#xE9;tape 5.</p>
       </th>
     </tr>
   </thead>
@@ -146,14 +150,16 @@ La mission Incubateur de Services Numériques propose un modèle de convention s
   <thead>
     <tr>
       <th style="text-align:left">
-        <p><b>Article L3132-1 - Créé par LOI n°2015-992 du 17 août 2015 - art. 52 (V)</b>
+        <p><b>Article L3132-1 - Cr&#xE9;&#xE9; par LOI n&#xB0;2015-992 du 17 ao&#xFB;t 2015 - art. 52 (V)</b>
         </p>
-        <p>Le covoiturage se définit comme l'utilisation en commun d'un véhicule
-          terrestre à moteur par un conducteur et un ou plusieurs passagers, effectuée
-          à titre non onéreux, excepté le partage des frais, dans le cadre d'un déplacement
-          que le conducteur effectue pour son propre compte. Leur mise en relation,
-          à cette fin, peut être effectuée à titre onéreux et n'entre pas dans le
-          champ des professions définies à l'article L. 1411-1.</p>
+        <p>Le covoiturage se d&#xE9;finit comme l&apos;utilisation en commun d&apos;un
+          v&#xE9;hicule terrestre &#xE0; moteur par un conducteur et un ou plusieurs
+          passagers, effectu&#xE9;e &#xE0; titre non on&#xE9;reux, except&#xE9; le
+          partage des frais, dans le cadre d&apos;un d&#xE9;placement que le conducteur
+          effectue pour son propre compte. Leur mise en relation, &#xE0; cette fin,
+          peut &#xEA;tre effectu&#xE9;e &#xE0; titre on&#xE9;reux et n&apos;entre
+          pas dans le champ des professions d&#xE9;finies &#xE0; l&apos;article L.
+          1411-1.</p>
       </th>
     </tr>
   </thead>
@@ -213,21 +219,23 @@ La distribution d’incitation entre la collectivité et l’opérateur s’appu
   <thead>
     <tr>
       <th style="text-align:left">
-        <p><b>Article 9-1 de la loi n° 2000-321 du 12 avril 2000</b>
+        <p><b>Article 9-1 de la loi n&#xB0; 2000-321 du 12 avril 2000</b>
         </p>
-        <p>Constituent des subventions, au sens de la présente loi, les contributions
-          facultatives de toute nature, valorisées dans l'acte d'attribution, décidées
-          par les autorités administratives et les organismes chargés de la gestion
-          d'un service public industriel et commercial, justifiées par un intérêt
-          général et destinées à la réalisation d'une action ou d'un projet d'investissement,
-          à la contribution au développement d'activités ou au financement global
-          de l'activité de l'organisme de droit privé bénéficiaire. Ces actions,
-          projets ou activités sont initiés, définis et mis en œuvre par les organismes
-          de droit privé bénéficiaires.
+        <p>Constituent des subventions, au sens de la pr&#xE9;sente loi, les contributions
+          facultatives de toute nature, valoris&#xE9;es dans l&apos;acte d&apos;attribution,
+          d&#xE9;cid&#xE9;es par les autorit&#xE9;s administratives et les organismes
+          charg&#xE9;s de la gestion d&apos;un service public industriel et commercial,
+          justifi&#xE9;es par un int&#xE9;r&#xEA;t g&#xE9;n&#xE9;ral et destin&#xE9;es
+          &#xE0; la r&#xE9;alisation d&apos;une action ou d&apos;un projet d&apos;investissement,
+          &#xE0; la contribution au d&#xE9;veloppement d&apos;activit&#xE9;s ou au
+          financement global de l&apos;activit&#xE9; de l&apos;organisme de droit
+          priv&#xE9; b&#xE9;n&#xE9;ficiaire. Ces actions, projets ou activit&#xE9;s
+          sont initi&#xE9;s, d&#xE9;finis et mis en &#x153;uvre par les organismes
+          de droit priv&#xE9; b&#xE9;n&#xE9;ficiaires.
           <br />
-          <br />Ces contributions ne peuvent constituer la rémunération de prestations
-          individualisées répondant aux besoins des autorités ou organismes qui les
-          accordent.</p>
+          <br />Ces contributions ne peuvent constituer la r&#xE9;mun&#xE9;ration de prestations
+          individualis&#xE9;es r&#xE9;pondant aux besoins des autorit&#xE9;s ou organismes
+          qui les accordent.</p>
       </th>
     </tr>
   </thead>
@@ -248,9 +256,9 @@ De ce fait, des personnes de droit public et de droit privé peuvent se retrouve
   <thead>
     <tr>
       <th style="text-align:left">
-        <p><a href="https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&amp;idTexte=CETATEXT000021924812"><b>CE, 3 mars 2010, Dpt de la Corrèze, n° 306911</b></a>
+        <p><a href="https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&amp;idTexte=CETATEXT000021924812"><b>CE, 3 mars 2010, Dpt de la Corr&#xE8;ze, n&#xB0; 306911</b></a>
         </p>
-        <p><b>« les personnes publiques sont chargées d’assurer les activités nécessaires à la réalisation des missions de service public dont elles sont investies et bénéficient à cette fin de prérogatives de puissance publique ; qu’en outre, si elles entendent, indépendamment de ces missions, prendre en charge une activité économique, elles ne peuvent légalement le faire que dans le respect tant de la liberté du commerce et de l’industrie que du droit de la concurrence ».</b>
+        <p><b>&#xAB; les personnes publiques sont charg&#xE9;es d&#x2019;assurer les activit&#xE9;s n&#xE9;cessaires &#xE0; la r&#xE9;alisation des missions de service public dont elles sont investies et b&#xE9;n&#xE9;ficient &#xE0; cette fin de pr&#xE9;rogatives de puissance publique ; qu&#x2019;en outre, si elles entendent, ind&#xE9;pendamment de ces missions, prendre en charge une activit&#xE9; &#xE9;conomique, elles ne peuvent l&#xE9;galement le faire que dans le respect tant de la libert&#xE9; du commerce et de l&#x2019;industrie que du droit de la concurrence &#xBB;.</b>
         </p>
       </th>
     </tr>
@@ -277,23 +285,24 @@ Les procédures de sélection des bénéficiaires de la subvention peuvent varie
       <th style="text-align:left">
         <p><b>Remarques</b>
         </p>
-        <p><b></b>
-        </p>
-        <p>Lorsque le demandeur est une association, la demande est présentée selon
-          un formulaire unique dont les caractéristiques sont précisées par décret
-          <a
-          href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030921208&amp;categorieLien=id">(article 7 de l’ordonnance n° 2015-904 du 23 juillet 2015</a>).</p>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p>Lorsque le demandeur est une association, la demande est pr&#xE9;sent&#xE9;e
+          selon un formulaire unique dont les caract&#xE9;ristiques sont pr&#xE9;cis&#xE9;es
+          par d&#xE9;cret <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030921208&amp;categorieLien=id">(article 7 de l&#x2019;ordonnance n&#xB0; 2015-904 du 23 juillet 2015</a>).</p>
         <p></p>
-        <p>Lorsque le montant dépasse un seuil fixé par décret (23 000 euros en vertu
-          du décret n° 2001-495 du 6 juin 2001), l’organisme qui attribue la subvention
-          doit conclure une convention avec l’organisme de droit privé qui en bénéficie,
-          définissant l’objet, le montant, les modalités de versement et les conditions
-          d’utilisation de la subvention attribuée (<a href="https://www.legifrance.gouv.fr/affichTexteArticle.do?cidTexte=JORFTEXT000000215117&amp;idArticle=LEGIARTI000006529194&amp;dateTexte=&amp;categorieLien=cid">art. 10 de la loi n° 2000-321 du 12 avril 2000</a>).</p>
+        <p>Lorsque le montant d&#xE9;passe un seuil fix&#xE9; par d&#xE9;cret (23
+          000 euros en vertu du d&#xE9;cret n&#xB0; 2001-495 du 6 juin 2001), l&#x2019;organisme
+          qui attribue la subvention doit conclure une convention avec l&#x2019;organisme
+          de droit priv&#xE9; qui en b&#xE9;n&#xE9;ficie, d&#xE9;finissant l&#x2019;objet,
+          le montant, les modalit&#xE9;s de versement et les conditions d&#x2019;utilisation
+          de la subvention attribu&#xE9;e (<a href="https://www.legifrance.gouv.fr/affichTexteArticle.do?cidTexte=JORFTEXT000000215117&amp;idArticle=LEGIARTI000006529194&amp;dateTexte=&amp;categorieLien=cid">art. 10 de la loi n&#xB0; 2000-321 du 12 avril 2000</a>).</p>
         <p></p>
-        <p>D’autre part, il est de coutume, de déterminer le montant de la subvention,
-          sur des critères comme la santé financière des bénéficiaires, c’est à dire
-          les réserves, liquidités, besoins en fonds de roulement, etc. Ce critère
-          vise à prévenir des difficultés potentielles en cas d’arrêt de la subvention.</p>
+        <p>D&#x2019;autre part, il est de coutume, de d&#xE9;terminer le montant
+          de la subvention, sur des crit&#xE8;res comme la sant&#xE9; financi&#xE8;re
+          des b&#xE9;n&#xE9;ficiaires, c&#x2019;est &#xE0; dire les r&#xE9;serves,
+          liquidit&#xE9;s, besoins en fonds de roulement, etc. Ce crit&#xE8;re vise
+          &#xE0; pr&#xE9;venir des difficult&#xE9;s potentielles en cas d&#x2019;arr&#xEA;t
+          de la subvention.</p>
       </th>
     </tr>
   </thead>
@@ -304,13 +313,13 @@ Les procédures de sélection des bénéficiaires de la subvention peuvent varie
   <thead>
     <tr>
       <th style="text-align:left">
-        <p><b>L’article  107 § 1 TFUE</b>
+        <p><b>L&#x2019;article  107 &#xA7; 1 TFUE</b>
         </p>
-        <p>Sauf dérogations prévues par les traités, sont <b>incompatibles </b>avec
-          le marché intérieur, dans la
-          <br />mesure où elles affectent les échanges entre États membres, les aides
-          accordées par les États ou au moyen de ressources d'État sous quelque forme
-          que ce soit <b>qui faussent ou qui menacent de fausser la concurrence en favorisant certaines entreprises ou certaines productions.</b>
+        <p>Sauf d&#xE9;rogations pr&#xE9;vues par les trait&#xE9;s, sont <b>incompatibles </b>avec
+          le march&#xE9; int&#xE9;rieur, dans la
+          <br />mesure o&#xF9; elles affectent les &#xE9;changes entre &#xC9;tats membres,
+          les aides accord&#xE9;es par les &#xC9;tats ou au moyen de ressources d&apos;&#xC9;tat
+          sous quelque forme que ce soit <b>qui faussent ou qui menacent de fausser la concurrence en favorisant certaines entreprises ou certaines productions.</b>
         </p>
       </th>
     </tr>
@@ -332,15 +341,15 @@ Puisque la subvention est affectée à une dépense déterminée, l’opérateur
         <p><b>Pour aller plus loin</b>
         </p>
         <ul>
-          <li><a href="http://www.conseil-etat.fr/Decisions-Avis-Publications/Etudes-Publications/Guide-des-outils-d-action-economique"><b>Guide des outils d’action économique - Conseil d’Etat</b></a>
+          <li><a href="http://www.conseil-etat.fr/Decisions-Avis-Publications/Etudes-Publications/Guide-des-outils-d-action-economique"><b>Guide des outils d&#x2019;action &#xE9;conomique - Conseil d&#x2019;Etat</b></a>
           </li>
-          <li><a href="http://www.conseil-etat.fr/content/download/47301/413092/version/10/file/F1%20liens.pdf"><b>Fiche 1 -  Fiscalité incitative - Décembre 2018 - Conseil d’Etat</b></a>
+          <li><a href="http://www.conseil-etat.fr/content/download/47301/413092/version/10/file/F1%20liens.pdf"><b>Fiche 1 -  Fiscalit&#xE9; incitative - D&#xE9;cembre 2018 - Conseil d&#x2019;Etat</b></a>
           </li>
-          <li><a href="http://www.conseil-etat.fr/content/download/47302/413095/version/9/file/F2%20liens.pdf"><b>Fiche 2 - Les subventions - Décembre 2018 - Conseil d’Etat</b></a>
+          <li><a href="http://www.conseil-etat.fr/content/download/47302/413095/version/9/file/F2%20liens.pdf"><b>Fiche 2 - Les subventions - D&#xE9;cembre 2018 - Conseil d&#x2019;Etat</b></a>
           </li>
-          <li><a href="https://www.economie.gouv.fr/files/files/directions_services/daj/publications/vademecum_aides_etat-2016/pdf-vade-mecum-aides-etat/Fiche-1.pdf"><b>Fiche 1 - La notion d’aide d’Etat - Page 16 - Point 2.3 - Une aide affectant la concurrence</b></a><b>  </b>
+          <li><a href="https://www.economie.gouv.fr/files/files/directions_services/daj/publications/vademecum_aides_etat-2016/pdf-vade-mecum-aides-etat/Fiche-1.pdf"><b>Fiche 1 - La notion d&#x2019;aide d&#x2019;Etat - Page 16 - Point 2.3 - Une aide affectant la concurrence</b></a><b>  </b>
           </li>
-          <li><a href="https://www.associations.gouv.fr/IMG/pdf/guide_subvention.pdf"><b>Guide d’usage de la subvention - Ministère de l’éducation nationale - 2017-2018</b></a>
+          <li><a href="https://www.associations.gouv.fr/IMG/pdf/guide_subvention.pdf"><b>Guide d&#x2019;usage de la subvention - Minist&#xE8;re de l&#x2019;&#xE9;ducation nationale - 2017-2018</b></a>
           </li>
         </ul>
       </th>
