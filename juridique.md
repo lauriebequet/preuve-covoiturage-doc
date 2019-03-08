@@ -6,7 +6,7 @@ description: >-
 
 # Juridique
 
-![Cin&#xE9;matique](https://lh6.googleusercontent.com/P_7QOewgJOOaQbyODBFF4a4DFjkXknTrBCt4KZ-4WcshOMgVIJVcc0Upc3Khst1nsXbatnsQrmpeQ503l5Xmxx1pevrU8o6E58wJa5caOf7i45F-u26SIbUFNc4TFbGhmACxJT1-)
+![CIn&#xE9;m](https://lh6.googleusercontent.com/P_7QOewgJOOaQbyODBFF4a4DFjkXknTrBCt4KZ-4WcshOMgVIJVcc0Upc3Khst1nsXbatnsQrmpeQ503l5Xmxx1pevrU8o6E58wJa5caOf7i45F-u26SIbUFNc4TFbGhmACxJT1-)
 
 ## **Etape 1 & 2** 
 
