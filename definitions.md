@@ -6,7 +6,7 @@
 
 **Autorité Organisatrice de la Mobilité \(AOM\)** - elle désigne un territoire ayant une compétence d’organisation du réseau de transport urbain.
 
-**Campagne de distribution d'incitations** - Action de distribuer des incitations à une liste de trajets concernés par une politique d'incitation sur une période donnée. Une campagne peut être périodique ou ponctuelle. Elle est le plus souvent initiée par une AOM.
+**Campagne de distribution d'incitations** - action de distribuer des incitations à une liste de trajets concernés par une politique d'incitation sur une période donnée. Une campagne peut être périodique ou ponctuelle. Elle est le plus souvent initiée par une AOM.
 
 **Conducteur** - cela désigne la personne mettant à disposition son véhicule à des fins de covoiturage.
 
@@ -24,9 +24,9 @@
 
 **Passager** - cela désigne la personne transportée par le Conducteur à des fins de Covoiturage.
 
-**Politique d'incitation** - Critères de sélection de trajets covoiturés et règles de calcul permettant de lier une action de covoiturage à une incitation.
+**Politique d'incitation** - critères de sélection de trajets covoiturés et règles de calcul permettant de lier une action de covoiturage à une incitation.
 
-**Preuve de covoiturage** - Couple conducteur-passager contenant les informations d'un trajet effectué. Envoyé par l'opérateur de covoiturage, cette preuve peut être invalidée par le registre en cas d'anomalie.
+**Preuve de covoiturage** - couple conducteur-passager contenant les informations d'un trajet effectué. Envoyé par l'opérateur de covoiturage, cette preuve peut être invalidée par le registre en cas d'anomalie.
 
 **Responsable du traitement** - mission Incubateur de Services Numériques
 
