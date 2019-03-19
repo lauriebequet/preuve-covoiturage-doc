@@ -19,7 +19,8 @@ Il est possible durant la phase d’expérimentation d’envoyer les données à
 Note ¹ : les champs de position sont requis de la manière suivante : lat/lon **OU** insee **OU** literal.
 
 ```text
-journey_id                         // String <required>
+journey_id                         // String <required|unique>
+operator_journey_id                // String
 operator_class                     // String <required : A, B, C>
 passenger.identity.firstname       // String
 passenger.identity.lastname        // String
@@ -39,6 +40,7 @@ passenger.end.insee                // String <required ¹>
 passenger.end.literal              // String <required ¹>
 passenger.seats                    // Number
 passenger.cost                     // Number
+passenger.incentive                // Number
 passenger.distance                 // Number
 passenger.duration                 // Number
 driver.identity.firstname          // String
@@ -57,6 +59,7 @@ driver.end.lon                     // Number <required ¹>
 driver.end.insee                   // String <required ¹>
 driver.end.literal                 // String <required ¹>
 driver.cost                        // Number
+driver.incentive                   // Number
 driver.distance                    // Number
 driver.duration                    // Number
 ```
