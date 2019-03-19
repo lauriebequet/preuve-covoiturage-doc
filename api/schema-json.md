@@ -29,22 +29,23 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 > Au minimum une propriété doit être renseignée \(ou deux pour le couple lon/lat\).
 
 * `passenger.seats` : Nombre de sièges réservés par l'occupant. Défault : 1
-* `passenger.cost` : Coût du service avant subventions, promotions, etc.
-* `passenger.operator_subsidy` : Subvention ou promotion donnée par l'opérateur de covoiturage
+* `{driver|passenger}.cost` : Coût du service avec incitations, promotions, etc.
+* `{passenger}.incentive` : Incitation ou promotion donnée par l'opérateur de covoiturage
 
-> Le montant payé par l'occupant est égal à `cost - operator_subsidy`. Il est important d'avoir l'information de coût du trajet afin de s'assurer que la somme de toutes les subventions apportées par les différents organismes \(opérateurs, AOM, etc.\) n'est pas supérieure au coût.
+> Le montant payé \( `remaining_fee` \) par l'occupant est égal à `cost - incentive`. Il est important d'avoir l'information de coût du trajet afin de s'assurer que la somme de toutes les incitations apportées par les différents organismes \(opérateurs, AOM, etc.\) n'est pas supérieure au coût.
 >
-> Le coût pour le conducteur sera calculé sur la base du barême kilométrique pondéré \(0,552€ / km\).  
+> Le coût pour le conducteur sera calculé sur la base du barème kilométrique pondéré \(0,552€ / km\).  
 > Seuls les kilomètres covoiturés seront pris en compte.
 
-* `{passenger|driver}.distance` : Distance entre `start` et `end` en mètres \(10km -&gt; 10000\)
-* `{passenger|driver}.duration` : Durée du trajet entre `start` et `end` en secondes \(25min -&gt; 1500\)
+* `{passenger|driver}.distance` : Distance entre `start` et `end` en mètres \(10km = 10000\)
+* `{passenger|driver}.duration` : Durée du trajet entre `start` et `end` en secondes \(25min = 1500\)
 
 ## Schema JSON
 
 ```javascript
 {
-    journey_id: <String|Number> * // operator given ID
+    journey_id: <String|Number> * // operator given ID - unique !
+    operator_journey_id: <String> // operator ID for the trip (1 driver, many passengers)
     operator_class: <String> * // type of proof (A, B, C)
     passenger: {
         identity: {
@@ -71,7 +72,7 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
         }
         seats: <Number> // number of seats booked by the user (default: 1)
         cost: <Number> // cost in Euro cents ex: 10€ -> 1000
-        operator_subsidy: <Number> // subsidy in Euro cents ex: 10€ -> 1000
+        incentive: <Number> // subsidy in Euro cents ex: 10€ -> 1000
         distance: <Number> // meters
         duration: <Number> // seconds
     }
@@ -99,6 +100,8 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
         }
         distance: <Number> // meters
         duration: <Number> // seconds
+        cost: <Number> // cost in Euro cents ex: 10€ -> 1000
+        incentive: <Number> // subsidy in Euro cents ex: 10€ -> 1000
     }
 }
 ```
