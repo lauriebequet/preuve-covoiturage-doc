@@ -4,7 +4,7 @@
 * [Présentation](presentation.md)
 * [Définitions](definitions.md)
 * [Juridique](juridique.md)
-* [CGU](cgu.md)
+* [CGU - Conditions Générales d’Utilisation](cgu.md)
 
 ## API
 
