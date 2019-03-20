@@ -109,10 +109,9 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
             insee: <String> // use String
             literal: <String> // human readable adresse
         }
-        distance: <Number> // meters
-        duration: <Number> // seconds
         revenue: <Number> * // revenue in Euro cents ex: 10€ -> 1000 
-        incentive: <Number> // subsidy in Euro cents ex: 10€ -> 1000
+        distance: <Number> // meters
+        duration: <Number> // seconds    
     }
 }
 ```
