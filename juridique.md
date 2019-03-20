@@ -339,6 +339,39 @@ Les procédures de sélection des bénéficiaires de la subvention peuvent varie
 Puisque la subvention est affectée à une dépense déterminée, l’opérateur de covoiturage bénéficiaire doit produire un compte rendu financier qui atteste de la conformité des dépenses effectuées à l’objet de la subvention. Le compte rendu financier est déposé auprès de l’autorité qui a versé la subvention dans les six mois suivant la fin de l’exercice pour lequel elle a été attribuée.  
 
 
+### **Une AOM peut-elle finalement ne pas appliquer sa politique et ne pas donner son incitation ?**
+
+Si une AOM décide d’annuler sa politique incitative, il lui faudra prendre une décision de son organe délibérant et traiter cette décision avec l’ensemble des parties prenantes \(et surtout les opérateurs\). La décision de suspension ou d’annulation devra évidemment être motivée.
+
+Cas de figure où l’AOM ne serait plus en mesure de verser l’incitation, parce que le plafond prévu par l’incitation a été dépassé. Ce cas de figure, où l’AOM serait victime de son succès, est un scénario perdant-perdant. D’abord l’AOM devrait motiver le rejet \(le plafond est atteint\), ensuite l’opérateur devrait gérer sa relation contractuelle avec le\(s\) covoitureur\(s\). C’est l’opérateur qui, dans ce cas de figure, serait amené à expliquer à l’utilisateur “l’erreur de prix” \(si le tarif de l’itinéraire était calculé en intégrant l’incitation au moment de la mise en relation\) et aviser de sa politique commerciale.
+
+Pour éviter ce cas de figure, il est prévu la création d’un double-dispositif d’alerte, d’une part en proposant la faculté pour l’AOM d’informer l’ensemble des partenaires du niveau de consommation de l’enveloppe, d’autre part le registre étant lui-même destinataire de la politique d’incitation et de son mode de calcul, nous intégrerons un système de suivi de la consommation. Le registre pourra ainsi être interrogé pour connaître la consommation de l’enveloppe. Cette fonctionnalité pourra également être intégrée à l’API.
+
+### **Peut-on faire remonter le nom de l’opérateur à une AOM, bien qu’ils ne soient pas partenaires ?**
+
+L’objectif du registre est également de solidifier la construction juridique de la politique incitative, il nous semble indispensable de montrer à l’AOM quel taux de couverture représente sa politique incitative en matière de trajets covoiturés sur le territoire et surtout pour garantir que les partenariats noués sont conformes aux pratiques concurrentielles.  
+
+Par ailleurs, dès lors qu’une administration \(au sens de toute personne morale chargée d’une mission de service public\) produit ou reçoit des informations, [ces dernières sont qualifiées de “documents administratifs”](https://www.legifrance.gouv.fr/affichCode.do;jsessionid=6F971C1F0C109E09375997CB2CF79242.tplgfr44s_1?idSectionTA=LEGISCTA000031367685&cidTexte=LEGITEXT000031366350&dateTexte=20190318). Ces documents connaissent deux régimes juridiques différents, le premier relatif à la communication de ces informations, le second relatif à leur réutilisation. Ainsi pour exercer sa mission de service public, l’AOM pourra accéder à une photographie de l’ensemble des trajets connus sur son territoire accompagnée des acteurs en présence \(qu’ils soient ou non partenaires\), ces informations sont nécessaires pour mieux connaître l’usage du covoiturage sur le territoire concerné. Néanmoins, la [réutilisation de ces informations](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000033219044&idSectionTA=LEGISCTA000032255212&cidTexte=LEGITEXT000031366350&dateTexte=20190318) devra obligatoirement respecter les règles au [Livre III du code des relations entre le public et l’administration](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000033218946&idSectionTA=LEGISCTA000031367696&cidTexte=LEGITEXT000031366350&dateTexte=20190318#LEGIARTI000037269056). Par exemple, avant de réutiliser ces informations en vue d’en faire un support de communication ou plus généralement toute réutilisation visant à diffuser ces informations, l’AOM devra s’assurer que cette diffusion n’est pas susceptible de porter atteinte au secret des affaires, lequel comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou industrielles des différents opérateurs. En cas de doute, l’AOM est invitée à prendre contact avec le ou les opérateurs concernés.
+
+### **Que signifie que la plateforme est open-source ? Est-ce que les données sont ouvertes ?**
+
+Attention, il ne faut pas confondre “open source” et “open data”.
+
+L’open-source s'applique aux[ logiciels](https://fr.wikipedia.org/wiki/Logiciel) dont la[ licence](https://fr.wikipedia.org/wiki/Licence_de_logiciel) respecte des critères précisément établis par l'[Open Source Initiative](https://fr.wikipedia.org/wiki/Open_Source_Initiative), c'est-à-dire les possibilités de libre redistribution, d'accès au[ code source](https://fr.wikipedia.org/wiki/Code_source) et de création de travaux dérivés. Mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs. \([Wikipédia](https://fr.wikipedia.org/wiki/Open_source)\). En France, l’ensemble des codes-sources développés par les administrations doivent être ouverts \(sauf rares exceptions\), le registre de preuve de covoiturage est donc “open source”.
+
+L’open data consiste à ouvrir, c’est-à-dire diffuser, des informations permettant notamment de garantir la transparence administrative. Les administrations sont dans l’obligation de diffuser les informations publiques qu’elles produisent ou reçoivent. L’ouverture de ces données est soumise à un cadre précis, la diffusion de ces données ne devant porter atteinte ni à la protection de la vie privée, ni au secret des affaires. Ainsi, nous veillerons à traiter l’ensemble des informations avant leur publication. Dès lors, seront ouvertes des données relatives à l’usage de la plateforme, aux trajets effectués, le cas échéant après avoir fait l’objet d’un traitement permettant une publication conforme \(anonymisation, agrégation, etc.\).  
+****
+
+### **Si je ne suis pas dans le cadre du triptyque Opérateur, Registre, AOM, comment faire ?**
+
+Si vous n’êtes pas couverts par le triptyque, c’est que vous intervenez comme un “tiers facilitateur”, vous devez donc être titulaire d’un mandat pour intervenir pour le compte d’un des acteurs du triptyque.
+
+Ainsi, une AOM peut déléguer à un tiers la gestion de sa/ses politique\(s\) incitative\(s\). Cette délégation peut prendre différentes formes juridiques \(délégation de service public, concession, mandat, contrat, etc.\). Dès lors que l’AOM ou le tiers auront été en mesure de prouver le lien juridique qui les unit, les équipes du registre pourront créer les accès aux nouvelles parties prenantes.
+
+### **Quel est le statut des attestations délivrées ?**
+
+A ce jour, les attestations délivrées par le registre sont un de nos chantiers pendants, elles n’ont donc pas de statut juridique précis. Elles pourront être utilisées par l’usager qui souhaiterait bénéficier des avantages proposés par la politique administrative. A noter qu’en droit administratif, la preuve s’apporte par tout moyen. Ainsi, l’attestation délivrée pourra être utilisée comme preuve des trajets réalisés, jusque dans le cas d’un recours contentieux.Les attestations ainsi délivrées pourront à terme prendre la forme d’une décision au sens de [l’article L. 200-1 du CRPA](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=6F971C1F0C109E09375997CB2CF79242.tplgfr44s_1?idArticle=LEGIARTI000031367495&cidTexte=LEGITEXT000031366350&dateTexte=20190318).
+
 <table>
   <thead>
     <tr>
