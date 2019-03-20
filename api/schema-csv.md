@@ -38,9 +38,8 @@ passenger.end.lat                  // Number <required ¹>
 passenger.end.lon                  // Number <required ¹>
 passenger.end.insee                // String <required ¹>
 passenger.end.literal              // String <required ¹>
-passenger.seats                    // Number
-passenger.cost                     // Number
-passenger.incentive                // Number
+passenger.seats                    // Number <required>
+passenger.contribution             // Number <required>
 passenger.distance                 // Number
 passenger.duration                 // Number
 driver.identity.firstname          // String
@@ -58,8 +57,7 @@ driver.end.lat                     // Number <required ¹>
 driver.end.lon                     // Number <required ¹>
 driver.end.insee                   // String <required ¹>
 driver.end.literal                 // String <required ¹>
-driver.cost                        // Number
-driver.incentive                   // Number
+driver.revenue                     // Number <required>
 driver.distance                    // Number
 driver.duration                    // Number
 ```
