@@ -14,7 +14,7 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 * `{passenger|driver}.email` : Email de l'occupant
 * `{passenger|driver}.phone`**\*** : Numéro de téléphone français au format ITU E.164 \(+33123456789\)
 * `{passenger|driver}.company` : Nom de l'organisation / entreprise
-* `passenger.over_18` : Le passager est majeur \(`TRUE`\) ou mineur \(`FALSE`\)
+* `passenger.over_18` : Le passager est majeur \(`TRUE`\) ou mineur \(`FALSE`\) ou non communiqué \(`NULL`\)
 * `{passenger|driver}.{start|end}.datetime` **\*** : Date et heure du départ/arrivée au format ISO 8601 \(YYYY-MM-DDThh:mm:ssZ\).
 
   L'heure est exprimée en UTC \(Coordinated Universal Time\). UTC n'est pas ajusté sur l'heure d'été et hiver !
