@@ -33,7 +33,7 @@ Les caractéristiques spécifiques des véhicules ne sont pas connus par le serv
 Un algorithme calcule ensuite le produit du nombre de kilomètres parcourus par le kep par kilomètre en fonction de la zone dans laquelle s’est réalisée le déplacement.  
 
 
-NB : La différenciation entre milieu dense urbain et extra-urbain n'est pas encore développée ainsi à l'heure actuelle les calculs sont effectués avec une approximation de 0,005 kep / km / véhicule particulier. 
+NB : La différenciation entre milieu dense urbain et extra-urbain n'est pas encore développée ainsi à l'heure actuelle les calculs sont effectués avec une approximation de 0,05 kep / km / véhicule particulier. 
 
 Un algorithme calcule ensuite le produit du nombre de kilomètres parcourus par le kep par kilomètre en fonction de la zone dans laquelle s’est réalisée le déplacement.  
 
