@@ -16,6 +16,10 @@
 
 * [Classes de preuve de covoiturage](specifications/classes-de-preuve-de-covoiturage.md)
 
+## Mode d'emploi
+
+* [Alimenter le registre via des tableurs](mode-demploi/alimenter-le-registre-via-des-tableurs.md)
+
 ## Boite à outils
 
 * [Compte rendu](boite-a-outils/compte-rendu.md)
