@@ -4,7 +4,7 @@
 
 Envoyer un trajet de covoiturage à l’API du Registre de Preuve de Covoiturage nécessite que plusieurs critères soient remplis.
 
-1. Une entité “opérateur de covoiturage” est créé sur l’application du registre. _Nb : cette opération est réalisée par un membre de l’équipe du Registre de Preuve de Covoiturage._
+1. Une entité “opérateur de covoiturage” est créée sur l’application du registre. _Nb : cette opération est réalisée par un membre de l’équipe du Registre de Preuve de Covoiturage._
 2. Un utilisateur appartenant à cet opérateur de covoiturage est administrateur. _Nb : la nomination du premier administrateur d’un opérateur de covoiturage est réalisée par un membre de l’équipe du Registre de Preuve de Covoiturage._
 3. L’administrateur opérateur crée un Token applicatif JWT.
 4. Ce Token applicatif est installé sur le serveur de l’opérateur qui va envoyer les données et sera passé dans le _Header_ de chaque requête.

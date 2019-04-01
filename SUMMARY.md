@@ -19,6 +19,7 @@
 ## Mode d'emploi
 
 * [Alimenter le registre via des tableurs](mode-demploi/alimenter-le-registre-via-des-tableurs.md)
+* [Définir une politique incitative dans l'interface AOM](mode-demploi/definir-une-politique-incitative-dans-linterface-aom.md)
 
 ## Boite à outils
 
