@@ -2,7 +2,16 @@
 description: Ce mode d'emploi est réservé aux administrateurs d'un compte AOM.
 ---
 
-# Définir une politique incitative dans l'interface AOM
+# Définir une politique d'incitation dans l'interface AOM
+
+## Principe
+
+Le registre de preuve de covoiturage propose aux AOM un module leur permettant d'automatiser la distribution des incitations directement dans leur interface. 
+
+Deux concepts à prendre en compte : 
+
+* **Politique incitative** : critères de sélection de trajets covoiturés et règles de calcul permettant de lier une action de covoiturage à une incitation.
+* **Campagne de distribution** : action de distribuer des incitations à une liste de trajets concernés par une politique d'incitation sur une période donnée. Une campagne peut être périodique ou ponctuelle. 
 
 ## Pré-requis
 
@@ -21,9 +30,23 @@ L’accès au Service en production est conditionné à la mise en place réelle
 
 Les[ CGU](../cgu.md) du service sont accessibles en ligne.
 
+**\[En construction\]**
 
+## Etape 1 - Se connecter au registre de preuve de covoiturage
 
 **\[En construction\]**
+
+## Etape 2 - Défini**r** une politique
+
+**\[En construction\]**
+
+## Etape 3 - Définir une campagne
+
+**\[En construction\]**
+
+
+
+\*\*\*\*
 
 
 
