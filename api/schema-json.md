@@ -46,7 +46,7 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 >
 > #### **Le registre procède ensuite aux calculs suivants :** 
 >
-> * `driver.expense` : Frais engagés par le conducteur selon le barème kilométrique \(0,552 euros / km\). Seuls les kilomètres covoiturés sont pris en compte.
+> * `driver.expense` : Frais engagés par le conducteur selon le barème kilométrique \(0,558 euros / km\). Seuls les kilomètres covoiturés sont pris en compte.
 > * `driver.cost` : `driver.expense - driver.revenue` : Coût pour le conducteur basé sur les frais engagés **après** avoir perçu les contributions des passagers, une possible incitation opérateur \(subventions, promotions, etc\) et prise de commission de l’opérateur.
 > * `passenger.cost` : `passenger.contribution / passenger.seats` : Coût pour un passager unique.
 > * **`driver.remaining_fee` : `driver.cost - driver.incentive`** : Somme restante à charge du conducteur **après** incitation de l'AOM.

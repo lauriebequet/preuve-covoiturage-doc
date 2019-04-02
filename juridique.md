@@ -164,28 +164,28 @@ Afin de permettre aux organismes incitateurs de se conformer à ce précepte, la
 
 Les frais peuvent être calculés d’après le barème kilométrique publié chaque année par l’administration fiscale ou au réel sur justificatifs. Collecter des justificatifs serait extrêmement complexe.
 
-La mission Incubateur de Services Numériques propose de calculer le montant maximum des frais partagés selon le barème kilométrique. Or, les caractéristiques spécifiques des véhicules ne sont pas connus par le service. La méthodologie consiste donc à appliquer une moyenne de 0,552 euros  / km. Cette moyenne est calculée selon les données transmises par le répertoire statistique des véhicules routiers \(Parc au 1er janvier 2018 des voitures particulières d'âge inférieur ou égal à 15 ans selon la classe de puissance administrative\) et présentées ci-dessous.
+La mission Incubateur de Services Numériques propose de calculer le montant maximum des frais partagés selon le barème kilométrique. Or, les caractéristiques spécifiques des véhicules ne sont pas connus par le service. La méthodologie consiste donc à appliquer une moyenne de 0,558 euros  / km. Cette moyenne est calculée selon les données transmises par le répertoire statistique des véhicules routiers \(Parc au 1er janvier 2018 des voitures particulières d'âge inférieur ou égal à 15 ans selon la classe de puissance administrative\) et présentées ci-dessous.
 
-| **Classe de puissance administrative** | **Nombre de véhicule** | **Part en %** | **Barème kilométrique 2018 \(&lt; 5000km\)** | **Barème km \* %** |
+| **Classe de puissance administrative** | **Nombre de véhicule** | **Part en %** | **Barème kilométrique 2019 \(&lt; 5000km\)** | **Barème km \* %** |
 | :--- | :--- | :--- | :--- | :--- |
-| **1 à 4 CV** | **7 596 614** | **23,73%** | **0,493** | **0,117** |
-| **5 CV** | **8 003 344** | **25,01%** | **0,543** | **0,1356** |
+| **1 à 4 CV** | **7 596 614** | **23,73%** | **0,518** | **0,123** |
+| **5 CV** | **8 003 344** | **25,01%** | **0,543** | **0,136** |
 | **6 CV** | **6 592 552** | **20,60%** | **0,568** | **0,117** |
-| **7 CV** | **3 648 487** | **11,40%** | **0,595** | **0,0678** |
-| **8 CV** | **2 631 017** | **8,22%** | **0,595** | **0,0489** |
+| **7 CV** | **3 648 487** | **11,40%** | **0,595** | **0,068** |
+| **8 CV** | **2 631 017** | **8,22%** | **0,595** | **0,049** |
 |  **9 CV** | **1 198 549** | **3,74%** | **0,595** | **0,022** |
 | **10 et 11 CV** | **1 129 878** | **3,53%** | **0,595** | **0,021** |
 | **12 CV et +** | **1 204 874** | **3,76%** | **0,595** | **0,022** |
 | **Non indiqué** | **762** | **0,00%** | **0,595** | **0,000** |
-|  **Total** | **32 006 077** | **100,00%** |  | **0,552 €/km** |
+|  **Total** | **32 006 077** | **100,00%** |  | **0,558 €/km** |
 
 ![](https://lh6.googleusercontent.com/4V3YI8kIpmWA6CFm3Xy0_UlETrP8Fcr5omjV0SE3K_k_GZLXOSpZyPzJ1vaqXWGZ6bLo5vzjl8eq7mU3nZs0gnJgNil-GhCHHw8coDnRLoIzSBu8CQuXQ-HWsa0xndGe-Q7STfEP)
 
 A titre d’exemple les frais partagés maximum pour les occupants du trajet présenté ci-dessus sont :
 
-* Conducteur : \(d1/ 2\)\*0,552€/km +\(d2/3\)\*0,552€/km  
-* Passager 1 : \(d1/ 2\)\*0,552€/km +\(d2/3\)\*0,552€/km
-* Passager 2 : \(d2/3\)\*0,552€/km
+* Conducteur : \(d1/ 2\)\*0,558€/km +\(d2/3\)\*0,558€/km  
+* Passager 1 : \(d1/ 2\)\*0,558€/km +\(d2/3\)\*0,558€/km
+* Passager 2 : \(d2/3\)\*0,558€/km
 
 <table>
   <thead>
