@@ -320,7 +320,7 @@ Les termes des présentes conditions d’utilisation peuvent être amendés à t
 
 ## **ANNEXE 3**
 
-**Description des classes présentes dans le Registre \(voir**[ **ici**](https://registre-preuve-de-covoiturage.gitbook.io/produit/~/edit/drafts/-LaPZWDRpdfC1EnIbaMK/specifications/classes-de-preuve-de-covoiturage)**\)**
+**Description des classes présentes dans le Registre \(voir** [**ici**](https://docs.google.com/spreadsheets/d/1Mjp1KqQDBw3_7noW66oatN2WqpgCkY-9Ov7JFfbIZYA/edit#gid=0)**\)**
 
 Le registre prend la forme d'une API qui permet à des opérateurs labellisés d’y faire converger des preuves de covoiturage. Chaque trajet se voit attribuer une classe en fonction des mécanismes et processus de vérification du trajet mis en place par l’opérateur de covoiturage.
 
