@@ -12,7 +12,7 @@
 
 **Covoiturage** - tel que défini par l’article L. 3132-1 du code des transports est « l’utilisation en commun d’un véhicule terrestre à moteur par un conducteur et un ou plusieurs passagers, effectuée à titre non onéreux, excepté le partage des frais, dans le cadre d’un déplacement que le conducteur effectue pour son propre compte. Leur mise en relation, à cette fin, peut être effectuée à titre onéreux \[…\] ». Il y a donc covoiturage dès le partage d’un trajet entre un conducteur et un passager.
 
-**Covoitureur** - cela désigne aussi bien le conducteur que le passager formant un équipage de covoiturage.
+**Covoitureur \(ou occupant\)** - cela désigne aussi bien le conducteur que le passager formant un équipage de covoiturage.
 
 **DINSIC** - **D**irection **I**nterministérielle du **N**umérique et du **S**ystème d'**I**nformation et de **C**ommunication.
 
