@@ -251,7 +251,7 @@ Dans le cas présent, nous sommes bien face à une subvention publique. Les opé
 
 ### **Une collectivité peut-elle inciter les usagers uniquement de plateformes publiques ?**
 
-Dans le rapport [CE, 18 mai 2015, Territoire de la Polynésie, n°254199](https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000008233023&fastReqId=525709450&fastPos=1), le Conseil d’Etat précise que “l’intérêt public justifiant l’intervention économique d’une collectivité territoriale peut être reconnu, pour certains services publics fondamentaux tels que celui des transports, alors même que l’initiative privée ne serait pas défaillante”
+Dans l'arrêt [CE, 18 mai 2015, Territoire de la Polynésie, n°254199](https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000008233023&fastReqId=525709450&fastPos=1), le Conseil d’Etat précise que “l’intérêt public justifiant l’intervention économique d’une collectivité territoriale peut être reconnu, pour certains services publics fondamentaux tels que celui des transports, alors même que l’initiative privée ne serait pas défaillante”
 
 De ce fait, des personnes de droit public et de droit privé peuvent se retrouver en compétition directe. Le droit de l’Union Européenne, qui est indifférent à la nature publique ou privée des opérateurs économiques, met en avant que le principe de la liberté du commerce et de l’industrie ne repose en fait plus sur un principe de non-concurrence, initialement affirmée, mais sur un principe d’égale concurrence. En conclusion, la création par une collectivité territoriale d’un service public marchand ne saurait être légale que si cette dernière n’utilise pas les avantages dont elle dispose pour dénaturer le jeu de la concurrence.
 
