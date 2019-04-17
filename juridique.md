@@ -374,7 +374,7 @@ A ce jour, les attestations délivrées par le registre sont un de nos chantiers
 
 
 
-## **Le versement d’une subvention publique pour un acte de covoiturage par le biais des opérateurs de covoiturage mène-t-il à la constitution d’une gestion de fait ?**
+### **Le versement d’une subvention publique pour un acte de covoiturage par le biais des opérateurs de covoiturage mène-t-il à la constitution d’une gestion de fait ?**
 
 <table>
   <thead>
