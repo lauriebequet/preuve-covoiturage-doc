@@ -372,6 +372,34 @@ Ainsi, une AOM peut déléguer à un tiers la gestion de sa/ses politique\(s\) i
 
 A ce jour, les attestations délivrées par le registre sont un de nos chantiers pendants, elles n’ont donc pas de statut juridique précis. Elles pourront être utilisées par l’usager qui souhaiterait bénéficier des avantages proposés par la politique administrative. A noter qu’en droit administratif, la preuve s’apporte par tout moyen. Ainsi, l’attestation délivrée pourra être utilisée comme preuve des trajets réalisés, jusque dans le cas d’un recours contentieux.Les attestations ainsi délivrées pourront à terme prendre la forme d’une décision au sens de [l’article L. 200-1 du CRPA](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=6F971C1F0C109E09375997CB2CF79242.tplgfr44s_1?idArticle=LEGIARTI000031367495&cidTexte=LEGITEXT000031366350&dateTexte=20190318).
 
+
+
+## **Le versement d’une subvention publique pour un acte de covoiturage par le biais des opérateurs de covoiturage mène-t-il à la constitution d’une gestion de fait ?**
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p><a href="https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=127F1C636DB1217257010663751C292E.tpdjo06v_3?cidTexte=JORFTEXT000000509290&amp;idArticle=JORFARTI000002072255&amp;dateTexte=19630224&amp;categorieLien=cid"><b>Article 60-XI de la loi de finances n&#xB0;63-156 du 23 F&#xE9;vrier 1963</b></a>
+        </p>
+        <p><b>Toute personne qui, sans avoir la qualit&#xE9; de comptable public ou sans agir sous contr&#xF4;le et pour le compte d&apos;un comptable public, s&apos;ing&#xE8;re dans le recouvrement de recettes affect&#xE9;es ou destin&#xE9;es &#xE0; un organisme public dot&#xE9; d&apos;un poste comptable ou d&#xE9;pendant d&apos;un tel poste doit, nonobstant les poursuites qui pourraient &#xEA;tre engag&#xE9;es devant les juridictions r&#xE9;pressives, rendre compte au juge financier de l&apos;emploi des fonds ou valeurs qu&apos;elle a irr&#xE9;guli&#xE8;rement d&#xE9;tenus ou mani&#xE9;s.</b>
+        </p>
+        <p><b>Il en est de m&#xEA;me pour toute personne qui re&#xE7;oit ou manie directement ou indirectement des fonds ou valeurs extraits irr&#xE9;guli&#xE8;rement de la caisse d&apos;un organisme public et pour toute personne qui, sans avoir la qualit&#xE9; de comptable public, proc&#xE8;de &#xE0; des op&#xE9;rations portant sur des fonds ou valeurs n&apos;appartenant pas aux organismes publics, mais que les comptables publics sont exclusivement charg&#xE9;s d&apos;ex&#xE9;cuter en vertu de la r&#xE9;glementation en vigueur.</b>
+        </p>
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>En d’autres termes, la gestion de fait fait référence au maniement de deniers publics par une personne n’ayant pas la qualité de comptable public. Il s’agit d’une violation du principe de séparation des ordonnateurs et des comptables. La constitution d’une gestion de fait assimile donc le gestionnaire à un comptable public devant rendre des comptes vis-à-vis de sa gestion dans les mêmes conditions d’un comptable public.
+
+Au niveau de la jurisprudence des Chambres régionales des comptes, il y a gestion de fait dans les cas suivants :
+
+* Lorsque l’objet réel du versement d’une subvention diffère de celui qui est annoncé, et vise à payer des dépenses irrégulières ;
+* Lorsque l’association exerce en réalité la gestion déléguée d’un service public sans en avoir la qualité : il est indispensable qu’une convention soit signée entre les parties.
+
+Dans le cas présent, une convention est signée entre les parties et le versement de la subvention est conditionné aux principes énoncés dans cette même convention. En conséquence, ceci ne constitue, a priori, pas une gestion de faits.  
+
+
 <table>
   <thead>
     <tr>
