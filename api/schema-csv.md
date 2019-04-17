@@ -28,6 +28,8 @@ passenger.identity.email           // String
 passenger.identity.phone           // String <required>
 passenger.identity.company         // String
 passenger.identity.over_18         // Boolean
+passenger.identity.card.name       // String
+passenger.identity.card.number     // String
 passenger.start.datetime           // Date as String <required>
 passenger.start.lat                // Number <required ¹>
 passenger.start.lon                // Number <required ¹>
