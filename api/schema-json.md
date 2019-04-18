@@ -15,7 +15,7 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 * `{passenger|driver}.phone`**\*** : Numéro de téléphone au format ITU E.164 \(+33123456789\)
 * `{passenger|driver}.company` : Nom de l'organisation / entreprise
 * `passenger.over_18` : Le passager est majeur \(`TRUE`\) ou mineur \(`FALSE`\) ou non communiqué \(`NULL`\)
-* `{passenger|driver}.card` : Carte de transport \(TCL, Navigo, Trabool, etc.\) possédée par l'occupant. Le numéro est obligatoire si information est disponible.
+* `{passenger|driver}.card` : Carte de transport \(TCL, Navigo, Trabool, etc.\) possédée par l'occupant. Le numéro est obligatoire si l'information est disponible.
 * `{passenger|driver}.{start|end}.datetime` **\*** : Date et heure du départ/arrivée au format ISO 8601 \(YYYY-MM-DDThh:mm:ssZ\).
 
   L'heure est exprimée en UTC \(Coordinated Universal Time\). UTC n'est pas ajusté sur l'heure d'été et hiver !
@@ -26,7 +26,7 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 
   Pour le métropoles qui comportent un code INSEE global et des codes par arrondissement, utiliser le code arrondissement.
 
-* `{passenger|driver}.{start|end}.literal` : Adresse litérale, par exemple: _5 rue du Paradis, 75010 Paris_, _CEA, Saclay_
+* `{passenger|driver}.{start|end}.literal` : Adresse littérale, par exemple: _5 rue du Paradis, 75010 Paris_, _CEA, Saclay_
 
 > L'ordre de priorité des propriétés de position est le suivant : lon/lat, insee, literal.  
 > **Au minimum une propriété doit être renseignée** \(ou deux pour le couple lon/lat\).
