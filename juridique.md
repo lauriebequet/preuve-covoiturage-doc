@@ -6,9 +6,84 @@ description: >-
 
 # Juridique
 
-![CIn&#xE9;m](https://lh6.googleusercontent.com/P_7QOewgJOOaQbyODBFF4a4DFjkXknTrBCt4KZ-4WcshOMgVIJVcc0Upc3Khst1nsXbatnsQrmpeQ503l5Xmxx1pevrU8o6E58wJa5caOf7i45F-u26SIbUFNc4TFbGhmACxJT1-)
+## Protection de la vie privée :
 
-## **Etape 1 & 2**
+Pour créer le cadre juridique du Registre de preuve de covoiturage, nous avons cherché à mettre en action les mêmes principes gouvernant à la mise en place des Strart-up d’État.
+
+A titre liminaire, il convient de rappeler que la base légale du registre repose sur [l’article 15 de la loi d’orientation des mobilités](https://www.legifrance.gouv.fr/affichLoiPreparation.do;jsessionid=B52052F44251FAE1A2F843FEAADD9922.tplgfr43s_2?idDocument=JORFDOLE000037646678&type=contenu&id=2&typeLoi=proj&legislature=15). Il a notamment pour finalité de _« faciliter la distribution d’incitation monétaire ou non monétaires en faveur du covoiturage. »_
+
+Nous avons choisi une approche _« privacy by design »_, c’est-à-dire imposant de faire la balance entre les données à caractère personnel collectées et la \(ou les\) finalité\(s\) du traitement en question. En droit français, ce principe se retrouve à [l’article 6, troisièmement](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=A04D40844F3A028DB9F60D9960DE5D93.tplgfr33s_2?idArticle=LEGIARTI000031932124&cidTexte=LEGITEXT000006068624&dateTexte=20190328) de la loi informatique et libertés. Cette question était potentiellement complexe car il fallait assurer **la confiance des différents acteurs dans le Registre** puisqu’il avait vocation à certifier la réalisation des trajets et par conséquent, lutter contre la fraude ; tout en **se contentant de récolter et conserver les informations strictement nécessaires** à cette finalité. Cette balance est à réaliser par l’ensemble des responsables de traitement, elle prend a minima la forme d’[une autoévaluation](https://www.cnil.fr/fr/verifier-la-pertinence-des-donnees).
+
+L’équipe a ainsi effectué un travail de fond, en collaboration avec les différentes parties prenantes, visant à restreindre les données à caractère personnel collectées par le Registre. Pour faire simple, les seules données collectées sont relatives au « profil » des utilisateurs.
+
+Après quelques ateliers, il est collectivement admis que le Registre procédera aux traitements des données à caractère personnel suivantes :
+
+* Pour les personnes physiques réalisant des trajets en covoiturage \(appelées occupants\) :
+
+  * Prénom
+  * Numéro de téléphone
+  * Une variable relative à l’âge : majeur – mineur – non renseigné
+  * Nature de l’occupant : conducteur – passager
+  * Les informations relatives à leur titre de transport \(comme le numéro d’abonné / de carte\)
+
+* Pour les représentants des personnes morales \(opérateurs de covoiturage, tiers mandaté et autorités de mobilité\) :
+  * Nom, Prénom, adresse électronique professionnelle
+  * Numéro de téléphone professionnel
+  * Identité de la personne déclarée comme étant « délégué à la protection des données » de la structure concernée
+  * Identité du responsable de traitement
+
+Ces informations sont manifestement pertinentes, adéquates et non excessives au regard de la finalité du traitement.
+
+Le Registre de preuve de covoiturage est soumis au cadre juridique de la protection de la vie privée, incarné notamment par le RGPD \(règlement général relatif à la protection s personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données\) et la [loi informatique & libertés](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460). [L’article 6 du RGPD](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679) fixe les conditions relatives à la licéité du traitement. En l’espèce la mise en œuvre du traitement ne repose sur le consentement des personnes connues mais bien sur le fait que ce traitement est nécessaire à l’exécution d’une mission d’intérêt public. Ces données sont strictement nécessaires à l’exercice de la mission de service public du Registre, leur transmission n’est donc pas soumise au consentement des utilisateurs et elles ne connaissent aucun destinataire.
+
+Néanmoins, nous encourageons les Opérateurs de covoiturage à s’assurer de la bonne information de leurs utilisateurs matérialisée par leur consentement à la participation au Registre.
+
+> **Exemple de bonne pratique**
+>
+> <table>
+>   <thead>
+>     <tr>
+>       <th style="text-align:left">
+>         <p>[Op&#xE9;rateur de Covoit] est partenaire du <a href="http://covoiturage.beta.gouv.fr/">Registre de preuve de covoiturage</a>,
+>           une initiative gouvernementale permettant de certifier les trajets et de
+>           faciliter la distribution d&#x2019;incitations &#xE0; la pratique du covoiturage.</p>
+>         <p></p>
+>         <p>Pour certifier vos trajets, nous transmettons au gestionnaire du Registre
+>           :</p>
+>         <ul>
+>           <li>Votre num&#xE9;ro de t&#xE9;l&#xE9;phone</li>
+>           <li>Adresse de d&#xE9;but de trajet</li>
+>           <li>Adresse du point d&#x2019;arriv&#xE9;e</li>
+>           <li>Le num&#xE9;ro de votre carte de transport</li>
+>         </ul>
+>         <p>Ce traitement informatis&#xE9; est destin&#xE9; &#xE0; mettre en &#x153;uvre
+>           une mission de service public visant &#xE0; faciliter la distribution d&#x2019;incitation
+>           mon&#xE9;taire ou non mon&#xE9;taires en votre faveur. Le seul destinataire
+>           des donn&#xE9;es est la mission Incubateur de Services Num&#xE9;riques
+>           au sein de la Direction Interminist&#xE9;rielle du Num&#xE9;rique et du
+>           Syst&#xE8;me d&apos;Information et de Communication, d&#xE9;nomm&#xE9;e
+>           &#x201C;DINSIC&#x201D;.</p>
+>         <p></p>
+>         <p>Conform&#xE9;ment &#xE0; la loi relative &#xE0; l&#x2019;informatique,
+>           aux fichiers et aux libert&#xE9;s du 6 janvier 1978 modifi&#xE9;e, vous
+>           b&#xE9;n&#xE9;ficiez d&#x2019;un droit d&#x2019;acc&#xE8;s, de rectification
+>           et de suppression des informations qui vous concernent. Si vous souhaitez
+>           exercer ce droit et obtenir communication des informations vous concernant,
+>           veuillez-vous adresser &#xE0; <a href="mailto:contact@covoiturage.beta.gouv.fr">contact@covoiturage.beta.gouv.fr</a>
+>         </p>
+>       </th>
+>     </tr>
+>   </thead>
+>   <tbody></tbody>
+> </table>
+
+Enfin, l’ensemble de ces éléments juridiques ont été renforcés par une approche complémentaire de sécurité informatique élémentaire. Ainsi, dès réception de ces données à caractère personnel, le Registre effectue une série de traitement visant par exemple à pseudonymiser les données collectées, chiffrer lesdites informations et s’assurer du contrôle d’accès des différentes parties prenantes \(sur ce point, [voir l’étape 5](https://registre-preuve-de-covoiturage.gitbook.io/produit/juridique#etape-5)\).
+
+## Présentation des étapes successives et du cadre juridique associé :
+
+![](https://lh6.googleusercontent.com/P_7QOewgJOOaQbyODBFF4a4DFjkXknTrBCt4KZ-4WcshOMgVIJVcc0Upc3Khst1nsXbatnsQrmpeQ503l5Xmxx1pevrU8o6E58wJa5caOf7i45F-u26SIbUFNc4TFbGhmACxJT1-)
+
+### **Etape 1 & 2 : relation contractuelle entre les covoitureurs et les opérateurs :**
 
 ![](https://lh4.googleusercontent.com/qZ1ZWjfhfDMEawfjtZ_MbeQjwGUyjEO1UFsHto6vr1BupIPPAql1D1zkElb9WSq3K_aIEyAASuZOxlYk3B8eZFLUn26smrW8OTuk2zaIZmfatlxl1G24dMulfTBER5XIOhiGszxi)
 
@@ -54,15 +129,15 @@ Sur ces deux étapes, les obligations juridiques de la part des opérateurs sont
     </tr>
   </thead>
   <tbody></tbody>
-</table>## Etape 3
+</table>## Etape 3 : Production de la preuve de covoiturage 
 
 ![](https://lh5.googleusercontent.com/ocpDygWPQOgQczOgoqjmstIViwLGGvFpuA4P5DX9jCmlKlY2ev0hI1PQP0eQTI6Np8qRW57KlcEBtOa46t4r61KbA4e6-DdpM37cGXkbuSLZm92Nu5y0IqQxcHRT-zZPhX01W2vc)
 
 La mission Incubateur de Services Numériques limite la collecte des données personnelles au strict nécessaire. L’objectif et la finalité du recueil de ces données est de faciliter la distribution d’incitation monétaire ou non monétaires en faveur du covoiturage.
 
-A ce titre, en accord avec le règlement n° 2016/679, dit règlement général sur la protection des données, sont réalisés un registre des activités de traitement ainsi qu’une analyse d’impact à la protection des données.
+A ce titre, en accord avec le[ règlement n° 2016/679](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679), dit règlement général sur la protection des données, sont réalisés un registre des activités de traitement ainsi qu’une analyse d’impact à la protection des données.
 
-Les données personnelles amenées à être collectées et traitées dans le cadre de la production d’une preuve de covoiturage sont les suivantes :
+Les données à caractère personnel amenées à être collectées et traitées dans le cadre de la production d’une preuve de covoiturage sont les suivantes :
 
 * Nom \(facultatif en fonction de l’opérateur de covoiturage\).
 * Prénom.
@@ -78,6 +153,7 @@ Les données personnelles amenées à être collectées et traitées dans le cad
       <th style="text-align:left">
         <p><b>Remarque : diff&#xE9;rence entre collecte et exposition de donn&#xE9;es personnelles</b>
         </p>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
         <p><b>Il existe une diff&#xE9;rence entre collecter des donn&#xE9;es personnelles et les exposer. La mission Incubateur de Services Num&#xE9;riques, collecte dans le cadre de son service quelques donn&#xE9;es personnelles. Ces donn&#xE9;es sont n&#xE9;cessaires &#xE0; l&#x2019;exercice de notre mission. Les donn&#xE9;es collect&#xE9;es ne seront pas expos&#xE9;es de la m&#xEA;me mani&#xE8;re aux usagers (organismes incitateurs) du registre. Ceci est explicit&#xE9; dans les mentions de l&#x2019;&#xE9;tape 5.</b>
         </p>
       </th>
@@ -86,7 +162,7 @@ Les données personnelles amenées à être collectées et traitées dans le cad
   <tbody></tbody>
 </table>
 
-## **Etape 4**
+## **Etape 4 : cycle de conservation des données**
 
 ![](https://lh3.googleusercontent.com/AvLR_63BktSSwORZwD3SiUdlVerW971kwsUMWxIHS9Nzal5yznm_fntxZ5eGEtpSUFBZWQde96QWUXktoUSBTxHYtoRf6PBcOHUAdo8dFREOSEO6sElt3anMwGqUAD_RQM8VVQ5d)
 
@@ -103,7 +179,7 @@ Les données à caractère personnel sont conservées pour une durée de 12 mois
 
 Distinctement de la base active, les données personnelles sont anonymisées et conservées, avec accès restreint, pour une durée de 24 mois. Ces données permettent de réaliser des traitements à des fins statistiques, de recherche scientifique en algorithmique de détection de fraudes et de recherche en termes de prospectives transports. Un tri est effectué parmi la totalité des données collectées pour ne garder que les seules données indispensables.
 
-## **Etape 5**
+## **Etape 5 : consultation du registre par les AOM**
 
 ![](https://lh6.googleusercontent.com/5tuGAMynYv3_Ar8jhm2iSzLcp4NQsp5VYQaoxkYS-P2ei9T7MECbRrVQb8NIfDbkh9cjng_DgmPhKafql9iyYeELGO45h94k7TM7VlS8MVYp8qohvgLb8pZs4YkGUBwMGDFajHsP)
 
@@ -117,7 +193,7 @@ En conséquence, de manière à flouter les données personnelles, les traitemen
 
 Individuellement, ces données ne sont pas des données personnelles directement identifiantes. Cependant, en les combinant, le principe de réidentification s’applique. Ainsi l’ensemble des mesures et dispositifs relatifs à la protection de la vie privée s’applique. L’analyse d’impact à la protection des données met en évidence les mesures prises.
 
-## **Etape 6** 
+## **Etape 6 : Focus sur les incitations**
 
 ![](https://lh5.googleusercontent.com/Ty095PuaGncNnyTXsvHxDHKcaLfeCUrQaajJ6yinWzQPFhj-hQytElZQmMgZR50j3qloPlfh8E4lEo2y-lSKM9g_TwFRumPMdDVsPr3mdBfIJeufq1o5XzXabsTocsx04IAJ3onS)
 
@@ -273,9 +349,9 @@ De ce fait, des personnes de droit public et de droit privé peuvent se retrouve
     </tr>
   </thead>
   <tbody></tbody>
-</table>En d’autres termes, une **collectivité territoriale peut légalement inciter des opérateurs de covoiturage privés au même titre que les solutions publiques qu’elle met en oeuvre, à condition  de respecter les principes de liberté du commerce et de l’industrie et du droit à la concurrence et les dispositions de l’article L. 1241-1 du code des transports**.
+</table>En d’autres termes, une **collectivité territoriale peut légalement inciter des opérateurs de covoiturage privés au même titre que les solutions publiques qu’elle met en œuvre, à condition  de respecter les principes de liberté du commerce et de l’industrie et du droit à la concurrence et les dispositions de l’article L. 1241-1 du code des transports**.
 
-### **Comment mettre en oeuvre une subvention ?**
+### **Comment mettre en œuvre une subvention ?**
 
 La collectivité territoriale accordant la subvention décide :
 
@@ -336,8 +412,7 @@ Les procédures de sélection des bénéficiaires de la subvention peuvent varie
 
 ### **Quels sont les documents à produire par les opérateurs de covoiturage bénéficiaires ?**
 
-Puisque la subvention est affectée à une dépense déterminée, l’opérateur de covoiturage bénéficiaire doit produire un compte rendu financier qui atteste de la conformité des dépenses effectuées à l’objet de la subvention. Le compte rendu financier est déposé auprès de l’autorité qui a versé la subvention dans les six mois suivant la fin de l’exercice pour lequel elle a été attribuée.  
-
+Puisque la subvention est affectée à une dépense déterminée, l’opérateur de covoiturage bénéficiaire doit produire un compte rendu financier qui atteste de la conformité des dépenses effectuées à l’objet de la subvention. Le compte rendu financier est déposé auprès de l’autorité qui a versé la subvention dans les six mois suivant la fin de l’exercice pour lequel elle a été attribuée.
 
 ### **Une AOM peut-elle finalement ne pas appliquer sa politique et ne pas donner son incitation ?**
 
@@ -359,8 +434,7 @@ Attention, il ne faut pas confondre “open source” et “open data”.
 
 L’open-source s'applique aux[ logiciels](https://fr.wikipedia.org/wiki/Logiciel) dont la[ licence](https://fr.wikipedia.org/wiki/Licence_de_logiciel) respecte des critères précisément établis par l'[Open Source Initiative](https://fr.wikipedia.org/wiki/Open_Source_Initiative), c'est-à-dire les possibilités de libre redistribution, d'accès au[ code source](https://fr.wikipedia.org/wiki/Code_source) et de création de travaux dérivés. Mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs. \([Wikipédia](https://fr.wikipedia.org/wiki/Open_source)\). En France, l’ensemble des codes-sources développés par les administrations doivent être ouverts \(sauf rares exceptions\), le registre de preuve de covoiturage est donc “open source”.
 
-L’open data consiste à ouvrir, c’est-à-dire diffuser, des informations permettant notamment de garantir la transparence administrative. Les administrations sont dans l’obligation de diffuser les informations publiques qu’elles produisent ou reçoivent. L’ouverture de ces données est soumise à un cadre précis, la diffusion de ces données ne devant porter atteinte ni à la protection de la vie privée, ni au secret des affaires. Ainsi, nous veillerons à traiter l’ensemble des informations avant leur publication. Dès lors, seront ouvertes des données relatives à l’usage de la plateforme, aux trajets effectués, le cas échéant après avoir fait l’objet d’un traitement permettant une publication conforme \(anonymisation, agrégation, etc.\).  
-****
+L’open data consiste à ouvrir, c’est-à-dire diffuser, des informations permettant notamment de garantir la transparence administrative. Les administrations sont dans l’obligation de diffuser les informations publiques qu’elles produisent ou reçoivent. L’ouverture de ces données est soumise à un cadre précis, la diffusion de ces données ne devant porter atteinte ni à la protection de la vie privée, ni au secret des affaires. Ainsi, nous veillerons à traiter l’ensemble des informations avant leur publication. Dès lors, seront ouvertes des données relatives à l’usage de la plateforme, aux trajets effectués, le cas échéant après avoir fait l’objet d’un traitement permettant une publication conforme \(anonymisation, agrégation, etc.\).
 
 ### **Si je ne suis pas dans le cadre du triptyque Opérateur, Registre, AOM, comment faire ?**
 
@@ -371,8 +445,6 @@ Ainsi, une AOM peut déléguer à un tiers la gestion de sa/ses politique\(s\) i
 ### **Quel est le statut des attestations délivrées ?**
 
 A ce jour, les attestations délivrées par le registre sont un de nos chantiers pendants, elles n’ont donc pas de statut juridique précis. Elles pourront être utilisées par l’usager qui souhaiterait bénéficier des avantages proposés par la politique administrative. A noter qu’en droit administratif, la preuve s’apporte par tout moyen. Ainsi, l’attestation délivrée pourra être utilisée comme preuve des trajets réalisés, jusque dans le cas d’un recours contentieux.Les attestations ainsi délivrées pourront à terme prendre la forme d’une décision au sens de [l’article L. 200-1 du CRPA](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=6F971C1F0C109E09375997CB2CF79242.tplgfr44s_1?idArticle=LEGIARTI000031367495&cidTexte=LEGITEXT000031366350&dateTexte=20190318).
-
-
 
 ### **Le versement d’une subvention publique pour un acte de covoiturage par le biais des opérateurs de covoiturage mène-t-il à la constitution d’une gestion de fait ?**
 
