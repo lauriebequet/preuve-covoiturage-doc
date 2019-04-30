@@ -15,7 +15,7 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 * `{passenger|driver}.phone`**\*** : Numéro de téléphone au format ITU E.164 \(+33123456789\)
 * `{passenger|driver}.company` : Nom de l'organisation / entreprise
 * `passenger.over_18` : Le passager est majeur \(`TRUE`\) ou mineur \(`FALSE`\) ou non communiqué \(`NULL`\)
-* `{passenger|driver}.card` : Carte de transport \(TCL, Navigo, Trabool, etc.\) possédée par l'occupant. Le numéro est obligatoire si l'information est disponible.
+* `{passenger|driver}.travel_pass` : Carte de transport \(TCL, Navigo, Trabool, etc.\) possédée par l'occupant. Le numéro est obligatoire si l'information est disponible. [Voir la liste des cartes de transport supportées](cartes-de-transport-supportees.md)
 * `{passenger|driver}.{start|end}.datetime` **\*** : Date et heure du départ/arrivée au format ISO 8601 \(YYYY-MM-DDThh:mm:ssZ\).
 
   L'heure est exprimée en UTC \(Coordinated Universal Time\). UTC n'est pas ajusté sur l'heure d'été et hiver !
@@ -68,9 +68,9 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
             phone: <String> *
             company: <String>
             over_18: <Boolean|null> // passenger is over 18 years old : true|false|null
-            card:
-                name: <String>
-                number: <String> *
+            travel_pass:
+                name: <String> *
+                user_id: <String> *
         }
         start: {
             datetime: <DateTime> // UTC ISO 8601 (YYYY-MM-DD hh:mm:ssZ)
@@ -98,9 +98,9 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
             email: <String>
             phone: <String> *
             company: <String>
-            card:
-                name: <String>
-                number: <String> *
+            travel_pass:
+                name: <String> *
+                user_id: <String> *
         }
         start: {
             datetime: <DateTime> * // UTC ISO 8601 (YYYY-MM-DD hh:mm:ssZ)
