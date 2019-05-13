@@ -1,6 +1,8 @@
 # Schema CSV
 
-Il est possible durant la phase d’expérimentation d’envoyer les données à [contact@covoiturage.beta.gouv.fr](mailto:contact@covoiturage.beta.gouv.fr) au format CSV.
+Pour alimenter le registre avec des données en format CSV, voir également "[alimenter le registre via des tableurs](../mode-demploi/alimenter-le-registre-via-des-tableurs.md)".
+
+Nb : Il est possible durant la phase d’expérimentation d’envoyer les données à [contact@covoiturage.beta.gouv.fr](mailto:contact@covoiturage.beta.gouv.fr) au format CSV.
 
 ## Contraintes
 
