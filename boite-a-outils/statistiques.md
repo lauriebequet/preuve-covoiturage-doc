@@ -1,6 +1,6 @@
 # Statistiques
 
-Chez Beta.gouv, dans une volonté de transparence, les statistiques d’usage de la majorité de nos produits sont disponibles. Les statistiques spécifiques au registre de preuve de covoiturage sont disponibles à [l'adresse suivante](https://app-staging.covoiturage.beta.gouv.fr/statistics). 
+Chez Beta.gouv, dans une volonté de transparence, les statistiques d’usage de la majorité de nos produits sont disponibles. Les statistiques spécifiques au registre de preuve de covoiturage sont disponibles à [l'adresse suivante](https://app.covoiturage.beta.gouv.fr/stats). 
 
 ## Détails sur calcul
 
