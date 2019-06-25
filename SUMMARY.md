@@ -11,7 +11,6 @@
 * [Envoyer des trajets](api/envoyer-des-trajets.md)
 * [Schema JSON](api/schema-json.md)
 * [Schema CSV](api/schema-csv.md)
-* [Cartes de transport supportées](api/cartes-de-transport-supportees.md)
 
 ## Spécifications
 
