@@ -188,9 +188,7 @@ Dans le cas présent, une convention est signée entre les parties et le verseme
     </tr>
   </thead>
   <tbody></tbody>
-</table>### \*\*\*\*
-
-## Technique & données
+</table>## Technique & données
 
 ### **Que signifie que la plateforme est open-source ? Est-ce que les données sont ouvertes ?**
 
