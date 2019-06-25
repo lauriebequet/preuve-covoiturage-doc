@@ -5,6 +5,7 @@
 * [Définitions](definitions.md)
 * [Juridique](juridique.md)
 * [CGU - Conditions Générales d’Utilisation](cgu.md)
+* [FAQ - Foire Aux Questions](faq-foire-aux-questions.md)
 
 ## API
 
