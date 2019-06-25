@@ -36,13 +36,11 @@ Les[ CGU](../cgu.md) du service sont accessibles en ligne.
 
 **\[En construction\]**
 
-## Etape 2 - Défini**r** une politique
+## Etape 2 - Défini**r** une campagne d'incitation au covoiturage
 
 **\[En construction\]**
 
-## Etape 3 - Définir une campagne
 
-**\[En construction\]**
 
 
 

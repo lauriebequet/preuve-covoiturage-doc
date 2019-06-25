@@ -129,7 +129,7 @@ Sur ces deux étapes, les obligations juridiques de la part des opérateurs sont
     </tr>
   </thead>
   <tbody></tbody>
-</table>## Etape 3 : Production de la preuve de covoiturage 
+</table>### Etape 3 : Production de la preuve de covoiturage 
 
 ![](https://lh5.googleusercontent.com/ocpDygWPQOgQczOgoqjmstIViwLGGvFpuA4P5DX9jCmlKlY2ev0hI1PQP0eQTI6Np8qRW57KlcEBtOa46t4r61KbA4e6-DdpM37cGXkbuSLZm92Nu5y0IqQxcHRT-zZPhX01W2vc)
 
@@ -160,9 +160,7 @@ Les données à caractère personnel amenées à être collectées et traitées 
     </tr>
   </thead>
   <tbody></tbody>
-</table>
-
-## **Etape 4 : cycle de conservation des données**
+</table>### **Etape 4 : cycle de conservation des données**
 
 ![](https://lh3.googleusercontent.com/AvLR_63BktSSwORZwD3SiUdlVerW971kwsUMWxIHS9Nzal5yznm_fntxZ5eGEtpSUFBZWQde96QWUXktoUSBTxHYtoRf6PBcOHUAdo8dFREOSEO6sElt3anMwGqUAD_RQM8VVQ5d)
 
@@ -179,7 +177,7 @@ Les données à caractère personnel sont conservées pour une durée de 12 mois
 
 Distinctement de la base active, les données personnelles sont anonymisées et conservées, avec accès restreint, pour une durée de 24 mois. Ces données permettent de réaliser des traitements à des fins statistiques, de recherche scientifique en algorithmique de détection de fraudes et de recherche en termes de prospectives transports. Un tri est effectué parmi la totalité des données collectées pour ne garder que les seules données indispensables.
 
-## **Etape 5 : consultation du registre par les AOM**
+### **Etape 5 : consultation du registre par les AOM**
 
 ![](https://lh6.googleusercontent.com/5tuGAMynYv3_Ar8jhm2iSzLcp4NQsp5VYQaoxkYS-P2ei9T7MECbRrVQb8NIfDbkh9cjng_DgmPhKafql9iyYeELGO45h94k7TM7VlS8MVYp8qohvgLb8pZs4YkGUBwMGDFajHsP)
 
@@ -193,13 +191,13 @@ En conséquence, de manière à flouter les données personnelles, les traitemen
 
 Individuellement, ces données ne sont pas des données personnelles directement identifiantes. Cependant, en les combinant, le principe de réidentification s’applique. Ainsi l’ensemble des mesures et dispositifs relatifs à la protection de la vie privée s’applique. L’analyse d’impact à la protection des données met en évidence les mesures prises.
 
-## **Etape 6 : Focus sur les incitations**
+### **Etape 6 : Focus sur les incitations**
 
 ![](https://lh5.googleusercontent.com/Ty095PuaGncNnyTXsvHxDHKcaLfeCUrQaajJ6yinWzQPFhj-hQytElZQmMgZR50j3qloPlfh8E4lEo2y-lSKM9g_TwFRumPMdDVsPr3mdBfIJeufq1o5XzXabsTocsx04IAJ3onS)
 
 Une Startup d'État n’a pas de statut juridique propre. En ce sens, la mission Incubateur de Services Numériques et le service registre de preuve de covoiturage, sous la forme d’une Startup d'État ne peuvent opérer la distribution des incitations. Pour rappel, le service numérique à vocation à terme à quitter l’incubateur pour s’intégrer dans l’administration porteuse ou devenir juridiquement autonome une fois que l’équipe et l’administration porteuse considèrent le service comme viable.
 
-### **Incitation financière**
+#### **Incitation financière**
 
 Durant la période d’incubation la solution proposée est de faire transiter l’incitation financière par l’opérateur qui devra à son tour la reverser à ses usagers en appliquant la politique incitative définie par l’organisme incitateur.
 
@@ -275,7 +273,7 @@ A titre d’exemple les frais partagés maximum pour les occupants du trajet pr�
     </tr>
   </thead>
   <tbody></tbody>
-</table>### **Incitation non financière**
+</table>#### **Incitation non financière**
 
 L'incubateur des services numériques préconise la rédaction d'une convention de partenariat que l'incitation soit financière ou non.
 

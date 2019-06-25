@@ -7,22 +7,22 @@
 * [CGU - Conditions Générales d’Utilisation](cgu.md)
 * [FAQ - Foire Aux Questions](faq-foire-aux-questions.md)
 
-## API
+## ⚙️ API
 
 * [Envoyer des trajets](api/envoyer-des-trajets.md)
 * [Schema JSON](api/schema-json.md)
 * [Schema CSV](api/schema-csv.md)
 
-## Spécifications
+## 📋 Spécifications
 
 * [Classes de preuve de covoiturage](specifications/classes-de-preuve-de-covoiturage.md)
 
-## Mode d'emploi
+## 📒 Mode d'emploi
 
 * [Alimenter le registre via des tableurs](mode-demploi/alimenter-le-registre-via-des-tableurs.md)
 * [Définir une politique d'incitation dans l'interface AOM](mode-demploi/definir-une-politique-incitative-dans-linterface-aom.md)
 
-## Boite à outils
+## 🛠️ Boite à outils
 
 * [Compte rendu](boite-a-outils/compte-rendu.md)
 * [Kit de communication](boite-a-outils/kit-de-communication.md)
