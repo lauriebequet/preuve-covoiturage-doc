@@ -38,8 +38,5 @@ Les tokens n’expirent pas dans le temps mais ils peuvent être mis sur une lis
 Un code de retour `201 Created` est retourné quand la preuve est acceptée.  
 
 
-La documentation de l’API \(en cours de rédaction\) est ici :  
-[https://api-staging.covoiturage.beta.gouv.fr/openapi](https://api-staging.covoiturage.beta.gouv.fr/openapi)
-
 
 

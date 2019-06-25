@@ -4,9 +4,9 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 
 ## Propriétés
 
-**\***Données obligatoires
+**\*** Données obligatoires
 
-* `journey_id`**\*** : générée par l'opérateur et  doit être unique
+* `journey_id`**\*** : générée par l'opérateur et doit être unique
 * `operator_journey_id` : générée par l'opérateur pour regrouper des trajets
 * `operator_class`**\*** : la classe de preuve correspondant au spécifications définies dans [Classes de preuve de covoiturage](../specifications/classes-de-preuve-de-covoiturage.md).
 
@@ -16,9 +16,14 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 * `{passenger|driver}.lastname` : Nom de l'occupant
 * `{passenger|driver}.email` : Email de l'occupant
 * `{passenger|driver}.phone`**\*** : Numéro de téléphone au format ITU E.164 \(+33123456789\)
-* `{passenger|driver}.company` : Nom de l'organisation / entreprise
+* `{passenger|driver}.company` : Nom de l'organisation / employeur
 * `passenger.over_18` : Le passager est majeur \(`TRUE`\) ou mineur \(`FALSE`\) ou non communiqué \(`NULL`\)
-* `{passenger|driver}.travel_pass` : Carte de transport \(TCL, Navigo, Trabool, etc.\) possédée par l'occupant. Le numéro est obligatoire si l'information est disponible. [Voir la liste des cartes de transport supportées](cartes-de-transport-supportees.md)
+* `{passenger|driver}.travel_pass` : Carte de transport \(TCL, Navigo, Trabool, etc.\) possédée par l'occupant. Le numéro est obligatoire si l'information est disponible.
+
+#### Liste des Pass transport supportés :
+
+La liste complète est disponible dans le fichier de configuration de l'API. _\(à venir\)_  
+Vous pouvez soumettre des modifications en créant une _Pull Request_ directement sur _Repository_ du projet \(un compte Github est requis\).
 
 ### Données sur le trajet 
 
@@ -43,67 +48,54 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 ### Données financières 
 
 {% hint style="info" %}
-Le principe est de coller au plus près avec la réalité comptable \(transaction usager\) et d'avoir suffisamment d'informations pour recalculer le coût initial du trajet. Ceci afin de s'assurer du respect de la définition du covoiturage & de la bonne application des politiques incitatives gérées par le registre.
+Le principe est de coller au plus près avec la réalité comptable \(transaction usager\) et d'avoir suffisamment d'informations pour recalculer le coût initial du trajet. Ceci afin de s'assurer du respect de la définition du covoiturage et de la bonne application des politiques incitatives gérées par le registre.
 {% endhint %}
 
-L'idée retenue est d'envoyer :
-
 * `passenger.contribution`**\*** : Coût total du service pour l’occupant passager en fonction du nombre de sièges réservés **APRÈS** que toutes les incitations aient été attribuées \(subventions employeurs, promotions opérateurs, incitations AOM, etc\).
-* `driver.revenue`**\*** : La somme perçue par le conducteur **APRÈS** que toutes les incitations \(subventions employeurs, promotions opérateurs, incitations AOM, etc\) et contributions des passagers aient été attribuées et prise de commission de l’opérateur.
+* `driver.revenue`**\*** : La somme perçue par le conducteur **APRÈS** que toutes les incitations \(subventions employeurs, promotions opérateurs, incitations AOM, etc.\), contributions des passagers aient été attribuées et que la commission de l’opérateur soit prise.
 * `passenger.seats`**\*** : Nombre de sièges réservés par l'occupant passager. Défault : 1
 
 **Schéma des incitations** 
 
-* `incentives`**\*** : Tableau reprenant la liste complète des incitations appliquées \(ordre d'application, montant, identifiant de l'incitateur\).  
+* `incentives` \* : Tableau reprenant la liste complète des incitations appliquées \(ordre d'application, montant, identifiant de l'incitateur\). Si aucune incitation, envoyer un tableau vide : `[]`
 
 ```text
-[incentiveA,incentiveB, ...]
 {
-    index: Number,        // ordre d'application [0,1,2]
-    amount: Number,       // montant de l'incitation en centimes d'euros
-    siren: String         // Numéro SIREN de l'incitateur
+    index: <Number> *         // ordre d'application [0,1,2]
+    amount: <Number> *        // montant de l'incitation en centimes d'euros
+    siren: <String> *         // Numéro SIREN de l'incitateur
 }
 ```
 
 > Le SIREN est un identifiant unique par structure juridique. Toutes les entités incitatrices en possèdent un.
 
-Est proposé l'ordre d'application des politiques incitatives suivant : 
+Par défaut, l'ordre d'application des politiques incitatives est le suivant : 
 
 1. AOM 
 2. Sponsors \(incitations employeur, CE, etc.\) 
 3. Opérateur \(opération promotionnelle, offres, etc.\)
 
-**Schéma du mode de paiement**
+**Schéma du mode de paiement sous forme de Titre-Mobilité**
+
+Lorsque le paiement du trajet covoituré est effectué par un Titre-Mobilité, le type du pass doit être communiqué pour éviter une double incitation.
 
 {% hint style="info" %}
 La prise en charge des frais de transports personnel \(carburant et forfait mobilité\) pourra prendre la forme d’une solution de paiement spécifique, dématérialisée et prépayée, intitulée « titre-mobilité ». Ainsi, il apparaît comme pertinent de détailler la solution de paiement utilisée dans le cadre d'un trajet covoituré.
 {% endhint %}
 
-* `payment` : Méthode de paiement utilisée.
+* `payments` : Zéro, une ou plusieurs méthodes de paiement utilisées
 
 ```text
 {
-    passType: String     // type / nom du titre
-    amount: Number       // montant en centimes d'euros
+    pass_type: <String> *     // identifiant du titre (voir ci-dessous)
+    amount: <Number> *       // montant en centimes d'euros
 }
 ```
 
+#### Liste des Titres-Mobilité supportés :
 
-
-## Calculs opérés par le registre
-
-> * `driver.expense` : Frais engagés par le conducteur selon le barème kilométrique \(0,558 euros / km\). Seuls les kilomètres covoiturés sont pris en compte.
-> * `driver.cost` : `driver.expense - driver.revenue` : Coût pour le conducteur basé sur les frais engagés **après** avoir perçu toutes les incitations, les contributions des passagers et prise de commission de l’opérateur.
-> * `passenger.cost` : `passenger.contribution / passenger.seats` : Coût pour un passager unique.
->
-> Grâce à ces calculs le registre peut s'assurer que les occupants du véhicule n'ont pas perçu de bénéfices. 
->
-> En parallèle, le registre permet aux AOM de paramétrer leur campagne d'incitation. Sont ainsi calculées : 
->
-> * `driver.incentive` : Incitation donnée par l'AOM au conducteur.
-> * `passenger.incentive` : Incitation donnée par l'AOM au passager.
-
-> Ceci permet de vérifier la cohérence entre les incitations versées par les opérateurs en application de la politique incitative d'une AOM et les incitations paramétrées dans le registre.
+La liste complète est disponible dans le fichier de configuration de l'API. _\(à venir\)_  
+Vous pouvez soumettre des modifications en créant une _Pull Request_ directement sur _Repository_ du projet \(un compte Github est requis\).
 
 ## Schema JSON
 
@@ -141,14 +133,17 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
         distance: <Number> // meters
         duration: <Number> // seconds
         seats: <Number> * // number of seats booked by the user (default: 1)
-        expense: <Number> // Optional: send or calculated by the register in Euro cents ex: 10€ -> 1000 
+        expense: <Number> // Optional: sent or calculated by the register in Euro cents ex: 10€ -> 1000 
         contribution: <Number> * // contribution in Euro cents ex: 10€ -> 1000
-        incentives: [
-            incentiveA,
-            incentiveB,
-            ...
-        ]
-        payment: [paymentA, ...]
+        incentives: [{
+            index: <Number>
+            amount: <Number>
+            siren: <String>
+        }]
+        payments: [{
+            pass_type: <String>
+            amount: <Number>
+        }]
     }
     driver: {
         identity: {
@@ -179,11 +174,11 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
         duration: <Number> // seconds
         expense: <Number> // Optional: send or calculated by the register in Euro cents ex: 10€ -> 1000 
         revenue: <Number> * // revenue in Euro cents ex: 10€ -> 1000
-        incentives: [
-            incentiveA,
-            incentiveB,
-            ...
-        ]     
+        incentives: [{
+            index: <Number>
+            amount: <Number>
+            siren: <String>
+        }]
     }
 }
 ```
