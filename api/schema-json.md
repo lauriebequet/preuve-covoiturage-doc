@@ -139,7 +139,7 @@ Vous pouvez soumettre des modifications en créant une _Pull Request_ directemen
         incentives: [{
             index: <Number>
             amount: <Number>
-            siren: <String>
+            siret: <String>
         }]
         payments: [{
             pass_type: <String>
@@ -180,7 +180,7 @@ Vous pouvez soumettre des modifications en créant une _Pull Request_ directemen
         incentives: [{
             index: <Number>
             amount: <Number>
-            siren: <String>
+            siret: <String>
         }]
     }
 }
