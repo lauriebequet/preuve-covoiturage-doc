@@ -37,13 +37,16 @@ passenger.start.lat                        // Number <required ¹>
 passenger.start.lon                        // Number <required ¹>
 passenger.start.insee                      // String <required ¹>
 passenger.start.literal                    // String <required ¹>
+passenger.start.country                    // String <required ¹>
 passenger.end.datetime                     // Date as String <required>
 passenger.end.lat                          // Number <required ¹>
 passenger.end.lon                          // Number <required ¹>
 passenger.end.insee                        // String <required ¹>
 passenger.end.literal                      // String <required ¹>
+passenger.end.country                      // String <required ¹>
 passenger.seats                            // Number <required>
 passenger.contribution                     // Number <required>
+passenger.incentives                       // String <required> serialized array of objects
 passenger.distance                         // Number
 passenger.duration                         // Number
 driver.identity.firstname                  // String
@@ -58,12 +61,15 @@ driver.start.lat                           // Number <required ¹>
 driver.start.lon                           // Number <required ¹>
 driver.start.insee                         // String <required ¹>
 driver.start.literal                       // String <required ¹>
+driver.start.country                       // String <required ¹>
 driver.end.datetime                        // Date as String <required>
 driver.end.lat                             // Number <required ¹>
 driver.end.lon                             // Number <required ¹>
 driver.end.insee                           // String <required ¹>
 driver.end.literal                         // String <required ¹>
+driver.end.country                         // String <required ¹>
 driver.revenue                             // Number <required>
+driver.incentives                          // String <required> serialized array of objects
 driver.distance                            // Number
 driver.duration                            // Number
 ```
