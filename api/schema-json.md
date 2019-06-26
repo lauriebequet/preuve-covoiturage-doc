@@ -51,8 +51,8 @@ Vous pouvez soumettre des modifications en créant une _Pull Request_ directemen
 Le principe est de coller au plus près avec la réalité comptable \(transaction usager\) et d'avoir suffisamment d'informations pour recalculer le coût initial du trajet. Ceci afin de s'assurer du respect de la définition du covoiturage et de la bonne application des politiques incitatives gérées par le registre.
 {% endhint %}
 
-* `passenger.contribution`**\*** : Coût total du service pour l’occupant passager en fonction du nombre de sièges réservés **APRÈS** que toutes les incitations aient été attribuées \(subventions employeurs, promotions opérateurs, incitations AOM, etc\).
-* `driver.revenue`**\*** : La somme perçue par le conducteur **APRÈS** que toutes les incitations \(subventions employeurs, promotions opérateurs, incitations AOM, etc.\), contributions des passagers aient été attribuées et que la commission de l’opérateur soit prise.
+* `passenger.contribution`**\*** : Coût réel total du service pour l’occupant passager en fonction du nombre de sièges réservés **APRÈS** que toutes les possibles incitations aient été versées \(subventions employeurs, promotions opérateurs, incitations AOM, etc\).
+* `driver.revenue`**\*** : La somme réellement perçue par le conducteur **APRÈS** que toutes les incitations \(subventions employeurs, promotions opérateurs, incitations AOM, etc.\), contributions des passagers aient été versées et que la commission de l’opérateur soit prise.
 * `passenger.seats`**\*** : Nombre de sièges réservés par l'occupant passager. Défault : 1
 
 **Schéma des incitations** 
@@ -77,10 +77,8 @@ Par défaut, l'ordre d'application des politiques incitatives est le suivant :
 
 **Schéma du mode de paiement sous forme de Titre-Mobilité**
 
-Lorsque le paiement du trajet covoituré est effectué par un Titre-Mobilité, le type du pass doit être communiqué pour éviter une double incitation.
-
 {% hint style="info" %}
-La prise en charge des frais de transports personnel \(carburant et forfait mobilité\) pourra prendre la forme d’une solution de paiement spécifique, dématérialisée et prépayée, intitulée « titre-mobilité ». Ainsi, il apparaît comme pertinent de détailler la solution de paiement utilisée dans le cadre d'un trajet covoituré.
+La prise en charge des frais de transports personnel \(carburant et forfait mobilité\) pourra prendre la forme d’une solution de paiement spécifique, dématérialisée et prépayée, intitulée « titre-mobilité ». Ainsi, il apparaît comme pertinent de détailler la solution de paiement utilisée dans le cadre d'un trajet covoituré, s'il s'agit de Titre-Mobilité. 
 {% endhint %}
 
 * `payments` : Zéro, une ou plusieurs méthodes de paiement utilisées
