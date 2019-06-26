@@ -63,11 +63,11 @@ Le principe est de coller au plus près avec la réalité comptable \(transactio
 {
     index: <Number> *         // ordre d'application [0,1,2]
     amount: <Number> *        // montant de l'incitation en centimes d'euros
-    siren: <String> *         // Numéro SIREN de l'incitateur
+    siret: <String> *         // Numéro SIRET de l'incitateur
 }
 ```
 
-> Le SIREN est un identifiant unique par structure juridique. Toutes les entités incitatrices en possèdent un.
+> Le SIRET est un identifiant unique par structure juridique. Toutes les entités incitatrices en possèdent un.
 
 Par défaut, l'ordre d'application des politiques incitatives est le suivant : 
 
