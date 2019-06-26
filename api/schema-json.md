@@ -38,6 +38,7 @@ Vous pouvez soumettre des modifications en créant une _Pull Request_ directemen
   Pour le métropoles qui comportent un code INSEE global et des codes par arrondissement, utiliser le code arrondissement.
 
 * `{passenger|driver}.{start|end}.literal` : Adresse littérale, par exemple: _5 rue du Paradis, 75010 Paris_, _CEA, Saclay_
+* _`{passenger|driver}.{start|end}.country` : Nom complet du pays \(New-Zealand, France, etc.\)_
 
 > L'ordre de priorité des propriétés de position est le suivant : lon/lat, insee, literal.  
 > **Au minimum une propriété doit être renseignée** \(ou deux pour le couple lon/lat\).
@@ -120,6 +121,7 @@ Vous pouvez soumettre des modifications en créant une _Pull Request_ directemen
             lat: <Number> // float WGS84
             insee: <String> // use String
             literal: <String> // human readable adresse
+            country: <String> // required if literal is used
         }
         end: {
             datetime: <DateTime> // UTC ISO 8601 (YYYY-MM-DD hh:mm:ssZ)
@@ -127,6 +129,7 @@ Vous pouvez soumettre des modifications en créant une _Pull Request_ directemen
             lat: <Number> // float WGS84
             insee: <String> // use String
             literal: <String> // human readable adresse
+            country: <String> // required if literal is used
         }
         distance: <Number> // meters
         duration: <Number> // seconds
@@ -160,6 +163,7 @@ Vous pouvez soumettre des modifications en créant une _Pull Request_ directemen
             lon: <Number> // float WGS84
             insee: <String> // use String
             literal: <String> // human readable adresse
+            country: <String> // required if literal is used
         }
         end: {
             datetime: <DateTime> * // UTC ISO 8601 (YYYY-MM-DD hh:mm:ssZ)
@@ -167,6 +171,7 @@ Vous pouvez soumettre des modifications en créant une _Pull Request_ directemen
             lon: <Number> // float WGS84
             insee: <String> // use String
             literal: <String> // human readable adresse
+            country: <String> // required if literal is used
         }
         distance: <Number> // meters
         duration: <Number> // seconds
