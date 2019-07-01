@@ -16,6 +16,8 @@
 
 **DINSIC** - **D**irection **I**nterministérielle du **N**umérique et du **S**ystème d'**I**nformation et de **C**ommunication.
 
+**DGITM** - **D**irection **G**énérale des **I**nfrastructures, des **T**ransports et de la **M**er.
+
 **Incitation** - Contrepartie financière ou non-financière distribuée par une AOM à des covoitureurs répondants aux critères d'une politique d'incitation.
 
 **Opérateur de covoiturage** - cela désigne une personne morale opérant un service de covoiturage pour mettre en relation les covoitureurs.
