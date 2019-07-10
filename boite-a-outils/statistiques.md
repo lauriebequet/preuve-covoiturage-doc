@@ -2,6 +2,10 @@
 
 Chez Beta.gouv, dans une volonté de transparence, les statistiques d’usage de la majorité de nos produits sont disponibles. Les statistiques spécifiques au registre de preuve de covoiturage sont disponibles à [l'adresse suivante](https://app.covoiturage.beta.gouv.fr/stats). 
 
+{% hint style="danger" %}
+Les statistiques sont issues des données collectées à partir des informations communiquées par les opérateurs partenaires. Il ne s'agit en aucun cas d'une représentation exhaustive du covoiturage en France.
+{% endhint %}
+
 ## Détails sur calcul
 
 ### Distance parcourue

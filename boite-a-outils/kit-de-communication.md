@@ -1,6 +1,17 @@
+---
+description: >-
+  Nous vous invitons à nous communiquer, par mail à l’adresse
+  contact@covoiturage.beta.gouv.fr, tout élément de communication que vous
+  souhaiteriez diffuser, en amont de sa publication.
+---
+
 # Kit de communication
 
-## Flyer
+## Eléments de langage
+
+\[A venir\]
+
+## Eléments graphiques
 
 \[A venir\]
 
