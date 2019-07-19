@@ -20,6 +20,7 @@ Après quelques ateliers, il est collectivement admis que le Registre procédera
 
 * Pour les personnes physiques réalisant des trajets en covoiturage \(appelées occupants\) :
 
+  * Nom
   * Prénom
   * Numéro de téléphone
   * Une variable relative à l’âge : majeur – mineur – non renseigné
