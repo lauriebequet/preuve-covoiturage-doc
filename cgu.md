@@ -1,5 +1,5 @@
 ---
-description: CGU en date du 26/0/2019. Les retours sont les bienvenus.
+description: CGU en date du 26/07/2019. Les retours sont les bienvenus.
 ---
 
 # CGU - Conditions Générales d’Utilisation
