@@ -15,7 +15,7 @@ Conformément aux CGU nous vous invitons à nous communiquer :
 * Les pièces d’identification de la personne :
   * document d’identité pour les personnes physiques ;
   * justificatif de l’inscription à un registre \(commerce, répertoire des métiers ou équivalent\) pour les personnes morales ; 
-* Un dossier technique explicitant la description des moyens et mécanismes techniques engagés pour prouver d’une part, la réalisation d’un covoiturage et d’autre part l’identité d’un covoitureur. Le dossier technique nous permet de définir la[ classe](https://registre-preuve-de-covoiturage.gitbook.io/produit/specifications/classes-de-preuve-de-covoiturage) à associer à vos trajets. Nous vous invitons à tenir compte [des tests](https://docs.google.com/spreadsheets/d/1Mjp1KqQDBw3_7noW66oatN2WqpgCkY-9Ov7JFfbIZYA/edit#gid=0) que nous pourrions être amené à réaliser. 
+* Un dossier technique \([modèle optionnel](https://docs.google.com/document/d/1TAxFoJjywKWHsthGvknGZov-CvlL5l8f_KSnOtxjDAU/edit?usp=sharing)\) explicitant la description des moyens et mécanismes techniques engagés pour prouver d’une part, la réalisation d’un covoiturage et d’autre part l’identité d’un covoitureur. Le dossier technique nous permet de définir la[ classe](https://registre-preuve-de-covoiturage.gitbook.io/produit/specifications/classes-de-preuve-de-covoiturage) à associer à vos trajets. Nous vous invitons à tenir compte [des tests](https://docs.google.com/spreadsheets/d/1Mjp1KqQDBw3_7noW66oatN2WqpgCkY-9Ov7JFfbIZYA/edit#gid=0) que nous pourrions être amené à réaliser. 
 * Les renseignements suivants :
   * Identité délégué à la protection des données \(Nom, Prénom, Email\)
   * Identité responsable de traitement \(Nom, Prénom, Email\)
