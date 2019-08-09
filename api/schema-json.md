@@ -22,8 +22,10 @@ Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 
 #### Liste des Pass transport supportés :
 
-La liste complète est disponible dans le fichier de configuration de l'API. _\(à venir\)_  
+{% hint style="success" %}
+La liste complète est disponible dans le fichier de configuration de l'API \([travel-pass.yml](https://github.com/betagouv/preuve-covoiturage/blob/master/api/config/travel-pass.yml)\).  
 Vous pouvez soumettre des modifications en créant une _Pull Request_ directement sur _Repository_ du projet \(un compte Github est requis\).
+{% endhint %}
 
 ### Données sur le trajet 
 
@@ -93,8 +95,10 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
 
 #### Liste des Titres-Mobilité supportés :
 
+{% hint style="success" %}
 La liste complète est disponible dans le fichier de configuration de l'API. _\(à venir\)_  
 Vous pouvez soumettre des modifications en créant une _Pull Request_ directement sur _Repository_ du projet \(un compte Github est requis\).
+{% endhint %}
 
 ## Schema JSON
 

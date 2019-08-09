@@ -1,4 +1,4 @@
-# Envoyer des trajets
+# Alimenter le registre via l'API
 
 Envoyer un trajet de covoiturage à l’API du Registre de Preuve de Covoiturage nécessite que plusieurs critères soient remplis.
 

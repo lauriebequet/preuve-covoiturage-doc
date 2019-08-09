@@ -9,7 +9,6 @@
 
 ## ⚙️ API
 
-* [Envoyer des trajets](api/envoyer-des-trajets.md)
 * [Schema JSON](api/schema-json.md)
 * [Schema CSV](api/schema-csv.md)
 
@@ -19,6 +18,7 @@
 
 ## 📒 Mode d'emploi
 
+* [Alimenter le registre via l'API](mode-demploi/envoyer-des-trajets.md)
 * [Alimenter le registre via des tableurs](mode-demploi/alimenter-le-registre-via-des-tableurs.md)
 * [Définir une politique d'incitation dans l'interface AOM](mode-demploi/definir-une-politique-incitative-dans-linterface-aom.md)
 
