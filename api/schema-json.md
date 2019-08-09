@@ -2,6 +2,8 @@
 
 Schema JSON pour l'envoi des trajets sur la route `POST /journeys/push`
 
+Voir également [Alimenter le registre via l'API](../mode-demploi/envoyer-des-trajets.md). 
+
 ## Propriétés
 
 **\*** Données obligatoires

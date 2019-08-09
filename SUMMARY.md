@@ -6,6 +6,7 @@
 * [Juridique](juridique.md)
 * [CGU - Conditions Générales d’Utilisation](cgu.md)
 * [FAQ - Foire Aux Questions](faq-foire-aux-questions.md)
+* [Mentions légales](mentions-legales.md)
 
 ## ⚙️ API
 
@@ -21,6 +22,7 @@
 * [Alimenter le registre via l'API](mode-demploi/envoyer-des-trajets.md)
 * [Alimenter le registre via des tableurs](mode-demploi/alimenter-le-registre-via-des-tableurs.md)
 * [Définir une politique d'incitation dans l'interface AOM](mode-demploi/definir-une-politique-incitative-dans-linterface-aom.md)
+* [Rejoindre le registre](mode-demploi/onboarding.md)
 
 ## 🛠️ Boite à outils
 

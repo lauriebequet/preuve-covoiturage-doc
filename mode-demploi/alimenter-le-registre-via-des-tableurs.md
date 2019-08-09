@@ -2,8 +2,10 @@
 
 Il est possible d'alimenter le registre via des tableurs de données en respectant les spécifications [schéma CSV](../api/schema-csv.md) et les prérequis suivants : 
 
-1. Une entité “opérateur de covoiturage” est créé sur l’application du registre. _Nb : cette opération est réalisée par un membre de l’équipe du Registre de Preuve de Covoiturage._
-2. Un utilisateur appartenant à cet opérateur de covoiturage est administrateur. _Nb : la nomination du premier administrateur d’un opérateur de covoiturage est réalisée par un membre de l’équipe du Registre de Preuve de Covoiturage._
+* 1️⃣ Une entité “opérateur de covoiturage” est créé sur l’application du registre.
+* 2️⃣ Un utilisateur appartenant à cet opérateur de covoiturage est administrateur.
+
+Afin de valider les critères 1️⃣ et 2️⃣, veuillez à respecter la procédure [Rejoindre le registre](onboarding.md). En effet, ces opérations sont réalisées par un membre de l’équipe du Registre de Preuve de Covoiturage.
 
 Une fois ces deux prérequis réalisés, voici la démarche à suivre expliquée pas à pas. 
 
