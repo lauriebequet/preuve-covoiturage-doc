@@ -14,7 +14,7 @@ Envoyer un trajet de covoiturage à l’API du Registre de Preuve de Covoiturage
 
 ### 1️⃣ 2️⃣ - Accéder à l’application du registre <a id="docs-internal-guid-1dcfb04d-7fff-6cd0-6f9f-785ab6cd35bb"></a>
 
-Afin de valider les critères 1️⃣ et 2️⃣, veuillez à respecter la procédure [Onboarding](onboarding.md). En effet, ces opérations sont réalisées par un membre de l’équipe du Registre de Preuve de Covoiturage.
+Afin de valider les critères 1️⃣ et 2️⃣, veuillez à respecter la procédure [Rejoindre le registre](onboarding.md). En effet, ces opérations sont réalisées par un membre de l’équipe du Registre de Preuve de Covoiturage.
 
 > La procédure sera simplifiée et automatisée.
 
