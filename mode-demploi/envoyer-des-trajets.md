@@ -46,6 +46,13 @@ Les tokens n’expirent pas dans le temps mais ils peuvent être mis sur une lis
 
 ## Foire Aux Questions 
 
+### Qu'est-ce qu'un trajet ?
+
+Dans la base de données les trajets correspondent à des couples passager-conducteur contenant les informations d'un trajet effectué. Ainsi si dans un covoiturage le nombre de passager est de 2 alors deux couples sont envoyés au registre : 
+
+* Conducteur 1 - Passager 1 : 10 km, etc. 
+* Conducteur 1 - Passager 2 : 10,5 km, etc. 
+
 ### Quel est le délai d'envoi des preuves de covoiturage ? 
 
 Le registre a pour vocation d'agréger des preuves de covoiturage notamment dans l’objectif de lutter contre la fraude massive. Cette preuve de covoiturage est constituée d’un point de départ et d’arrivée. En conséquence, il n’est pas possible, aujourd’hui, pour le registre de délivrer des attestations de covoiturage, pendant un trajet afin d’obtenir une incitation en temps réel. En revanche, il est indispensable pour les organismes incitateurs d’obtenir des informations sur la réalisation d’un trajet au plus vite. En conséquence, un juste milieu doit être trouvé.

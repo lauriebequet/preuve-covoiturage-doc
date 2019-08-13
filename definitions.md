@@ -28,7 +28,7 @@
 
 **Politique d'incitation** - critères de sélection de trajets covoiturés et règles de calcul permettant de lier une action de covoiturage à une incitation.
 
-**Preuve de covoiturage** - couple conducteur-passager contenant les informations d'un trajet effectué. Envoyé par l'opérateur de covoiturage, cette preuve peut être invalidée par le registre en cas d'anomalie.
+**Preuve de covoiturage** - couple passager-conducteur contenant les informations d'un trajet effectué. Envoyé par l'opérateur de covoiturage, cette preuve peut être invalidée par le registre en cas d'anomalie.
 
 **Responsable du traitement** - mission Incubateur de Services Numériques
 
