@@ -23,6 +23,7 @@
 * [Alimenter le registre via des tableurs](mode-demploi/alimenter-le-registre-via-des-tableurs.md)
 * [Définir une politique d'incitation dans l'interface AOM](mode-demploi/definir-une-politique-incitative-dans-linterface-aom.md)
 * [Rejoindre le registre](mode-demploi/onboarding.md)
+* [Utiliser les outils du registre pour mettre en place le Forfait Mobilité Durable](mode-demploi/utiliser-les-outils-du-registre-pour-mettre-en-place-le-forfait-mobilite-durable.md)
 
 ## 🛠️ Boite à outils
 
