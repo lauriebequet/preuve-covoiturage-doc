@@ -6,7 +6,7 @@
 
 ### 1,08 personnes par véhicule seulement dans les déplacements professionnels
 
-Le développement du covoiturage courte distance n’a pas connu le même essor que son pendant sur longue distance. Que ce soit des opérateurs privés ou des plateformes de covoiturage publiques, le constat est identique. Le paysage du covoiturage courte distance français se retrouve ainsi morcelé. Pourtant, c’est une question d’intérêt général que ce secteur se développe. En effet, les bénéfices à l’échelle locale sont multiples tant en termes de désengorgement des voies que de gain de l’espace public, en passant par la réduction des gaz à effets de serre et la création d’interactions sociales. A titre d’exemple, on estime que chaque kilomètre covoituré par passager permet d’éviter l’émission de 195 g CO2 équivalent \(1\).
+Le développement du covoiturage courte distance n’a pas connu le même essor que son homologue pendant sur longue distance. Que ce soit des opérateurs privés ou des plateformes de covoiturage publiques, le constat est identique. Le paysage du covoiturage courte distance français se retrouve ainsi morcelé. Pourtant, c’est une question d’intérêt général que ce secteur se développe. En effet, les bénéfices à l’échelle locale sont multiples tant en termes de désengorgement des voies que de gain de l’espace public, en passant par la réduction des gaz à effets de serre et la création d’interactions sociales. A titre d’exemple, on estime que chaque kilomètre covoituré par passager permet d’éviter l’émission de 195 g CO2 équivalent \(1\).
 
 ### Le manque d’outils et d’accompagnement des territoires face à ce problème
 
