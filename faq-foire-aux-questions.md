@@ -140,6 +140,13 @@ Cas de figure où l’AOM ne serait plus en mesure de verser l’incitation, par
 
 Pour éviter ce cas de figure, il est prévu la création d’un double-dispositif d’alerte, d’une part en proposant la faculté pour l’AOM d’informer l’ensemble des partenaires du niveau de consommation de l’enveloppe, d’autre part le registre étant lui-même destinataire de la politique d’incitation et de son mode de calcul, nous intégrerons un système de suivi de la consommation. Le registre pourra ainsi être interrogé pour connaître la consommation de l’enveloppe. Cette fonctionnalité pourra également être intégrée à l’API.
 
+### **Lorsqu’un trajet est effectué entre deux AOM ayant mis en place une politique incitative au covoiturage, est-ce que les covoitureurs peuvent percevoir deux incitations ?**
+
+Dans les faits, oui. Il est tout à fait possible que les covoitureurs puissent percevoir deux incitations. Ceci est également un excellent indicateur de succès du registre de preuve de covoiturage. Nous veillons néanmoins à ce que la somme des incitations ne dépasse pas le coût du trajet des covoitureurs, afin d’éviter qu’ils réalisent un bénéfice sur le trajet. 
+
+Dans la pratique, nous proposons une fonctionnalité permettant d’attribuer le pourcentage d’un trajet réalisé sur un territoire de compétence \(exemple : trajet réalisé à plus de 50% sur le territoire\).  
+
+
 ### **Le versement d’une subvention publique pour un acte de covoiturage par le biais des opérateurs de covoiturage mène-t-il à la constitution d’une gestion de fait ?**
 
 <table>
@@ -235,6 +242,12 @@ Cependant, le deuxième alinéa du 3° de l'article 242 bis du CGI prévoit que 
 Ce qui nous permet d'indiquer que pour les covoitureurs réguliers \(plus de 20 trajets annuels\), il n'y a pas besoin de déclarer. Le registre de preuve de covoiturage n’a pas vocation à interférer dans les relations entre l’opérateur de covoiturage et l’administration fiscale. Il est de la responsabilité de l’opérateur de se conformer à ces dispositions.  
 
 Plus d’informations sur [l’article 242 bis CGI](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037526190&cidTexte=LEGITEXT000006069577&dateTexte=20181231) et [l’arrêté du 27 décembre 2018 pris pour l'application de l'article 242 bis du code général des impôts - Article 1](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=705F1F8B28ACB7FCC18E278B2E55A3AA.tplgfr42s_2?cidTexte=JORFTEXT000037884772&idArticle=LEGIARTI000038008427&dateTexte=20181230&categorieLien=cid#LEGIARTI000038008427).
+
+### **Quels sont les mécanismes de détection de fraudes opérés par le registre ?**
+
+Il convient de rappeler que la majorité du travail de détection de fraudes est réalisée par les opérateurs de covoiturage. Néanmoins, le registre de preuve de covoiturage opère également quelques contrôles. L’agrégation des preuves de covoiturage des opérateurs sur un plateforme unique nous permet de détecter les cas de fraudes multi-opérateur. Ces divers connections empêchent aux covoitureurs d’utiliser le même numéro de téléphone simultanément sur le même trajet. Ils ne peuvent donc pas bénéficier simultanément d’incitations de divers opérateurs pour le même trajet.  
+  
+Les mécanismes de détection de fraudes et d’incohérences sont continuellement améliorés. 
 
 ### **Comment s’articulent le covoiturage domicile-travail et les frais réels ?**
 
