@@ -144,8 +144,7 @@ Pour éviter ce cas de figure, il est prévu la création d’un double-disposit
 
 Dans les faits, oui. Il est tout à fait possible que les covoitureurs puissent percevoir deux incitations. Ceci est également un excellent indicateur de succès du registre de preuve de covoiturage. Nous veillons néanmoins à ce que la somme des incitations ne dépasse pas le coût du trajet des covoitureurs, afin d’éviter qu’ils réalisent un bénéfice sur le trajet. 
 
-Dans la pratique, nous proposons une fonctionnalité permettant d’attribuer le pourcentage d’un trajet réalisé sur un territoire de compétence \(exemple : trajet réalisé à plus de 50% sur le territoire\).  
-
+Dans la pratique, nous proposons une fonctionnalité permettant d’attribuer le pourcentage d’un trajet réalisé sur un territoire de compétence \(exemple : trajet réalisé à plus de 50% sur le territoire\).
 
 ### **Le versement d’une subvention publique pour un acte de covoiturage par le biais des opérateurs de covoiturage mène-t-il à la constitution d’une gestion de fait ?**
 
@@ -207,8 +206,7 @@ Notre mission est de réaliser un registre de preuve de covoiturage. Aujourd’h
 
 ### **Prévoyez-vous de développer une version du registre de preuve de trajets pour les vélos ?**
 
-Notre mission est de réaliser un registre de preuve de covoiturage. Aujourd’hui, la création d’une solution permettant d'agréger des preuves de déplacements à vélo n’est pas incluse dans notre périmètre. Qui plus est, la pratique du vélo est davantage informelle que celle du covoiturage. Des travaux ont été initiés sur ce sujet par la Fabrique des Mobilités.  
-
+Notre mission est de réaliser un registre de preuve de covoiturage. Aujourd’hui, la création d’une solution permettant d'agréger des preuves de déplacements à vélo n’est pas incluse dans notre périmètre. Qui plus est, la pratique du vélo est davantage informelle que celle du covoiturage. Des travaux ont été initiés sur ce sujet par la Fabrique des Mobilités.
 
 ## Technique & données
 
