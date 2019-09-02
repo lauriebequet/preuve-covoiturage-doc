@@ -195,7 +195,22 @@ Dans le cas présent, une convention est signée entre les parties et le verseme
     </tr>
   </thead>
   <tbody></tbody>
-</table>## Technique & données
+</table>### **Est-ce qu’un équivalent de registre de preuve de covoiturage existe à l’étranger ?**
+
+A notre connaissance, il n’existe pas d’équivalent. Aussi, si vous avez connaissance d’initiatives similaires, merci de nous l’indiquer. 
+
+A ce titre, le code source de ce produit est libre \([source](https://github.com/betagouv/preuve-covoiturage)\). Si un une organisation étrangère souhaite s’en inspirer, cela est tout à fait envisageable.
+
+### **Prévoyez-vous d’agréger toutes les offres de covoiturage sur une plateforme unique**
+
+Notre mission est de réaliser un registre de preuve de covoiturage. Aujourd’hui, la création d’une solution permettant d'agréger les offres de covoiturage n’est pas incluse dans notre périmètre d’action. Pour autant, il s’agit d’un enjeu majeur pour le développement du covoiturage courte distance. Des travaux ont été initiés à ce sujet par la Fabrique des Mobilités, Ile de France Mobilité, la Feduco, etc. ****
+
+### **Prévoyez-vous de développer une version du registre de preuve de trajets pour les vélos ?**
+
+Notre mission est de réaliser un registre de preuve de covoiturage. Aujourd’hui, la création d’une solution permettant d'agréger des preuves de déplacements à vélo n’est pas incluse dans notre périmètre. Qui plus est, la pratique du vélo est davantage informelle que celle du covoiturage. Des travaux ont été initiés sur ce sujet par la Fabrique des Mobilités.  
+
+
+## Technique & données
 
 ### **Que signifie que la plateforme est open-source ? Est-ce que les données sont ouvertes ?**
 
