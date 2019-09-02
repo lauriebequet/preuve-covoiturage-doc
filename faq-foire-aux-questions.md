@@ -214,6 +214,13 @@ Ainsi, une AOM peut déléguer à un tiers la gestion de sa/ses politique\(s\) i
 
 A ce jour, les attestations délivrées par le registre sont un de nos chantiers pendants, elles n’ont donc pas de statut juridique précis. Elles pourront être utilisées par l’usager qui souhaiterait bénéficier des avantages proposés par la politique administrative. A noter qu’en droit administratif, la preuve s’apporte par tout moyen. Ainsi, l’attestation délivrée pourra être utilisée comme preuve des trajets réalisés, jusque dans le cas d’un recours contentieux.Les attestations ainsi délivrées pourront à terme prendre la forme d’une décision au sens de [l’article L. 200-1 du CRPA](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=6F971C1F0C109E09375997CB2CF79242.tplgfr44s_1?idArticle=LEGIARTI000031367495&cidTexte=LEGITEXT000031366350&dateTexte=20190318).
 
+### **Quels sont les opérateurs partenaires du registre ?**
+
+Vous trouverez sur le site [covoiturage.beta.gouv.fr](http://covoiturage.beta.gouv.fr/) une liste exhaustive des opérateurs partenaires du registre. A distinguer :
+
+* la liaison est fonctionnelle, c’est à dire que le registre reçoit leur preuve de covoiturage.
+* Les opérateurs non connectés à la plateforme technique : il s’agit des opérateurs ayant initié une procédure de liaison, c’est à dire que le registre ne reçoit pas encore leur preuve de covoiturage.
+
 ## **Fiscalité**
 
 ### **Quelles sont les obligations des opérateurs de covoiturage vis-à-vis de l'administration fiscale ?**
