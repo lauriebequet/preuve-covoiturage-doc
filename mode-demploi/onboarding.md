@@ -19,7 +19,7 @@ Conformément aux CGU nous vous invitons à nous communiquer :
 * Les renseignements suivants :
   * Identité délégué à la protection des données \(Nom, Prénom, Email\)
   * Identité responsable de traitement \(Nom, Prénom, Email\)
-  * Identité responsable technique \(\(Nom, Prénom, Email, N° téléphone\)
+  * Identité responsable technique \(Nom, Prénom, Email, N° téléphone\)
 * Un RIB.
 * Un logo à mettre sur notre site.
 
