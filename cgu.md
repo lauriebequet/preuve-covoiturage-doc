@@ -436,9 +436,9 @@ Afin de déterminer la classe pouvant être atteinte par un opérateur, ce derni
       <td style="text-align:left">Non</td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>{passenger|driver}.phone : Num&#xE9;ro de t&#xE9;l&#xE9;phone au format ITU E.164 (+33123456789)</em>
+      <td style="text-align:left"><em>{passenger|driver}.phone : Num&#xE9;ro de t&#xE9;l&#xE9;phone au format ITU E.164 (+33123456789).</em>
       </td>
-      <td style="text-align:left">Obligatoire</td>
+      <td style="text-align:left">Obligatoire (8 premiers chiffres)</td>
       <td style="text-align:left">Non</td>
       <td style="text-align:left">Non</td>
     </tr>
