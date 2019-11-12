@@ -2,7 +2,7 @@
 
 **ADEME** - **A**gence **D**e l’**E**nvironnement et de la **M**aîtrise de l’**E**nergie.
 
-**Attestation de covoiturage** - Document numérique certifié produit par le Registre de preuve de covoiturage regroupant les incitations délivrées par une campagne de distribution.
+**Attestation de covoiturage** - Document numérique certifié produit par le Registre de preuve de covoiturage.
 
 **Autorité Organisatrice de la Mobilité \(AOM\)** - elle désigne un territoire ayant une compétence d’organisation du réseau de transport urbain.
 
