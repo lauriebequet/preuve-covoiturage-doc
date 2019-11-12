@@ -1,4 +1,4 @@
-# Schema CSV
+# Schema CSV \(déprécié\)
 
 Pour alimenter le registre avec des données en format CSV, voir également "[alimenter le registre via des tableurs](../mode-demploi/alimenter-le-registre-via-des-tableurs.md)".
 

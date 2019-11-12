@@ -10,8 +10,10 @@
 
 ## ⚙️ API
 
-* [Schema JSON](api/schema-json.md)
-* [Schema CSV](api/schema-csv.md)
+* [Schema JSON V2](api/schema-json-v2.md)
+* [Schema JSON V1 \(déprécié\)](api/schema-json-v1.md)
+* [Schema CSV \(déprécié\)](api/schema-csv.md)
+* [Outils](api/outils.md)
 
 ## 📋 Spécifications
 

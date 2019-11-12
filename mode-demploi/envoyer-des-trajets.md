@@ -1,6 +1,6 @@
 # Alimenter le registre via l'API
 
-Voir également [Schema JSON](../api/schema-json.md).
+Voir également [Schema JSON](../api/schema-json-v1.md).
 
 Envoyer un trajet de covoiturage à l’API du Registre de Preuve de Covoiturage nécessite que plusieurs critères soient remplis.
 
