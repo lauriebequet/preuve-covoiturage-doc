@@ -150,6 +150,11 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
         "minLength": 10,
         "maxLength": 15
       },
+      "phone_trunc": {
+        "type": "string",
+        "minLength": 8,
+        "maxLength": 15
+      },
       "timestamp": {
         "type": "string",
         "format": "date-time"
@@ -192,7 +197,10 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
     },
     "identity": {
       "type": "object",
-      "required": ["phone"],
+      "anyOf": [
+        {"required": ["phone"]},
+        {"required": ["operator_user_id", "phone_trunc"]}
+      ]
       "additionalProperties": false,
       "properties": {
         "firstname": {
@@ -206,6 +214,12 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
         },
         "phone": {
           "$ref": "#/definitions/macros/phone"
+        },
+        "phone_trunc": {
+          "$ref": "#/definitions/macros/phone_trunc"
+        },
+        "operator_user_id": {
+          "$ref": "#/definitions/macros/varchar"
         },
         "company": {
           "$ref": "#/definitions/macros/varchar"
