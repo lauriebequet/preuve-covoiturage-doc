@@ -8,7 +8,7 @@ description: CGU en date du 26/07/2019. Les retours sont les bienvenus.
 
 Ce document traduit l’engagement des parties à faciliter la distribution d’incitations à destination des usagers et/ou opérateurs du covoiturage, grâce à la mise à disposition d'un registre de preuve de covoiturage.
 
-Cette opportunité est rendue possible par la mise en œuvre d’un système d’information selon les méthodes des “Startups d'État”, opéré par la mission Incubateur de Services Numériques au sein de la Direction Interministérielle du Numérique et du Système d'Information et de Communication, dénommée “DINSIC” dans la suite, pour le compte de l’Agence De l’Environnement et de la Maîtrise de l’Energie ainsi que de la Direction Générale des Infrastructures, des Transports et de la Mer, dénommées respectivement ADEME et DGITM dans la suite. Ce registre de preuve de covoiturage est dénommé « le Service » dans la suite ; la mission Incubateur de Services Numériques, « le responsable du traitement ».
+Cette opportunité est rendue possible par la mise en œuvre d’un système d’information selon les méthodes des “Startups d'État”, opéré par la mission Incubateur de Services Numériques au sein de la Direction Interministérielle du Numérique, dénommée “DINUM” dans la suite, pour le compte de l’Agence De l’Environnement et de la Maîtrise de l’Energie ainsi que de la Direction Générale des Infrastructures, des Transports et de la Mer, dénommées respectivement ADEME et DGITM dans la suite. Ce registre de preuve de covoiturage est dénommé « le Service » dans la suite ; la mission Incubateur de Services Numériques, « le responsable du traitement ».
 
 ### **Objet**
 
@@ -70,7 +70,7 @@ Le délai maximum entre le dépôt de dossier complet et la délivrance de la cl
 
 ### 2.1 Le responsable du Service 
 
-Le responsable du Service, responsable du traitement, est la Direction interministérielle du numérique et du système d’information de l’Etat **\(**DINSIC\). Il prend envers l’ensemble des utilisateurs du Service, les engagements suivants : 
+Le responsable du Service, responsable du traitement, est la Direction Interministérielle du Numérique **\(**DINUM\). Il prend envers l’ensemble des utilisateurs du Service, les engagements suivants : 
 
 * L’ouverture d’un accès aux seuls personnes morales répondant aux conditions cumulatives présentées au 1 ; 
 * Les données brutes récoltées par le registre ne sont transmises à aucun tiers ; \*
@@ -102,11 +102,11 @@ Le responsable du traitement :
 
 Le responsable du traitement s’engage à mettre en œuvre toutes mesures appropriées, afin de protéger les données traitées dans le cadre du Service.
 
-La DINSIC est responsable des informations traitées dans le cadre du Service et, à ce titre, s’engage à respecter les obligations inhérentes à ce traitement, notamment en matière de protection de la vie privée. Elle s’engage à ne pas commercialiser les données reçues, à ne pas les communiquer à des tiers en dehors des cas prévus par la loi \([1](https://www.cnil.fr/fr/lacces-des-autorites-publiques-aux-donnees-chiffrees),[2](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460)\).
+La DINUM est responsable des informations traitées dans le cadre du Service et, à ce titre, s’engage à respecter les obligations inhérentes à ce traitement, notamment en matière de protection de la vie privée. Elle s’engage à ne pas commercialiser les données reçues, à ne pas les communiquer à des tiers en dehors des cas prévus par la loi \([1](https://www.cnil.fr/fr/lacces-des-autorites-publiques-aux-donnees-chiffrees),[2](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460)\).
 
-La DINSIC s’engage à la sécurisation du Service, notamment en prenant toutes les mesures nécessaires permettant de garantir la sécurité et la confidentialité des informations fournies par les opérateurs et celles mises à disposition des AOM.
+La DINUM s’engage à la sécurisation du Service, notamment en prenant toutes les mesures nécessaires permettant de garantir la sécurité et la confidentialité des informations fournies par les opérateurs et celles mises à disposition des AOM.
 
-Conformément aux dispositions du règlement n° 2016/679, dit règlement général sur la protection des données, le présent traitement est déclaré auprès du registre des traitements de la DINSIC.
+Conformément aux dispositions du règlement n° 2016/679, dit règlement général sur la protection des données, le présent traitement est déclaré auprès du registre des traitements de la DINUM.
 
 #### **2.1.4 Statistiques**
 
@@ -197,7 +197,7 @@ Les Autorités Organisatrices de la Mobilité participent aux finalités du regi
 
 En ce sens, préalablement à l’ouverture de l’accès au Service, elles s’engagent à mettre en œuvre une politique incitative. Cette dernière ne saurait être discriminante envers les opérateurs et covoitureurs. 
 
-Les Autorités Organisatrices de la Mobilité fournissent à la DINSIC, pendant toute la durée de l’engagement, la liste des Opérateurs qui participent à la politique d’incitation. 
+Les Autorités Organisatrices de la Mobilité fournissent à la DINUM, pendant toute la durée de l’engagement, la liste des Opérateurs qui participent à la politique d’incitation. 
 
 Les Autorités Organisatrices de la Mobilité veillent à tenir informé le Responsable du Service et les Opérateurs partenaires, de la consommation de leur enveloppe \(ou des avantages non pécuniaires\) relative à leurs politiques incitatives respectives. A défaut, le Responsable du Service calcule cette information et la fournit à titre indicatif, aux parties prenantes.
 
@@ -207,13 +207,13 @@ Les Autorités Organisatrices de la Mobilité veillent à contrôler les accès 
 
 #### **2.3.3 Communication**
 
-Les Autorités Organisatrices de la Mobilité s’engagent à utiliser les éléments de marque fournis par la DINSIC, sans modification. 
+Les Autorités Organisatrices de la Mobilité s’engagent à utiliser les éléments de marque fournis par la DINUM, sans modification. 
 
 Les Autorités Organisatrice de la Mobilité veillent à informer le responsable du traitement de la réutilisation des informations transmises par le registre. Cette réutilisation ne saurait porter atteinte au secret des affaires, lequel comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou industrielles des différents opérateurs.
 
 ### **2.4 Audits**
 
-Les opérateurs de covoiturage permettent la réalisation d’audits complets, sur pièces et sur place, dans la limite de 2 \(deux\) audits par an dont les frais sont entièrement supportés par la DINSIC.
+Les opérateurs de covoiturage permettent la réalisation d’audits complets, sur pièces et sur place, dans la limite de 2 \(deux\) audits par an dont les frais sont entièrement supportés par la DINUM.
 
 Le responsable du Service réalisera à tout moment, sans délai et sans information préalable, les scénarios de test relatifs aux différentes classes de preuves. Tout écart constaté fera l’objet d’une notification à l’opérateur concerné ainsi qu’à l’AOM. L’opérateur devra justifier l’écart constaté et mettre tout en œuvre pour le corriger dans un délai qui ne saurait excéder deux mois.
 
@@ -237,7 +237,7 @@ Les tiers utilisent le même formulaire d’inscription que les autres typologie
 
 ## **3. Animation et suivi**
 
-La mission Incubateur de Services Numériques, au sein de la DINSIC, est chargée de l’animation et de la mise en œuvre du Service, qui nécessite un travail collaboratif permanent sur les plans techniques, juridiques, et commerciaux avec ses usagers. Ce travail prend notamment la forme d'une réunion ouverte bimestrielle. Chaque adhérent au Service est invité à faire part de toute évolution qu’il jugerait utile afin d’améliorer la qualité du Service.
+La mission Incubateur de Services Numériques, au sein de la DINUM, est chargée de l’animation et de la mise en œuvre du Service, qui nécessite un travail collaboratif permanent sur les plans techniques, juridiques, et commerciaux avec ses usagers. Ce travail prend notamment la forme d'une réunion ouverte bimestrielle. Chaque adhérent au Service est invité à faire part de toute évolution qu’il jugerait utile afin d’améliorer la qualité du Service.
 
 La mission Incubateur de Services Numériques dresse, de manière trimestrielle, le bilan de l’impact du Service, notamment mesuré par le nombre de trajets reçus au travers du système, le nombre d’incitation distribuée et la qualité de service moyenne perçue par les opérateurs et les AOM. Ce bilan est rendu disponible à tous sur le site du Service, rubrique Statistiques.
 
@@ -245,13 +245,13 @@ Le responsable du traitement s’assure de mener les travaux en concertation ave
 
 ## **4. Propriété intellectuelle et documentation**
 
-Le code source de la plateforme est libre et disponible, sous licence de réutilisation, sur [GitHub](https://github.com/betagouv/preuve-covoiturage). Le responsable du traitement veille à réaliser une documentation détaillée des divers éléments techniques inclus dans le Service. Les marques et logos spécifiques au registre sont la propriété de la DINSIC et l’ADEME et sont protégés par le droit de la propriété intellectuelle.
+Le code source de la plateforme est libre et disponible, sous licence de réutilisation, sur [GitHub](https://github.com/betagouv/preuve-covoiturage). Le responsable du traitement veille à réaliser une documentation détaillée des divers éléments techniques inclus dans le Service. Les marques et logos spécifiques au registre sont la propriété de la DINUM et l’ADEME et sont protégés par le droit de la propriété intellectuelle.
 
 En revanche, il est rappelé que certains éléments présents sur le site sont couverts par des droits de propriété intellectuelle. C’est le cas des marques verbales, figuratives ou semi-figuratives \(logos des opérateurs et territoires notamment\) contenues sur ce site. Toute représentation desdits éléments est strictement interdite par les titulaires des droits. L'atteinte portée au droit du propriétaire de la marque constitue une contrefaçon engageant la responsabilité civile de son auteur.
 
 ## **5. Durée**
 
-L’adhésion aux présentes Conditions est opposable à compter de la date de délivrance de la clé d’accès par la DINSIC faisant suite à la demande d’adhésion du partenaire. L’accès au registre est valide pour une durée de 1 an renouvelable pendant la période d’expérimentation et permet l’accès sécurisé au Service.
+L’adhésion aux présentes Conditions est opposable à compter de la date de délivrance de la clé d’accès par la DINUM faisant suite à la demande d’adhésion du partenaire. L’accès au registre est valide pour une durée de 1 an renouvelable pendant la période d’expérimentation et permet l’accès sécurisé au Service.
 
 Sans manifestation des parties, l’adhésion au Service est reconduite tacitement.
 
@@ -259,7 +259,7 @@ Si l’une des parties souhaite résilier la présente convention, elle en infor
 
 ## **6. Conditions financières**
 
-La participation au registre de preuve de covoiturage ne donne lieu à aucune compensation financière entre la DINSIC et les différents partenaires.
+La participation au registre de preuve de covoiturage ne donne lieu à aucune compensation financière entre la DINUM et les différents partenaires.
 
 ## **7. Règlement des litiges**
 
