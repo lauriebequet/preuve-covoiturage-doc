@@ -5,7 +5,7 @@ description: Version 1.0 du schéma de preuves. Supporté jusqu'au 31 décembre 
 # Schema JSON V1 \(déprécié\)
 
 {% hint style="danger" %}
-Attention, cette version du schéma est déprécié. Merci d'utiliser la [version 2.0](schema-json-v2.md).  
+Attention, cette version du schéma est dépréciée. Merci d'utiliser la [version 2.0](schema-json-v2.md).  
 Fin du support : **31 décembre 2019**
 {% endhint %}
 
