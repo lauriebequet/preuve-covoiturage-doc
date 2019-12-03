@@ -11,6 +11,13 @@ Le schéma complet est disponible à la fin de ce document. Afin de le rendre pl
 
 > Voir également [Alimenter le registre via l'API](../mode-demploi/envoyer-des-trajets.md).
 
+{% hint style="warning" %}
+Les unités utilisées pour les valeurs sont :  
+- montants financiers en **centimes d'Euros**  
+- distances en **mètres**  
+- durées en **secondes**
+{% endhint %}
+
 ## Propriétés
 
 **\*** Données obligatoires
@@ -110,12 +117,14 @@ Par défaut, l'ordre d'application des politiques incitatives est le suivant :
 La prise en charge des frais de transports personnel \(carburant et forfait mobilité\) pourra prendre la forme d’une solution de paiement spécifique, dématérialisée et prépayée, intitulée « titre-mobilité ». Ainsi, il apparaît comme pertinent de détailler la solution de paiement utilisée dans le cadre d'un trajet covoituré, s'il s'agit de Titre-Mobilité. 
 {% endhint %}
 
-* `payments` : Zéro, une ou plusieurs méthodes de paiement utilisées
+* `payments` : Zéro, une ou plusieurs méthodes de paiement utilisées \(ex. carte employeur préchargée permettant de payer directement le covoiturage sur une application\).
 
 ```text
 {
-    pass_type: <String> *     // identifiant du titre (voir ci-dessous)
-    amount: <Number> *       // montant en centimes d'euros
+    index: <Number> *    // ordre d'application (0, 1, 2, ...)
+    siret: <String> *    // n° SIRET de l'établissement payeur
+    type: <String> *     // nom du titre
+    amount: <Number> *   // montant en centimes d'euros
 }
 ```
 
@@ -286,8 +295,16 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
       "required": ["pass", "amount"],
       "additionalProperties": false,
       "properties": {
-        "pass": {
+        "index": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 42
+        },
+        "siret": {
           "$ref": "#/definitions/macros/siret"
+        },
+        "type": {
+          "$ref": "#/definitions/macros/varchar"
         },
         "amount": {
           "type": "integer",
