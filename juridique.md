@@ -63,7 +63,7 @@ Néanmoins, nous encourageons les Opérateurs de covoiturage à s’assurer de l
 >           des donn&#xE9;es est la mission Incubateur de Services Num&#xE9;riques
 >           au sein de la Direction Interminist&#xE9;rielle du Num&#xE9;rique et du
 >           Syst&#xE8;me d&apos;Information et de Communication, d&#xE9;nomm&#xE9;e
->           &#x201C;DINSIC&#x201D;.</p>
+>           &#x201C;DINUM&#x201D;.</p>
 >         <p></p>
 >         <p>Conform&#xE9;ment &#xE0; la loi relative &#xE0; l&#x2019;informatique,
 >           aux fichiers et aux libert&#xE9;s du 6 janvier 1978 modifi&#xE9;e, vous
@@ -110,7 +110,7 @@ Sur ces deux étapes, les obligations juridiques de la part des opérateurs sont
           Le seul destinataire des donn&#xE9;es est la mission Incubateur de Services
           Num&#xE9;riques au sein de la Direction Interminist&#xE9;rielle du Num&#xE9;rique
           et du Syst&#xE8;me d&apos;Information et de Communication, d&#xE9;nomm&#xE9;e
-          &#x201C;DINSIC&#x201D; ainsi que l&#x2019;Autorit&#xE9; Organisatrice de
+          &#x201C;DINUM&#x201D; ainsi que l&#x2019;Autorit&#xE9; Organisatrice de
           la Mobilit&#xE9; comp&#xE9;tente .
           <br />
           <br />Conform&#xE9;ment &#xE0; la loi relative &#xE0; l&#x2019;informatique,

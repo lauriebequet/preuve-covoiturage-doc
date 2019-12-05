@@ -14,7 +14,7 @@
 
 **Covoitureur \(ou occupant\)** - cela désigne aussi bien le conducteur que le passager formant un équipage de covoiturage.
 
-**DINSIC** - **D**irection **I**nterministérielle du **N**umérique et du **S**ystème d'**I**nformation et de **C**ommunication.
+DINUM - **D**irection **I**nterministérielle du **N**umérique.
 
 **DGITM** - **D**irection **G**énérale des **I**nfrastructures, des **T**ransports et de la **M**er.
 

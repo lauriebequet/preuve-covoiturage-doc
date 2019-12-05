@@ -1,12 +1,12 @@
 # Mentions légales
 
-Le site covoiturage.beta.gouv.fr est édité par l’Incubateur de services numériques de la Direction interministérielle du numérique et du système d’information et de communication de l’État \(DINSIC\).
+Le site covoiturage.beta.gouv.fr est édité par l’Incubateur de services numériques de la Direction interministérielle du numérique de l’État \(DINUM\).
 
 20, avenue de Ségur - 75007 Paris.
 
 **Directeur de la publication :**
 
-Directeur interministériel du numérique et du système d’information et de communication de l’État.
+Directeur interministériel du numérique de l’État.
 
 Nadi Bou Hanna
 
