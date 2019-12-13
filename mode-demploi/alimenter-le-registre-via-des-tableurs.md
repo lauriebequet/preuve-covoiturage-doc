@@ -43,17 +43,17 @@ Une fois le fichier téléchargé, l'ouvrir avec un logiciel de bureautique adap
 
 Le fichier va s'ouvrir dans un format peu lisible \(cf figure ci-dessous\).
 
-![Ouverture d&apos;un fichier .csv dans le logiciel Excel. ](../.gitbook/assets/image%20%2813%29.png)
+![Ouverture d&apos;un fichier .csv dans le logiciel Excel. ](../.gitbook/assets/image%20%2815%29.png)
 
 Afin de nous faciliter la lecture nous vous conseillons d'effectuer les manipulations suivantes :
 
 Manipulation 1 : Sélectionner l'ensemble de la feuille en cliquant sur la case compris entre la première ligne et la première colonne \(indiqué en rouge ci-dessous\). 
 
-![Manipulation de mise en forme : s&#xE9;lectionner tout.](../.gitbook/assets/image%20%2811%29.png)
+![Manipulation de mise en forme : s&#xE9;lectionner tout.](../.gitbook/assets/image%20%2813%29.png)
 
 Manipulation 2 : Dans l'onglet "Accueil" cliquer sur "Renvoyer à la ligne automatiquement".
 
-![Manipulation de mise en forme - renvoi &#xE0; la ligne.](../.gitbook/assets/image%20%289%29.png)
+![Manipulation de mise en forme - renvoi &#xE0; la ligne.](../.gitbook/assets/image%20%2810%29.png)
 
 Résultat : le fichier est davantage lisible.
 
@@ -96,19 +96,19 @@ Se connecter avec vos identifiants habituels à la plateforme : [https://app.cov
 
 Une fois connecté, aller dans l'onglet "Import". Vous pouvez alors sélectionner un fichier puis le télécharger. 
 
-![Interface d&apos;import op&#xE9;rateur](../.gitbook/assets/image%20%284%29.png)
+![Interface d&apos;import op&#xE9;rateur](../.gitbook/assets/image%20%285%29.png)
 
 ### Succès : les trajets ont été uploadés. 
 
 Dans ce cas on voit apparaître l'image ci-dessous.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ### Échec : Erreur
 
 Dans le cas où l'une des étapes n'aurait pas été attentivement suivi, des messages d'erreur peuvent apparaître. Les indications mentionnées vous aident à corriger votre fichier avant d'effectuer une nouvelle tentative de dépôt. 
 
-![Message d&apos;erreur en cas d&apos;&#xE9;chec d&apos;import d&apos;un fichier.](../.gitbook/assets/image%20%286%29.png)
+![Message d&apos;erreur en cas d&apos;&#xE9;chec d&apos;import d&apos;un fichier.](../.gitbook/assets/image%20%287%29.png)
 
 
 

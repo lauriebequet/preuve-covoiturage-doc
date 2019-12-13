@@ -6,7 +6,7 @@ Le registre prend la forme d'une API qui permet à des opérateurs labellisés d
 
 La classe de covoiturage est ainsi basée sur la finalité, c'est à dire sur ce que l'opérateur certifie, et non sur les technologies mises en oeuvre. 
 
-![Classe affect&#xE9;e &#xE0; des trajets r&#xE9;alis&#xE9;s en covoiturage](../.gitbook/assets/image%20%285%29.png)
+![Classe affect&#xE9;e &#xE0; des trajets r&#xE9;alis&#xE9;s en covoiturage](../.gitbook/assets/image%20%286%29.png)
 
 Les classes de covoiturage sont affectées à un trajet. A noter que si un opérateur de covoiturage est en capacité de prouver des trajets jusqu'à la classe C, des trajets peuvent être remontés comme A, B ou C en fonction de certaines spécificités \(exemple : GPS coupé d'un des occupants\). Il est toutefois interdit, sous peine d'être exclu des partenaires, de volontairement baisser la classe d'un trajet lorsque sa non réalisation a été mise en évidence par un opérateur.
 

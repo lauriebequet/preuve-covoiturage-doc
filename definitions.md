@@ -38,5 +38,5 @@ DINUM - **D**irection **I**nterministérielle du **N**umérique.
 
 **Startup d'État** - cela désigne une équipe autonome, qui sans business model et statut juridique propre, répond à un problème de politique publique via une approche incrémentale.
 
-**Trajet de covoiturage** - cela désigne le trajet d’un Conducteur avec un ou plusieurs passagers en Covoiturage réalisé par le biais d’un « Opérateur de covoiturage ».
+**Trajet de covoiturage** - cela désigne le trajet réalisé par un couple passager/conducteursé par le biais d’un « Opérateur de covoiturage ».
 
