@@ -209,7 +209,7 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
       "anyOf": [
         {"required": ["phone"]},
         {"required": ["operator_user_id", "phone_trunc"]}
-      ]
+      ],
       "additionalProperties": false,
       "properties": {
         "firstname": {
