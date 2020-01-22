@@ -22,8 +22,8 @@ Les unités utilisées pour les valeurs sont :
 
 **\*** Données obligatoires
 
-* `journey_id`**\*** : générée par l'opérateur et doit être unique
-* `operator_journey_id` : générée par l'opérateur pour regrouper des trajets
+* `journey_id`**\*** : générée par l'opérateur et doit être unique \(couple passager-conducteur\)
+* `operator_journey_id` : générée par l'opérateur pour regrouper des trajets \(plusieurs passagers avec un même conducteur\)
 * `operator_class`**\*** : la classe de preuve correspondant au spécifications définies dans [Classes de preuve de covoiturage](../specifications/classes-de-preuve-de-covoiturage.md).
 
 ### Données sur l'identité de l'occupant
