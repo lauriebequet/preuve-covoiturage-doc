@@ -1,5 +1,5 @@
 ---
-description: Notre équipe ferra au mieux pour répondre à vos questions.
+description: Notre équipe fera au mieux pour répondre à vos questions.
 ---
 
 # Contacts
