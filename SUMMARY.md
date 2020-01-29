@@ -7,6 +7,7 @@
 * [CGU - Conditions Générales d’Utilisation](cgu.md)
 * [FAQ - Foire Aux Questions](faq-foire-aux-questions.md)
 * [Mentions légales](mentions-legales.md)
+* [Contacts](contacts.md)
 
 ## ⚙️ API
 
