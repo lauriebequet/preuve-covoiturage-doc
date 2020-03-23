@@ -241,6 +241,14 @@ Vous trouverez sur le site [covoiturage.beta.gouv.fr](http://covoiturage.beta.go
 * la liaison est fonctionnelle, c’est à dire que le registre reçoit leur preuve de covoiturage.
 * Les opérateurs non connectés à la plateforme technique : il s’agit des opérateurs ayant initié une procédure de liaison, c’est à dire que le registre ne reçoit pas encore leur preuve de covoiturage.
 
+### Combien de temps conservez-vous les informations collectées par le registre ?
+
+Dans le cas présent, le cycle de conservation des données à caractère personnel peut être divisé en deux phases successives distinctes : 
+
+**1. La base active** : Il s’agit de la durée nécessaire à la réalisation de la finalité du traitement, à savoir attribuer une classe sur un trajet réalisé en covoiturage. Cette durée est fixée à 12 mois. 
+
+**2. L’archivage intermédiaire** : Distinctement de la base active, les données à caractère personnel sont anonymisées et conservées, avec accès restreint, pour une durée de 24 mois. Cette conservation est réalisée à des fins statistiques, de recherche scientifique, de détection de fraudes.
+
 ## **Fiscalité**
 
 ### **Quelles sont les obligations des opérateurs de covoiturage vis-à-vis de l'administration fiscale ?**
