@@ -49,7 +49,7 @@ Nous vous invitons à nous communiquer :
 
 * Les pièces d’identification de la personne morale de droit public ; 
 * Les renseignements suivants : 
-  * Identité délégué à la protection des données \(Nom, Prénom, Email\). 
+  * Identité délégué à la protection des données \(Nom, Prénom, Email\) 
   * Identité responsable de traitement \(Nom, Prénom, Email\) 
   * Identité responsable technique \(Nom, Prénom, Email, N° téléphone\) 
 * Un logo à mettre sur notre site.
@@ -74,7 +74,7 @@ Conformément aux CGU nous vous invitons à nous communiquer :
 * Un dossier décrivant la politique incitative sur le territoire ;
 * La sélection des opérateurs de covoiturage partenaires ou présents sur votre territoire afin de les encourager à rejoindre le registre si ce n’est pas déjà fait. 
 * Les renseignements suivants :
-  * Identité délégué à la protection des données \(Nom, Prénom, Email\).
+  * Identité délégué à la protection des données \(Nom, Prénom, Email\)
   * Identité responsable de traitement \(Nom, Prénom, Email\)
   * Identité responsable technique \(Nom, Prénom, Email, N° téléphone\)
 * Un logo à mettre sur notre site.
