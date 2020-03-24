@@ -41,13 +41,32 @@ Si vous en avez la capacité nous vous recommandons la méthode via l'API.
 
 ## En tant qu'Autorité Organisatrice de la Mobilité
 
-### Etape N°1
+### Accès découverte : vous n'avez pas \(encore\) voté de campagne d'incitation au covoiturage.
+
+#### Etape N°1 
+
+Nous vous invitons à nous communiquer : 
+
+* Les pièces d’identification de la personne morale de droit public ; 
+* Les renseignements suivants : 
+  * Identité délégué à la protection des données \(Nom, Prénom, Email\). 
+  * Identité responsable de traitement \(Nom, Prénom, Email\) 
+  * Identité responsable technique \(Nom, Prénom, Email, N° téléphone\) 
+* Un logo à mettre sur notre site.
+
+#### Etape 2 
+
+Nous vous ouvrons un accès au registre sur [https://app.covoiturage.beta.gouv.fr](https://app.covoiturage.beta.gouv.fr).
+
+### Accès complet : vous avez voté une campagne d’incitation au covoiturage
+
+#### Etape N°1
 
 Vous trouverez nos[ Conditions Générales d'Utilisation \(CGU\) en ligne](https://registre-preuve-de-covoiturage.gitbook.io/produit/cgu).
 
 Merci de nous indiquer par retour de mail votre acceptation de ces CGU.
 
-### Etape N°2
+#### Etape N°2
 
 Conformément aux CGU nous vous invitons à nous communiquer :
 
@@ -60,11 +79,13 @@ Conformément aux CGU nous vous invitons à nous communiquer :
   * Identité responsable technique \(Nom, Prénom, Email, N° téléphone\)
 * Un logo à mettre sur notre site.
 
-### **Etape 3**
+#### **Etape 3**
 
 Nous vous ouvrons un accès au registre sur [https://app.covoiturage.beta.gouv.fr](https://app.covoiturage.beta.gouv.fr/).
 
   
   
+**A ajouter au Gitbook - Rejoindre le registre en tant qu’AOM - accès découverte**
 
+#### \*\*\*\*
 
