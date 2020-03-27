@@ -83,9 +83,5 @@ Conformément aux CGU nous vous invitons à nous communiquer :
 
 Nous vous ouvrons un accès au registre sur [https://app.covoiturage.beta.gouv.fr](https://app.covoiturage.beta.gouv.fr/).
 
-  
-  
-**A ajouter au Gitbook - Rejoindre le registre en tant qu’AOM - accès découverte**
-
 #### \*\*\*\*
 
