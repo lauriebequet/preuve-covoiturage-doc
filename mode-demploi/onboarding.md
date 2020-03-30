@@ -47,7 +47,7 @@ Si vous en avez la capacité nous vous recommandons la méthode via l'API.
 
 Nous vous invitons à nous communiquer : 
 
-* Les pièces d’identification de la personne morale de droit public ; 
+* Les pièces d’identification de la personne morale de droit public \(Exemple : [avis de situation au répertoire SIRENE](http://avis-situation-sirene.insee.fr/jsp/avis-formulaire.jsp)\) ; 
 * Les renseignements suivants : 
   * Identité délégué à la protection des données \(Nom, Prénom, Email\) ➡️ [définition CNIL](https://www.cnil.fr/fr/definition/delegue-protection-donnees)
   * Identité responsable de traitement \(Nom, Prénom, Email\) ➡️ [définition CNIL](https://www.cnil.fr/fr/definition/responsable-de-traitement)
@@ -70,7 +70,7 @@ Merci de nous indiquer par retour de mail votre acceptation de ces CGU.
 
 Conformément aux CGU nous vous invitons à nous communiquer :
 
-* Les pièces d’identification de la personne morale de droit public ; 
+* Les pièces d’identification de la personne morale de droit public \(Exemple : [avis de situation au répertoire SIRENE](http://avis-situation-sirene.insee.fr/jsp/avis-formulaire.jsp)\) ; 
 * Un dossier décrivant la politique incitative sur le territoire ;
 * La sélection des opérateurs de covoiturage partenaires ou présents sur votre territoire afin de les encourager à rejoindre le registre si ce n’est pas déjà fait. 
 * Les renseignements suivants :
