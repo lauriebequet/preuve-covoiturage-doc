@@ -8,6 +8,12 @@ Vous trouverez nos[ Conditions Générales d'Utilisation \(CGU\) en ligne](https
 
 Merci de nous indiquer par retour de mail \(contact@covoiturage.beta.gouv.fr\) votre acceptation de ces CGU.
 
+{% hint style="success" %}
+**Qui doit accepter les CGU ?** 
+
+Celui qui demande et accepte les CGU engage sa structure. Charge à lui ou à elle de prendre ses responsabilités.
+{% endhint %}
+
 ### Etape N°2
 
 Conformément aux CGU nous vous invitons à nous communiquer :
@@ -65,6 +71,12 @@ Nous vous ouvrons un accès au registre sur [https://app.covoiturage.beta.gouv.f
 Vous trouverez nos[ Conditions Générales d'Utilisation \(CGU\) en ligne](https://registre-preuve-de-covoiturage.gitbook.io/produit/cgu).
 
 Merci de nous indiquer par retour de mail votre acceptation de ces CGU.
+
+{% hint style="success" %}
+**Qui doit accepter les CGU ?** 
+
+Celui qui demande et accepte les CGU engage sa structure. Charge à lui ou à elle de prendre ses responsabilités.
+{% endhint %}
 
 #### Etape N°2
 

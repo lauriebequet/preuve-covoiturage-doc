@@ -169,8 +169,11 @@ Au niveau de la jurisprudence des Chambres régionales des comptes, il y a gesti
 * Lorsque l’objet réel du versement d’une subvention diffère de celui qui est annoncé, et vise à payer des dépenses irrégulières ;
 * Lorsque l’association exerce en réalité la gestion déléguée d’un service public sans en avoir la qualité : il est indispensable qu’une convention soit signée entre les parties.
 
-Dans le cas présent, une convention est signée entre les parties et le versement de la subvention est conditionné aux principes énoncés dans cette même convention. En conséquence, ceci ne constitue, a priori, pas une gestion de faits.  
+Dans le cas présent, une convention est signée entre les parties et le versement de la subvention est conditionné aux principes énoncés dans cette même convention. En conséquence, ceci ne constitue, a priori, pas une gestion de faits.
 
+### Est-il possible pour une AOM de ne faire la promotion du covoiturage et d'une politique incitative que chez certains employeurs ciblés sur une zone ? 
+
+C'est tout à fait possible si ceci n'amène à une rupture d'égalité notoire. Il convient ainsi de le faire de manière intelligente et justifiée. Par exemple, nous vous invitons à faire un acte de publicité large, ceci peut se concrétiser par l'utilisation de réseaux sociaux ou d'emailing. Ensuite, vous pouvez tout à fait cibler certaines zones de votre territoire en le justifiant d’une quelconque manière \(congestionnement, nombre d’employés, diminution des places de stationnement, etc.\). Vous pouvez également inviter la Chambre de Commerce et d'Industrie compétente \([voir annuaire des CCI](https://www.cci.fr/web/organisation-du-reseau/annuaire)\) a prendre votre relais afin d’assurer une publicité maillée de votre territoire. 
 
 <table>
   <thead>
@@ -194,21 +197,7 @@ Dans le cas présent, une convention est signée entre les parties et le verseme
     </tr>
   </thead>
   <tbody></tbody>
-</table>### **Est-ce qu’un équivalent de registre de preuve de covoiturage existe à l’étranger ?**
-
-A notre connaissance, il n’existe pas d’équivalent. Aussi, si vous avez connaissance d’initiatives similaires, merci de nous l’indiquer. 
-
-A ce titre, le code source de ce produit est libre \([source](https://github.com/betagouv/preuve-covoiturage)\). Si un une organisation étrangère souhaite s’en inspirer, cela est tout à fait envisageable.
-
-### **Prévoyez-vous d’agréger toutes les offres de covoiturage sur une plateforme unique**
-
-Notre mission est de réaliser un registre de preuve de covoiturage. Aujourd’hui, la création d’une solution permettant d'agréger les offres de covoiturage n’est pas incluse dans notre périmètre d’action. Pour autant, il s’agit d’un enjeu majeur pour le développement du covoiturage courte distance. Des travaux ont été initiés à ce sujet par la Fabrique des Mobilités, Ile de France Mobilité, la Feduco, etc. ****
-
-### **Prévoyez-vous de développer une version du registre de preuve de trajets pour les vélos ?**
-
-Notre mission est de réaliser un registre de preuve de covoiturage. Aujourd’hui, la création d’une solution permettant d'agréger des preuves de déplacements à vélo n’est pas incluse dans notre périmètre. Qui plus est, la pratique du vélo est davantage informelle que celle du covoiturage. Des travaux ont été initiés sur ce sujet par la Fabrique des Mobilités.
-
-## Technique & données
+</table>## Technique & données
 
 ### **Que signifie que la plateforme est open-source ? Est-ce que les données sont ouvertes ?**
 
@@ -240,6 +229,10 @@ Vous trouverez sur le site [covoiturage.beta.gouv.fr](http://covoiturage.beta.go
 
 * la liaison est fonctionnelle, c’est à dire que le registre reçoit leur preuve de covoiturage.
 * Les opérateurs non connectés à la plateforme technique : il s’agit des opérateurs ayant initié une procédure de liaison, c’est à dire que le registre ne reçoit pas encore leur preuve de covoiturage.
+
+### Je ne suis pas une AOM, puis-je accéder au registre pour obtenir des données sur mon territoire ? 
+
+Le registre de preuve de covoiturage est construit à destination des collectivités ayant des compétences en matière d’organisation des transports. Ainsi, l’accès au registre est restreint aux AOM. Pour autant, la mise à disposition de ces données permettrait de proposer une fonction d'observatoire du covoiturage à toutes les personnes intéressées. Du côté du registre, il s'agirait de s'assurer de l'anonymisation des covoitureurs et le cas échéant, la suppression des parts de marché des partenaires économiques. Ce travail sera réalisé dans les mois à venir.
 
 ### Combien de temps conservez-vous les informations collectées par le registre ?
 
@@ -315,4 +308,20 @@ Le covoiturage en tant qu’activité de partage de frais n’est pas imposable.
 
 Plus d’informations sur [impots.gouv.fr](https://www.impots.gouv.fr/portail/node/10841) et le [portail du ministère de l’économie](https://www.economie.gouv.fr/particuliers/covoiturage-declarer-revenus).  
 
+
+## **Perspectives et questions diverses** 
+
+### **Est-ce qu’un équivalent de registre de preuve de covoiturage existe à l’étranger ?**
+
+A notre connaissance, il n’existe pas d’équivalent. Aussi, si vous avez connaissance d’initiatives similaires, merci de nous l’indiquer. 
+
+A ce titre, le code source de ce produit est libre \([source](https://github.com/betagouv/preuve-covoiturage)\). Si un une organisation étrangère souhaite s’en inspirer, cela est tout à fait envisageable.
+
+### **Prévoyez-vous d’agréger toutes les offres de covoiturage sur une plateforme unique**
+
+Notre mission est de réaliser un registre de preuve de covoiturage. Aujourd’hui, la création d’une solution permettant d'agréger les offres de covoiturage n’est pas incluse dans notre périmètre d’action. Pour autant, il s’agit d’un enjeu majeur pour le développement du covoiturage courte distance. Des travaux ont été initiés à ce sujet par la Fabrique des Mobilités, Ile de France Mobilité, la Feduco, etc. ****
+
+### **Prévoyez-vous de développer une version du registre de preuve de trajets pour les vélos ?**
+
+Notre mission est de réaliser un registre de preuve de covoiturage. Aujourd’hui, la création d’une solution permettant d'agréger des preuves de déplacements à vélo n’est pas incluse dans notre périmètre. Qui plus est, la pratique du vélo est davantage informelle que celle du covoiturage. Des travaux ont été initiés sur ce sujet par la Fabrique des Mobilités.
 
