@@ -8,9 +8,6 @@ description: Ce mode d'emploi est réservé aux administrateurs d'un compte AOM.
 
 Le registre de preuve de covoiturage propose aux AOM un module leur permettant d'automatiser la distribution des incitations directement dans leur interface. 
 
-Deux concepts à prendre en compte : 
-
-* **Politique incitative** : critères de sélection de trajets covoiturés et règles de calcul permettant de lier une action de covoiturage à une incitation.
 * **Campagne de distribution** : action de distribuer des incitations à une liste de trajets concernés par une politique d'incitation sur une période donnée. Une campagne peut être périodique ou ponctuelle. 
 
 ## Pré-requis
