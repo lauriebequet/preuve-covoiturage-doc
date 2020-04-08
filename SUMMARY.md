@@ -23,6 +23,7 @@
 ## 📒 Mode d'emploi
 
 * [Alimenter le registre via l'API](mode-demploi/envoyer-des-trajets.md)
+* [Vérifier le statut d'un trajet](mode-demploi/verifier-le-statut-dun-trajet.md)
 * [Alimenter le registre via des tableurs](mode-demploi/alimenter-le-registre-via-des-tableurs.md)
 * [Définir une politique d'incitation dans l'interface AOM](mode-demploi/definir-une-politique-incitative-dans-linterface-aom.md)
 * [Rejoindre le registre](mode-demploi/onboarding.md)
