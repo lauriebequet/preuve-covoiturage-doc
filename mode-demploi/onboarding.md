@@ -1,4 +1,4 @@
-# Rejoindre le registre
+# Devenir partenaire
 
 ## En tant qu'opérateur de covoiturage
 

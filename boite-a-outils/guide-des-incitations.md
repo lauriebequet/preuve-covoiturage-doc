@@ -138,7 +138,7 @@ Il est envisageable de débloquer l’incitation à l’atteinte d’un grade \(
           <li><b>Comment - le format des incitations.</b>
           </li>
         </ol>
-        <p><b>D&#x2019;une mani&#xE8;re g&#xE9;n&#xE9;rale, nous vous conseillons d&#x2019;aller au plus simple et d&#x2019;exp&#xE9;rimenter sur des formats courts quitte &#xE0; changer la politique &#xE0; l&#x2019;issue d&#x2019;une premi&#xE8;re p&#xE9;riode d&#x2019;exp&#xE9;rimentation. Par exemple : incitation du covoitureur et passager sur les trajets dont l&#x2019;origine et/ou la destination sont compris dans le territoire via une place de stationnement pour les preuves de confiance forte, 1&#x20AC; par trajet pour les preuves dites interm&#xE9;diaire et 0,50&#x20AC; pour les preuves dont l&#x2019;indice de confiance est faible.  </b>
+        <p><b>D&#x2019;une mani&#xE8;re g&#xE9;n&#xE9;rale, nous vous conseillons d&#x2019;aller au plus simple et d&#x2019;exp&#xE9;rimenter sur des formats courts quitte &#xE0; changer la politique &#xE0; l&#x2019;issue d&#x2019;une premi&#xE8;re p&#xE9;riode d&#x2019;exp&#xE9;rimentation.   </b>
         </p>
       </th>
     </tr>

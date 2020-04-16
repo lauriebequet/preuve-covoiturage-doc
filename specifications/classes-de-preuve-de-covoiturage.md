@@ -10,7 +10,7 @@ La classe de covoiturage est ainsi basée sur la finalité, c'est à dire sur ce
 
 Les classes de covoiturage sont affectées à un trajet. A noter que si un opérateur de covoiturage est en capacité de prouver des trajets jusqu'à la classe C, des trajets peuvent être remontés comme A, B ou C en fonction de certaines spécificités \(exemple : GPS coupé d'un des occupants\). Il est toutefois interdit, sous peine d'être exclu des partenaires, de volontairement baisser la classe d'un trajet lorsque sa non réalisation a été mise en évidence par un opérateur.
 
-Afin de déterminer la classe pouvant être atteinte par un opérateur, ce dernier communique à l'équipe du registre une synthèse des mécanismes de vérification mis en oeuvre de son côté. Une classe ainsi qu'un label lui sont affectés. L'équipe du registre peut alors réaliser [une série de tests](https://docs.google.com/spreadsheets/d/1Mjp1KqQDBw3_7noW66oatN2WqpgCkY-9Ov7JFfbIZYA/edit#gid=0) afin de vérifier la conformité aux classes. Ces tests s'ajoutent à la vérification de la conformité aux [CGU](../cgu.md). 
+Afin de déterminer la classe pouvant être atteinte par un opérateur, ce dernier communique à l'équipe du registre une synthèse des mécanismes de vérification mis en oeuvre de son côté. Une classe ainsi qu'un label lui sont affectés. L'équipe du registre peut alors réaliser [une série de tests](https://docs.google.com/spreadsheets/d/1Mjp1KqQDBw3_7noW66oatN2WqpgCkY-9Ov7JFfbIZYA/edit#gid=0) afin de vérifier la conformité aux classes. Ces tests s'ajoutent à la vérification de la conformité aux [CGU](../presentation/cgu.md). 
 
 ## Réflexions en cours
 

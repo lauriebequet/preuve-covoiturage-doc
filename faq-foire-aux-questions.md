@@ -201,17 +201,19 @@ C'est tout à fait possible si ceci n'amène à une rupture d'égalité notoire.
 
 ### **Que signifie que la plateforme est open-source ? Est-ce que les données sont ouvertes ?**
 
-Attention, il ne faut pas confondre “open source” et “open data”.
+**Attention, il ne faut pas confondre “open source” et “open data”.**
 
 L’open-source s'applique aux[ logiciels](https://fr.wikipedia.org/wiki/Logiciel) dont la[ licence](https://fr.wikipedia.org/wiki/Licence_de_logiciel) respecte des critères précisément établis par l'[Open Source Initiative](https://fr.wikipedia.org/wiki/Open_Source_Initiative), c'est-à-dire les possibilités de libre redistribution, d'accès au[ code source](https://fr.wikipedia.org/wiki/Code_source) et de création de travaux dérivés. Mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs. \([Wikipédia](https://fr.wikipedia.org/wiki/Open_source)\). En France, l’ensemble des codes-sources développés par les administrations doivent être ouverts \(sauf rares exceptions\), le registre de preuve de covoiturage est donc “open source”.
 
-L’open data consiste à ouvrir, c’est-à-dire diffuser, des informations permettant notamment de garantir la transparence administrative. Les administrations sont dans l’obligation de diffuser les informations publiques qu’elles produisent ou reçoivent. L’ouverture de ces données est soumise à un cadre précis, la diffusion de ces données ne devant porter atteinte ni à la protection de la vie privée, ni au secret des affaires. Ainsi, nous veillerons à traiter l’ensemble des informations avant leur publication. Dès lors, seront ouvertes des données relatives à l’usage de la plateforme, aux trajets effectués, le cas échéant après avoir fait l’objet d’un traitement permettant une publication conforme \(anonymisation, agrégation, etc.\).
+L’open data consiste à ouvrir, c’est-à-dire diffuser, des informations permettant notamment de garantir la transparence administrative. Les administrations sont dans l’obligation de diffuser les informations publiques qu’elles produisent ou reçoivent. L’ouverture de ces données est soumise à un cadre précis, la diffusion de ces données ne devant porter atteinte ni à la protection de la vie privée, ni au secret des affaires. Ainsi, nous veillons à traiter l’ensemble des informations avant leur publication. Dès lors, seront ouvertes des données relatives à l’usage de la plateforme, aux trajets effectués, le cas échéant après avoir fait l’objet d’un traitement permettant une publication conforme \(anonymisation, agrégation, etc.\).
 
 ### **Peut-on faire remonter le nom de l’opérateur à une AOM, bien qu’ils ne soient pas partenaires ?**
 
 L’objectif du registre est également de solidifier la construction juridique de la politique incitative, il nous semble indispensable de montrer à l’AOM quel taux de couverture représente sa politique incitative en matière de trajets covoiturés sur le territoire et surtout pour garantir que les partenariats noués sont conformes aux pratiques concurrentielles.  
 
-Par ailleurs, dès lors qu’une administration \(au sens de toute personne morale chargée d’une mission de service public\) produit ou reçoit des informations, [ces dernières sont qualifiées de “documents administratifs”](https://www.legifrance.gouv.fr/affichCode.do;jsessionid=6F971C1F0C109E09375997CB2CF79242.tplgfr44s_1?idSectionTA=LEGISCTA000031367685&cidTexte=LEGITEXT000031366350&dateTexte=20190318). Ces documents connaissent deux régimes juridiques différents, le premier relatif à la communication de ces informations, le second relatif à leur réutilisation. Ainsi pour exercer sa mission de service public, l’AOM pourra accéder à une photographie de l’ensemble des trajets connus sur son territoire accompagnée des acteurs en présence \(qu’ils soient ou non partenaires\), ces informations sont nécessaires pour mieux connaître l’usage du covoiturage sur le territoire concerné. Néanmoins, la [réutilisation de ces informations](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000033219044&idSectionTA=LEGISCTA000032255212&cidTexte=LEGITEXT000031366350&dateTexte=20190318) devra obligatoirement respecter les règles au [Livre III du code des relations entre le public et l’administration](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000033218946&idSectionTA=LEGISCTA000031367696&cidTexte=LEGITEXT000031366350&dateTexte=20190318#LEGIARTI000037269056). Par exemple, avant de réutiliser ces informations en vue d’en faire un support de communication ou plus généralement toute réutilisation visant à diffuser ces informations, l’AOM devra s’assurer que cette diffusion n’est pas susceptible de porter atteinte au secret des affaires, lequel comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou industrielles des différents opérateurs. En cas de doute, l’AOM est invitée à prendre contact avec le ou les opérateurs concernés.
+Par ailleurs, dès lors qu’une administration \(au sens de toute personne morale chargée d’une mission de service public\) produit ou reçoit des informations, [ces dernières sont qualifiées de “documents administratifs”](https://www.legifrance.gouv.fr/affichCode.do;jsessionid=6F971C1F0C109E09375997CB2CF79242.tplgfr44s_1?idSectionTA=LEGISCTA000031367685&cidTexte=LEGITEXT000031366350&dateTexte=20190318). Ces documents connaissent deux régimes juridiques différents, le premier relatif à la communication de ces informations, le second relatif à leur réutilisation. Ainsi pour exercer sa mission de service public, l’AOM pourrait accéder à une photographie de l’ensemble des trajets connus sur son territoire accompagnée des acteurs en présence \(qu’ils soient ou non partenaires\), ces informations sont nécessaires pour mieux connaître l’usage du covoiturage sur le territoire concerné. Néanmoins, la [réutilisation de ces informations](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000033219044&idSectionTA=LEGISCTA000032255212&cidTexte=LEGITEXT000031366350&dateTexte=20190318) devra obligatoirement respecter les règles au [Livre III du code des relations entre le public et l’administration](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000033218946&idSectionTA=LEGISCTA000031367696&cidTexte=LEGITEXT000031366350&dateTexte=20190318#LEGIARTI000037269056). Par exemple, avant de réutiliser ces informations en vue d’en faire un support de communication ou plus généralement toute réutilisation visant à diffuser ces informations, l’AOM devra s’assurer que cette diffusion n’est pas susceptible de porter atteinte au secret des affaires, lequel comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou industrielles des différents opérateurs. En cas de doute, l’AOM est invitée à prendre contact avec le ou les opérateurs concernés.
+
+Toutefois nous avons mis en oeuvre une fonctionnalité permettant de masquer le nom de l'opérateur si celui-ci ne souhaite pas apparaître. Les comptes administrateurs des opérateurs, peuvent configurer dans leur interface parmi les AOM et AOMR \(Région\), celles qui auront accès aux données AVEC le nom de l’opérateur. Si l’AOM n’est pas sélectionnée, cette dernière verra le trajet sans connaître le nom de l’opérateur \(opérateur non visible\).
 
 ### **Si je ne suis pas dans le cadre du triptyque Opérateur, Registre, AOM, comment faire ?**
 
@@ -232,7 +234,7 @@ Vous trouverez sur le site [covoiturage.beta.gouv.fr](http://covoiturage.beta.go
 
 ### Je ne suis pas une AOM, puis-je accéder au registre pour obtenir des données sur mon territoire ? 
 
-Le registre de preuve de covoiturage est construit à destination des collectivités ayant des compétences en matière d’organisation des transports. Ainsi, l’accès au registre est restreint aux AOM. Pour autant, la mise à disposition de ces données permettrait de proposer une fonction d'observatoire du covoiturage à toutes les personnes intéressées. Du côté du registre, il s'agirait de s'assurer de l'anonymisation des covoitureurs et le cas échéant, la suppression des parts de marché des partenaires économiques. Ce travail sera réalisé dans les mois à venir.
+Le registre de preuve de covoiturage est construit à destination des collectivités ayant des compétences en matière d’organisation des transports. Ainsi, l’accès au registre est restreint aux AOM. Pour autant, la mise à disposition de ces données permettrait de proposer une fonction d'observatoire du covoiturage à toutes les personnes intéressées. Du côté du registre, il s'agirait de s'assurer de l'anonymisation des covoitureurs et le cas échéant, la suppression des parts de marché des partenaires économiques. Ceci est rendu possible grâce aux données disponibles en [open data](https://www.data.gouv.fr/fr/datasets/trajets-realises-en-covoiturage-registre-de-preuve-de-covoiturage/).
 
 ### Combien de temps conservez-vous les informations collectées par le registre ?
 
@@ -241,6 +243,25 @@ Dans le cas présent, le cycle de conservation des données à caractère person
 **1. La base active** : Il s’agit de la durée nécessaire à la réalisation de la finalité du traitement, à savoir attribuer une classe sur un trajet réalisé en covoiturage. Cette durée est fixée à 12 mois. 
 
 **2. L’archivage intermédiaire** : Distinctement de la base active, les données à caractère personnel sont anonymisées et conservées, avec accès restreint, pour une durée de 24 mois. Cette conservation est réalisée à des fins statistiques, de recherche scientifique, de détection de fraudes.
+
+### **En cas d’incitation proportionnelle à la distance, sur quelle donnée est basé le calcul ?**
+
+L’opérateur de covoiturage remonte auprès du registre de preuve de covoiturage:
+
+* obligatoirement **un point de départ** \(passager\) et **un point d’arrivée** \(passager\) ;
+* facultativement **une distance** entre ces deux points, aussi nommée la _distance annoncée_.
+
+Le Service, calcule la distance théorique entre le point de départ \(passager\) et le point d’arrivée \(passager\). Cette distance correspond à la partie du trajet conducteur qui est covoiturée. A noter que la distance réalisée par le conducteur avant la prise en charge et après la dépose du passager n’est pas comptabilisée. 
+
+La solution utilisée pour calculer la distance théorique est Open Source Routing Machine ou OSRM. Il s’agit d'un moteur de recherche d'itinéraire libre haute performance permettant d'obtenir les plus courts chemins dans un réseau routier. Plus d’informations sur : [http://project-osrm.org/](http://project-osrm.org/)
+
+Si la _distance annoncée_ a été communiquée auprès du Service, le Service calcule une différence entre cette dernière et la _distance théorique_. En cas de différence excessive le trajet se voit affecter une mauvaise note dans le service “fraude et anomalie”. 
+
+En cas d’incitation proportionnelle à la distance, trois cas d’usage sont à distinguer : 
+
+* La _distance annoncée_ et la _distance théorique_ sont sensiblement identiques : le calcul se base sur la _distance annoncée_.
+* La _distance annoncée_ n’a pas été communiquée : le calcul se base sur la _distance théorique_.
+* La _distance annoncée_ et la _distance théorique_ sont très différentes : le trajet n’est pas incité.
 
 ## **Fiscalité**
 
@@ -253,13 +274,13 @@ Les opérateurs de covoiturage ont pour obligation de transmettre à l’adminis
 
 Cependant, le deuxième alinéa du 3° de l'article 242 bis du CGI prévoit que les opérateurs de plateforme sont dispensés de mentionner sur le document à adresser à l'administration **les montants perçus par les utilisateurs au titre d'une prestation de service dont bénéficie également le particulier qui la propose, sans objectif lucratif et avec partage de frais avec les bénéficiaires**. 
 
-Ce qui nous permet d'indiquer que pour les covoitureurs réguliers \(plus de 20 trajets annuels\), il n'y a pas besoin de déclarer. Le registre de preuve de covoiturage n’a pas vocation à interférer dans les relations entre l’opérateur de covoiturage et l’administration fiscale. Il est de la responsabilité de l’opérateur de se conformer à ces dispositions.  
+Le registre de preuve de covoiturage n’a pas vocation à interférer dans les relations entre l’opérateur de covoiturage et l’administration fiscale. Il est de la responsabilité de l’opérateur de se conformer à ces dispositions.  Vous trouverez une analyse détaillée de ce point sur [la note réalisée ](https://drive.google.com/file/d/1Y2ZyjcTaYFxch5XANuq6D5dgLeMemceQ/view?usp=sharing)par notre service juridique. 
 
 Plus d’informations sur [l’article 242 bis CGI](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037526190&cidTexte=LEGITEXT000006069577&dateTexte=20181231) et [l’arrêté du 27 décembre 2018 pris pour l'application de l'article 242 bis du code général des impôts - Article 1](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=705F1F8B28ACB7FCC18E278B2E55A3AA.tplgfr42s_2?cidTexte=JORFTEXT000037884772&idArticle=LEGIARTI000038008427&dateTexte=20181230&categorieLien=cid#LEGIARTI000038008427).
 
 ### **Quels sont les mécanismes de détection de fraudes opérés par le registre ?**
 
-Il convient de rappeler que la majorité du travail de détection de fraudes est réalisée par les opérateurs de covoiturage. Néanmoins, le registre de preuve de covoiturage opère également quelques contrôles. L’agrégation des preuves de covoiturage des opérateurs sur un plateforme unique nous permet de détecter les cas de fraudes multi-opérateur. Ces divers connections empêchent aux covoitureurs d’utiliser le même numéro de téléphone simultanément sur le même trajet. Ils ne peuvent donc pas bénéficier simultanément d’incitations de divers opérateurs pour le même trajet.  
+Il convient de rappeler que la majorité du travail de détection de fraudes est réalisée par les opérateurs de covoiturage. Néanmoins, le registre de preuve de covoiturage opère également quelques contrôles. L’agrégation des preuves de covoiturage des opérateurs sur un plateforme unique nous permet de détecter les cas de fraudes multi-opérateur. Ces divers connections empêchent aux covoitureurs d’utiliser par exemple le même numéro de téléphone simultanément sur le même trajet. Ils ne peuvent donc pas bénéficier simultanément d’incitations de divers opérateurs pour le même trajet.  
   
 Les mécanismes de détection de fraudes et d’incohérences sont continuellement améliorés. 
 

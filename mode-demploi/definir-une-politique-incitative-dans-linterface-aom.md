@@ -25,7 +25,7 @@ Outre la demande \(qui mentionne notamment les coordonnées du demandeur\), le d
 
 L’accès au Service en production est conditionné à la mise en place réelle d’une politique incitative relative au covoiturage, se traduisant par un acte juridique ad hoc.
 
-Les[ CGU](../cgu.md) du service sont accessibles en ligne.
+Les[ CGU](../presentation/cgu.md) du service sont accessibles en ligne.
 
 **\[En construction\]**
 
