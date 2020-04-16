@@ -16,30 +16,32 @@
 * [Juridique](juridique.md)
 * [FAQ - Foire Aux Questions](faq-foire-aux-questions.md)
 
-## ⚙️ Technique <a id="api"></a>
-
-* [Alimenter le registre via l'API](api/envoyer-des-trajets/README.md)
-  * [✅ Schema JSON V2](api/envoyer-des-trajets/schema-json-v2.md)
-  * [❌ Schema JSON V1 \(déprécié\)](api/envoyer-des-trajets/schema-json-v1.md)
-* [Alimenter le registre via des tableurs](alimenter-le-registre-via-des-tableurs/README.md)
-  * [Schema CSV \(déprécié\)](alimenter-le-registre-via-des-tableurs/schema-csv.md)
-* [Vérifier le statut d'un trajet](verifier-le-statut-dun-trajet.md)
-* [Outils](outils.md)
-
 ## 📋 Spécifications
 
 * [Classes de preuve de covoiturage](specifications/classes-de-preuve-de-covoiturage.md)
 * [Statistiques](specifications/statistiques.md)
 
-## 📒 Mode d'emploi
+## ⚙️Opérateur <a id="api"></a>
 
-* [Devenir partenaire](mode-demploi/onboarding.md)
-* [Définir une politique d'incitation dans l'interface AOM](mode-demploi/definir-une-politique-incitative-dans-linterface-aom.md)
-* [Utiliser les outils du registre pour mettre en place le Forfait Mobilité Durable](mode-demploi/utiliser-les-outils-du-registre-pour-mettre-en-place-le-forfait-mobilite-durable.md)
+* [Devenir partenaire](api/partenaireoperateur.md)
+* [Alimenter le registre via l'API](api/envoyer-des-trajets/README.md)
+  * [✅ Schema JSON V2](api/envoyer-des-trajets/schema-json-v2.md)
+  * [❌ Schema JSON V1 \(déprécié\)](api/envoyer-des-trajets/schema-json-v1.md)
+* [Alimenter le registre via des tableurs](alimenter-le-registre-via-des-tableurs/README.md)
+  * [Schema CSV \(déprécié\)](alimenter-le-registre-via-des-tableurs/schema-csv.md)
+* [Outils](outils.md)
+* [Vérifier le statut d'un trajet](verifier-le-statut-dun-trajet.md)
+* [Visibilité du nom de l’opérateur](visibilite-du-nom-de-loperateur.md)
+
+## 📒 Territoire AOM <a id="mode-aom"></a>
+
+* [Devenir partenaire](mode-aom/onboarding.md)
+* [Définir une politique d'incitation dans l'interface AOM](mode-aom/definir-une-politique-incitative-dans-linterface-aom.md)
 
 ## 🛠️ Boite à outils
 
 * [Open Data - Ouverture des données](boite-a-outils/open-data-ouverture-des-donnees.md)
+* [Utiliser les outils du registre pour mettre en place le Forfait Mobilité Durable](boite-a-outils/utiliser-les-outils-du-registre-pour-mettre-en-place-le-forfait-mobilite-durable.md)
 * [Guide des incitations](boite-a-outils/guide-des-incitations.md)
 * [Kit de communication](boite-a-outils/kit-de-communication.md)
 * [Compte rendu](boite-a-outils/compte-rendu.md)

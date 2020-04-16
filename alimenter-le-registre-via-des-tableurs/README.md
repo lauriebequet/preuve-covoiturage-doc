@@ -5,7 +5,7 @@ Il est possible d'alimenter le registre via des tableurs de données en respecta
 * 1️⃣ Une entité “opérateur de covoiturage” est créé sur l’application du registre.
 * 2️⃣ Un utilisateur appartenant à cet opérateur de covoiturage est administrateur.
 
-Afin de valider les critères 1️⃣ et 2️⃣, veuillez à respecter la procédure [Rejoindre le registre](../mode-demploi/onboarding.md). En effet, ces opérations sont réalisées par un membre de l’équipe du Registre de Preuve de Covoiturage.
+Afin de valider les critères 1️⃣ et 2️⃣, veuillez à respecter la procédure [Rejoindre le registre](../mode-aom/onboarding.md). En effet, ces opérations sont réalisées par un membre de l’équipe du Registre de Preuve de Covoiturage.
 
 Une fois ces deux prérequis réalisés, voici la démarche à suivre expliquée pas à pas. 
 
