@@ -140,6 +140,51 @@ Cas de figure où l’AOM ne serait plus en mesure de verser l’incitation, par
 
 Pour éviter ce cas de figure, il est prévu la création d’un double-dispositif d’alerte, d’une part en proposant la faculté pour l’AOM d’informer l’ensemble des partenaires du niveau de consommation de l’enveloppe, d’autre part le registre étant lui-même destinataire de la politique d’incitation et de son mode de calcul, nous intégrerons un système de suivi de la consommation. Le registre pourra ainsi être interrogé pour connaître la consommation de l’enveloppe. Cette fonctionnalité pourra également être intégrée à l’API.
 
+### **Une AOM peut-elle inciter des trajets dont l’origine ou la destination n’est pas sur son ressort territorial ?**
+
+{% hint style="warning" %}
+Le 11 février 2020, l’association Agir publiait une note relative au financement des trajets de covoiturage par une Autorité Organisatrice de la Mobilité, cette note propose une analyse pointue et une interprétation du cadre juridique du covoiturage et de la faculté des AOM d’inciter financièrement cette pratique. La note est accessible [ici](https://drive.google.com/file/d/1puC3LLBJwhsE0KZIjvHnrYl2ONF98JD7/view). 
+
+Ce note prend en considération un certain nombre de précautions juridiques. Une conclusion est que les AOM sont légitimes à inciter les seuls trajets effectués dans le stricte cadre de leur ressort territorial respectif. 
+
+**Ce dernier point n’étant pas tranché d’un point de vue prétorien, les éléments qui suivent sont simplement le résultat d’une autre analyse de risques juridique, sans remise en question du travail proposé par l’association. Il s’agira pour chacune des AOM de se positionner librement.**
+{% endhint %}
+
+Pour mémoire, les AOM peuvent conformément aux dispositions des articles :
+
+* L. 1231-1-1 du Code des transport, organiser des services relatifs aux usages partagés des véhicules terrestres à moteur \(covoiturage\) ou contribuer au développement de ces usages. Cette mission s’organise dans le cadre de leur ressort territorial ;
+* L. 1231-15 du même code, inciter à la pratique du covoiturage en créant et versant - directement ou indirectement - une allocation aux personnes se déplaçant \(conducteur & passagers\).
+
+Par la suite nous vous proposons deux raisonnements juridiques qui peuvent être déployés pour conduire au même résultat, **à savoir qu'une AOM est légitime pour inciter les trajets réalisés en partie sur son territoire**.
+
+1. **Combinaison des articles**
+
+En supposant que la lecture des deux articles doit être combinée, que l’AOM est compétente dans le seul cadre de son ressort territorial, la compétence naîtrait dès le passage des frontières administratives de l’AOM. Il ne saurait exister de vide juridique entre deux AOM compétentes territorialement.
+
+Ainsi, quand bien même la lecture des deux articles devrait être combinée, les AOM apparaissent tout à fait en mesure de fixer des incitations pour des trajets réalisés en partie sur leurs territoires respectifs.  
+
+
+    2. **Non combinaison des articles**
+
+Dans cette analyse nous nous attachons à une lecture juridique et légistique des articles du code des transports. 
+
+En outre, à notre sens, **il n’y a aucune raison juridique de combiner la lecture de ces deux articles**. En effet d’un point de vue légistique, une telle combinaison aurait été prévue par le législateur ou au moins évoquée lors des débats parlementaires. Cette lecture juridique aurait pu s’entendre si le texte de l’article L. 1231-15 avait contenu une formulation du type : “_sous réserve des dispositions de l’article L. 1231-1-1 du présent code \[...\]_”. En l’espèce et dans l’absence de cette mention, il convient de lire classiquement les dispositions de l’article L. 1231-15 sans préjudice des dispositions de l’article L. 1231-1.    
+
+
+Ainsi il convient de comprendre la capacité d’attraction de la compétence à l’inverse ; l’AOM est compétente pour verser une allocation, dès lors que le trajet débute, termine sur le territoire de la compétence. Par extrapolation, l’AOM pourrait envisager de verser une allocation pour les participants des trajets traversant son territoire de compétence. Sur ce point, on peut faire un parallèle avec les dispositifs d’allocation transport versée pour certaines catégories d’usagers \(par exemple, allocation versée par une collectivité à des étudiants voyageant en train ; certains dispositifs locaux permettent à ses étudiants de voyager bien au-delà des frontières administratives de la collectivité concernée, y compris au-delà des collectivités directement limitrophes\). Ces dispositifs n’ont jamais été sanctionnés par le juge à ce jour.  
+
+
+Une AOM pourrait ainsi légitimement choisir de verser une allocation aux trajets sans nécessairement qu’ils se déroulent entièrement dans leur ressort territorial.  
+
+
+**Mais alors qu'en est-il du droit à la concurrence ?** 
+
+Dès lors que l’AOM a publié le mode de participation des opérateurs à la politique incitative et que ces derniers se sont positionnés volontairement, le droit à la concurrence est tout à fait respecté. Il convient également de souligner qu’une AOM pourrait justement bénéficier de sa politique incitative pour attirer de nouveaux opérateurs réellement présents sur son territoire. D’autant que les politiques incitatives sont présentées selon des dispositifs budgétaires bornés sous la forme de campagne ; dès lors un opérateur peut demander à rejoindre une campagne en cours ou pourra présenter sa candidature pour la campagne suivante. Par ailleurs, les opérateurs intervenant dans le domaine concurrentiel proposent des plateformes nationales, il n’y a pas de raison pour que leurs offres ne soit pas disponible sur ledit territoire \(c’est le défaut de trajets proposés qui les rend de fait absents\). En se prémunissant contre la requalification en “gestion de fait”, les AOM se protègent d’éventuelles attaques en matière de droit de la concurrence.  
+Ainsi, il semble fort peu probable qu’une AOM proposant une politique incitative sur les trajets ayant pour origine et destination son territoire, versée indirectement à ses usagers et ayant soigneusement permis aux opérateurs d’y participer connaissent des difficultés juridiques.  
+
+
+Nous encourageons néanmoins les AOM à établir des conventions pour organiser ou harmoniser leurs interventions en matière de covoiturage. A noter que cette faculté serait impossible si on devait combiner la lecture des articles L. 1231-1-1 et L. 1231-15 du code des transports puisqu’il s’agirait potentiellement d’abandonner/organiser/déléguer une mission confiée par la loi par la voie contractuelle.
+
 ### **Lorsqu’un trajet est effectué entre deux AOM ayant mis en place une politique incitative au covoiturage, est-ce que les covoitureurs peuvent percevoir deux incitations ?**
 
 Dans les faits, oui. Il est tout à fait possible que les covoitureurs puissent percevoir deux incitations. Ceci est également un excellent indicateur de succès du registre de preuve de covoiturage. Nous veillons néanmoins à ce que la somme des incitations ne dépasse pas le coût du trajet des covoitureurs, afin d’éviter qu’ils réalisent un bénéfice sur le trajet. 
@@ -170,6 +215,18 @@ Au niveau de la jurisprudence des Chambres régionales des comptes, il y a gesti
 * Lorsque l’association exerce en réalité la gestion déléguée d’un service public sans en avoir la qualité : il est indispensable qu’une convention soit signée entre les parties.
 
 Dans le cas présent, une convention est signée entre les parties et le versement de la subvention est conditionné aux principes énoncés dans cette même convention. En conséquence, ceci ne constitue, a priori, pas une gestion de faits.
+
+### **Quels sont les risques portés par une administration en se basant sur le registre de preuve de covoiturage pour justifier des appels de fonds ?**
+
+En droit public, la preuve est libre. Le Registre est un tiers participant à augmenter la confiance entre les acteurs du covoiturage. En plus d’être le réceptacle des trajets des différents opérateurs, il veille à vérifier les informations versées et lutter contre la fraude.  
+
+
+Pour cela, les mesures suivantes sont mises en oeuvre :
+
+* Contrôle qualitatif des données remontées ;
+* Contrôle de cohérence des trajets \(durée du trajet, distance du trajet, nombre de passagers, etc.\) ;
+* Contrôle de cohérence des identités des covoitureurs \(si nécessaire, par exemple en cas de trajets réalisés sur plusieurs plateformes\) ****;
+* Assurer des tests : le registre se réserve le droit d'effectuer des trajets présentant des incohérences afin de tester les processus et mécanismes de lutte contre la fraude mis en oeuvre par les opérateurs. 
 
 ### Est-il possible pour une AOM de ne faire la promotion du covoiturage et d'une politique incitative que chez certains employeurs ciblés sur une zone ? 
 
