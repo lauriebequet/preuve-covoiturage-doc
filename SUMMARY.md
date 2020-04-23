@@ -37,6 +37,7 @@
 
 * [Devenir partenaire](mode-aom/onboarding.md)
 * [Définir une politique d'incitation dans l'interface AOM](mode-aom/definir-une-politique-incitative-dans-linterface-aom.md)
+* [Charte engament en faveur du covoiturage](mode-aom/charte-engament-en-faveur-du-covoiturage.md)
 
 ## 🛠️ Boite à outils
 
