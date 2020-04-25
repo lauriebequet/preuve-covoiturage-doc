@@ -15,13 +15,13 @@
 * Les travailleur.se.s précaires ; 
 * Les travailleur.se.s en horaires décalés ; 
 * Les travailleur.se.s des secteurs comme le bâtiment, services à la personne \(personnel de ménage, agent.e de sécurité, etc.\) ;
-* Etc.
+* etc.
 
 ### **Quelques chiffres** 
 
 _Source : Agir pour une mobilité plus inclusive, rapport d’activité 2019 - Laboratoire de la Mobilité Inclusive_
 
-Les principales freins : 
+Les principaux freins : 
 
 * **1/2** ne possède **pas de permis de conduire** ;
 * **2/3** n’ont **aucun véhicule** à leur disposition ; 
@@ -29,7 +29,7 @@ Les principales freins :
 
 ... participent à l'augmentation des inégalités pour accéder à l'emploi  : 
 
-* **1/2** personne en insertion a **déjà refusé un travail ou une formation** ;
+* 50% des personnes en insertion a **déjà refusé un travail ou une formation** ;
 * 41% des employeurs ont rencontré des **difficultés à pourvoir un poste** ;
 * 59 % des candidats ont **refusé une embauche**.
 
@@ -37,7 +37,7 @@ Les principales freins :
 
 Selon [l’observatoire des inégalités](https://www.inegalites.fr/Inegaux-face-a-la-mobilite), le coût global d’une voiture par an s’élève à 4 900 €. Cette estimation tient compte de l’achat, du carburant, des frais d’assurance, de réparations, de parking et de péage. Lorsque cette étude a été réalisée \(2017\), ce montant représentait presque un tiers du SMIC annuel.  
   
-Il en ressort également qu'un déplacement domicile-travail de 20 km en voiture coûte environ 250 € par mois = 1/4 du salaire au SMIC. Tandis que pour un salarié pouvant se rendre en transports en commun à son travail le coût s'élève à 40 € par mois, après la prise en charge légale par son employeur de la moitié de son abonnement de transport. Ce qui représente environ 1/25 du salaire au SMIC.
+Il en ressort également qu'un déplacement domicile-travail de 20 km en voiture coûte environ 250 € par mois = 1/4 du salaire au SMIC. Tandis que pour un salarié pouvant se rendre en transports en commun à son travail le coût s'élève à 40 € par mois, après la prise en charge légale par son employeur de la moitié de son abonnement de transport. Ce qui représente environ 1/25ème du salaire au SMIC.
 
 Cependant l’étude Covoiturage et Action Publique menée par l'opérateur de covoiturage Ecov et le Laboratoire Ville Mobilité Transport \(LVMT\), publiée au 4ème trimestre 2019, 98% des répondants estiment que l’offre de transports en communs classiques est insuffisante pour répondre aux enjeux de mobilité de leur territoire. **Le covoiturage local devient ainsi une évidence en soutien aux transports en commun**. 
 
@@ -51,15 +51,15 @@ Cette même étude met également en avant que pour 53% des répondants, le covo
           les d&#xE9;placements au quotidien, pour tous les citoyens, gr&#xE2;ce
           &#xE0; des solutions de transports :</p>
         <ul>
-          <li>+ accessibles ;</li>
-          <li>+ adapt&#xE9;es &#xE0; la diversit&#xE9; des besoins ;</li>
-          <li>+ propres.</li>
+          <li>plus accessibles ;</li>
+          <li>plus adapt&#xE9;es &#xE0; la diversit&#xE9; des besoins ;</li>
+          <li>plus propres.</li>
         </ul>
         <p>La LOM, promulgu&#xE9;e fin 2019 contient plusieurs articles visant &#xE0;
           favoriser le d&#xE9;veloppement des mobilit&#xE9;s partag&#xE9;es dont
           le covoiturage. Pour rappel :</p>
         <ul>
-          <li>L&#x2019;article 35 donne la comp&#xE9;tence au AOM de verser (in) directement
+          <li>L&#x2019;article 35 donne la comp&#xE9;tence aux AOM de verser (in) directement
             une incitation (non) financi&#xE8;re aux conducteur.rice.s et passager.e.s
             r&#xE9;alisant un trajet en covoiturage.</li>
           <li>L&#x2019;article 82 ent&#xE9;rine la cr&#xE9;ation d&apos;un Forfait Mobilit&#xE9;
@@ -72,11 +72,11 @@ Cette même étude met également en avant que pour 53% des répondants, le covo
     </tr>
   </thead>
   <tbody></tbody>
-</table>Le schéma ci-dessous, volontairement très simplifiée montre que le coût des déplacement est un enjeu majeur. Les incitations permettent une diminution du reste à charge et participent en répondant à cet enjeu, à augmenter le pouvoir d'achat des covoitureurs. 
+</table>Le schéma ci-dessous, volontairement très simplifié montre que le coût des déplacements est un enjeu majeur. Les incitations permettent une diminution du reste à charge et participent en répondant à cet enjeu, à augmenter le pouvoir d'achat des covoitureurs. 
 
 ![](https://lh3.googleusercontent.com/ywN8wyBQYAZ47cVnbo61NPHXengyOzu3kJARA66Cp162ror_iIu_5-QBT2wY6bB3_jVzp24tpCN68jeV2Uav--7MlKknrO-myAuTaPUzPc9Cm5Rg_X0I3xEvzFFYDf2skLzLvUk4)
 
-**En conclusion, lorsque les déplacements en transports en commun sont inexistants ou tout simplement non adaptés, ou que la pratique des modes actifs n’est pas pertinente \(distance, contrainte horaire, dénivelé, condition physique etc.\), le covoiturage se présente comme une bonne alternative. En ce sens, il constitue une mobilité dite inclusive et accessible à tous. De plus, le covoiturage est une solution qui améliore le pouvoir d'achat de ceux qu'il le pratique.** 
+**En conclusion, lorsque les déplacements en transports en commun sont inexistants ou tout simplement non adaptés, ou que la pratique des modes actifs n’est pas pertinente \(distance, contrainte horaire, dénivelé, condition physique etc.\), le covoiturage se présente comme une bonne alternative. En ce sens, il constitue une mobilité dite inclusive et accessible à tous. De plus, le covoiturage est une solution qui améliore le pouvoir d'achat de ceux qui le pratique.** 
 
 ## **Le covoiturage une solution plus écologique**
 
@@ -106,8 +106,7 @@ L’empreinte carbone des Français représente 11,2 tonnes équivalent CO₂ pa
 
 Le covoiturage est un levier en milieu dense urbain qui permet de réduire l'émission de GES. Il ne se substitue pas aux transports en commun ou aux modes actifs, qui peuvent  également répondre aux besoins de déplacement. 
 
-Selon les données de l’ADEME \(cf. ci-dessous\), l’émission de GES / personne en voiture individuelle est environ de 7 kilos de CO₂ équivalent en milieu dense urbain. ****  
-
+Selon les données de l’ADEME \(cf. ci-dessous\), l’émission de GES / personne en voiture individuelle est environ de 7 kilos de CO₂ équivalent en milieu dense urbain.
 
 | **Nombre de personnes par véhicule** | ![](https://lh5.googleusercontent.com/bwbGJdv7Z7nG6hokrIPCoptloAAcY_bEWZXXZ4OHni2BEXmgI29KJjpbdE2_sxJ8qzp2umlhdFOTQmveEnIdQQuIKs8j0bI_Myfjo5iSX5uBAbiZz9ArV6fQOygzAGfj9laCT4Js) | ![](https://lh5.googleusercontent.com/Fnez0wFYyVFfthsO4RZMP0-bz0Zj0Mxc3AAY-0Xyhxb7-XWNuxat869s8MGooTvcpnEjmoXzAB_39xm_mEynWFRd2MIMmw-LehJsBcZ9aElqrl-XySivetzkRIsUJojX6wk13j17) | ![](https://lh4.googleusercontent.com/z9hDx3v6GOQ8FDaX2MnwxtSKT531rxXo8_Jidzk_lbJEN4D-91-jMasu5YGsvAcBnHUzAlWxClI2jZseo4eP0dJl-LRj71-LOlkyUcKajD7F21tv88D0nm7JG3MJgRWXJ20Ot13L) |
 | :--- | :--- | :--- | :--- |
@@ -166,21 +165,20 @@ Selon l’ADEME, afin d’améliorer la précision de cette donnée, il convient
 
 Afin de se diriger vers une mobilité plus inclusive et plus respectueuse de notre environnement, il convient de ne pas oublier les autres modes.
 
-* Transports en commun : mise en oeuvre d’actions concrètes pour renforcer l’attractivité des transports en commun comme l’[ouverture des données transports](https://transport.data.gouv.fr/), une campagne de communication, l’organisation de challenge, la facilitation des parcours usagers physiques et numériques, etc.
+* Transports en commun : mise en œuvre d’actions concrètes pour renforcer l’attractivité des transports en commun comme l’[ouverture des données transports](https://transport.data.gouv.fr/), une campagne de communication, l’organisation de challenge, la facilitation des parcours usagers physiques et numériques, etc.
 * Vélo et trottinette : création d’infrastructure cyclable, mise en place de système de location courte ou longue durée, aide à l’achat, locaux de réparation, augmentation de l’offre de stationnement sécurisé, etc.\)
 * La marche : création d’un maillage du territoire piéton, élargissement des trottoirs, création de zone douce, amélioration de la signalétique visuelle et sonore \(par exemple en cas de déficience visuelle\), etc.
 * L’autopartage : création de place de stationnement réservée, mise en place d’incitation, création d’une offre de location, etc. 
 * La limitation des stationnements publics pour l’utilisation de la voiture individuelle. 
 
-Le développement de ces modes doit se faire dans une logique de complémentarité sans oublier leur intégration avec les offres de transports régionales ou nationales comme les autocars ou le train.   
-****
+Le développement de ces modes doit se faire dans une logique de complémentarité sans oublier leur intégration avec les offres de transports régionales ou nationales comme les autocars ou le train.
 
 {% hint style="success" %}
 **Vous hésitez encore ? Expérimentez !**
 
 _“La vie n'est pas un problème à résoudre mais une réalité à expérimenter.”_ Bouddha 
 
-Qu’il s’agisse du développement du covoiturage ou de n’importe quel autre mode de transports, une expérimentation peut être une première étape pour sauter le pas et ainsi mettre en oeuvre une politique de développement plus poussée dans un second temps en ayant connaissance des tenants et aboutissants.
+Qu’il s’agisse du développement du covoiturage ou de n’importe quel autre mode de transports, une expérimentation peut être une première étape pour sauter le pas et ainsi mettre en œuvre une politique de développement plus poussée dans un second temps en ayant connaissance des tenants et aboutissants.
 {% endhint %}
 
 ## **Conseils de lecture pour en savoir davantage**
