@@ -47,7 +47,7 @@ Deux options sont disponibles pour la transmission du numéro de téléphone.
 * `phone_trunc` : Numéro tronqué à 8 chiffres
 * `operator_user_id` : Identifiant de l'utilisateur chez l'opérateur
 
-> `phone_trunc` et `operator_user_id` dépendent l'un de l'autre.
+> `phone_trunc` et `operator_user_id` dépendent l'un de l'autre, si l'un est présent, l'autre doit l'être aussi.
 
 La clé suivante n'est applicable qu'au passager :
 
@@ -155,7 +155,6 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
       },
       "phone": {
         "type": "string",
-        "format": "phone",
         "minLength": 10,
         "maxLength": 15
       },
@@ -166,7 +165,7 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
       },
       "timestamp": {
         "type": "string",
-        "format": "date-time"
+        "pattern": "^\\d\\d\\d\\d-[0-1]\\d-[0-3]\\d[T\\s](?:[0-2]\\d:[0-5]\\d:[0-5]\\d|23:59:60)(?:\\.\\d+)?(?:Z|[+-]\\d\\d(?::?\\d\\d)?)$"
       },
       "lat": {
         "type": "number",
@@ -345,12 +344,12 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
         },
         "distance": {
           "type": "integer",
-          "minimum": 0,
+          "exclusiveMinimum": 0,
           "maximum": 1000000
         },
         "duration": {
           "type": "integer",
-          "minimum": 0,
+          "exclusiveMinimum": 0,
           "maximum": 86400
         }
       }
@@ -382,12 +381,12 @@ La prise en charge des frais de transports personnel \(carburant et forfait mobi
         },
         "distance": {
           "type": "integer",
-          "minimum": 0,
+          "exclusiveMinimum": 0,
           "maximum": 1000000
         },
         "duration": {
           "type": "integer",
-          "minimum": 0,
+          "exclusiveMinimum": 0,
           "maximum": 86400
         }
       }
