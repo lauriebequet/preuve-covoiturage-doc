@@ -74,7 +74,7 @@ Cette même étude met également en avant que pour 53% des répondants, le covo
   <tbody></tbody>
 </table>Le schéma ci-dessous, volontairement très simplifié montre que le coût des déplacements est un enjeu majeur. Les incitations permettent une diminution du reste à charge et participent en répondant à cet enjeu, à augmenter le pouvoir d'achat des covoitureurs. 
 
-![](https://lh3.googleusercontent.com/ywN8wyBQYAZ47cVnbo61NPHXengyOzu3kJARA66Cp162ror_iIu_5-QBT2wY6bB3_jVzp24tpCN68jeV2Uav--7MlKknrO-myAuTaPUzPc9Cm5Rg_X0I3xEvzFFYDf2skLzLvUk4)
+![](../.gitbook/assets/gainachat-2x.png)
 
 **En conclusion, lorsque les déplacements en transports en commun sont inexistants ou tout simplement non adaptés, ou que la pratique des modes actifs n’est pas pertinente \(distance, contrainte horaire, dénivelé, condition physique etc.\), le covoiturage se présente comme une bonne alternative. En ce sens, il constitue une mobilité dite inclusive et accessible à tous. De plus, le covoiturage est une solution qui améliore le pouvoir d'achat de ceux qui le pratique.** 
 
