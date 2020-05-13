@@ -189,7 +189,16 @@ Nous encourageons néanmoins les AOM à établir des conventions pour organiser 
 
 Dans les faits, oui. Il est tout à fait possible que les covoitureurs puissent percevoir deux incitations. Ceci est également un excellent indicateur de succès du registre de preuve de covoiturage. Nous veillons néanmoins à ce que la somme des incitations ne dépasse pas le coût du trajet des covoitureurs, afin d’éviter qu’ils réalisent un bénéfice sur le trajet. 
 
-Dans la pratique, nous proposons une fonctionnalité permettant d’attribuer le pourcentage d’un trajet réalisé sur un territoire de compétence \(exemple : trajet réalisé à plus de 50% sur le territoire\).
+### **En cas d’incitation multiple quel ordre d’application prendre ?**
+
+Avec la LOM, l’ensemble du territoire est couvert par des Autorités Organisatrices de la Mobilité. Concrètement, la loi laissera le choix aux communes, via leur intercommunalité pour qu’elles s’emparent de la compétence, et à défaut les régions seront compétentes. 
+
+La région AOT devient « AOM régionale » \(AOMR\) et étend sa compétence à l'ensemble des services de mobilité organisés par les AOM au niveau local.
+
+En conséquence, il devient possible pour un acte de covoiturage d'être incité à la fois par son AOM \(CollTerr\) et son AOMR. Par exemple : incitation de la part du Grand Lyon ET de la part de la région AURA. 
+
+En cas d’incitation multiple à différentes échelles nous proposons d’affecter une priorisation de type Région &gt; EPCI. En cas d'incitation multiple de la part de deux AOM \(CollTerr\) voir [réponse précédente](faq-foire-aux-questions.md#lorsquun-trajet-est-effectue-entre-deux-aom-ayant-mis-en-place-une-politique-incitative-au-covoiturage-est-ce-que-les-covoitureurs-peuvent-percevoir-deux-incitations).   
+****
 
 ### **Le versement d’une subvention publique pour un acte de covoiturage par le biais des opérateurs de covoiturage mène-t-il à la constitution d’une gestion de fait ?**
 
@@ -277,6 +286,12 @@ Toutefois nous avons mis en oeuvre une fonctionnalité permettant de masquer le 
 Si vous n’êtes pas couverts par le triptyque, c’est que vous intervenez comme un “tiers facilitateur”, vous devez donc être titulaire d’un mandat pour intervenir pour le compte d’un des acteurs du triptyque.
 
 Ainsi, une AOM peut déléguer à un tiers la gestion de sa/ses politique\(s\) incitative\(s\). Cette délégation peut prendre différentes formes juridiques \(délégation de service public, concession, mandat, contrat, etc.\). Dès lors que l’AOM ou le tiers auront été en mesure de prouver le lien juridique qui les unit, les équipes du registre pourront créer les accès aux nouvelles parties prenantes.
+
+### **Je suis un opérateur de covoiturage mais ne possède pas de SIRET, que faire ?** 
+
+Aujourd'hui, l'ouverture d'un compte opérateur est uniquement possible pour les opérateurs possédant un numéro SIRET. Le développement du service étant financé par des institutions comme l'ADEME et la  DGITM, il parait évident que la priorité est d'améliorer le service pour l'écosystème du covoiturage opérant sur le territoire français avec un numéro de SIRET. 
+
+Pour autant, afin de rendre la réutilisation du code source du service la plus générique possible et rendre également possible la liaison d'opérateur de pays limitrophes \(Suisse, Allemagne, etc.\) une réflexion est en cours sur la possibilité d'utiliser un nouvel identifiant comme le numéro TVA. Si une orientation de ce type est prise son horizon de d'implémentation reste néanmoins lointaine. Ainsi nous conseillons vivement aux opérateurs d'avoir un numéro SIRET.
 
 ### **Quel est le statut des attestations délivrées ?**
 
