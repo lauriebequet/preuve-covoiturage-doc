@@ -26,7 +26,7 @@ Les pièces d’identité considérées sont les suivantes :
 * Titre de séjour ;
 * Carte de transport en commun validée par l’autorité organisatrice\*.
 
-_\*Cette disposition est uniquement valable pour les cartes de transport dont \*l'identité associée aura pu être contrôlée et validée par un service mis à disposition par l’autorité organisatrice \(exemple : une API de consultation de l’identité associée à un numéro de carte de transport._
+_\*Cette disposition est uniquement valable pour les cartes de transport dont l'identité associée aura pu être contrôlée et validée par un service mis à disposition par l’autorité organisatrice \(exemple : une API de consultation de l’identité associée à un numéro de carte de transport._
 
 #### Définitions
 
