@@ -399,7 +399,7 @@ Afin de déterminer la classe pouvant être atteinte par un opérateur, ce derni
     <tr>
       <td style="text-align:left"><em>operator_journey_id : g&#xE9;n&#xE9;r&#xE9;e par l&apos;op&#xE9;rateur pour regrouper des trajets</em>
       </td>
-      <td style="text-align:left">Facultatif</td>
+      <td style="text-align:left">Obligatoire</td>
       <td style="text-align:left">Oui</td>
       <td style="text-align:left">
         <p>Oui</p>
