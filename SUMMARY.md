@@ -31,10 +31,11 @@
 * [Alimenter le registre via des tableurs](alimenter-le-registre-via-des-tableurs/README.md)
   * [Schema CSV \(déprécié\)](alimenter-le-registre-via-des-tableurs/schema-csv.md)
 * [Documentation technique](documentation-technique.md)
-* [Outils](outils.md)
-* [Vérifier le statut d'un trajet](verifier-le-statut-dun-trajet.md)
-* [Invalider un trajet](invalider-un-trajet.md)
-* [Visibilité du nom de l’opérateur](visibilite-du-nom-de-loperateur.md)
+* [Modes d'emploi](modes-demploi/README.md)
+  * [Outils](modes-demploi/outils.md)
+  * [Vérifier le statut d'un trajet](modes-demploi/verifier-le-statut-dun-trajet.md)
+  * [Invalider un trajet](modes-demploi/invalider-un-trajet.md)
+  * [Visibilité du nom de l’opérateur](modes-demploi/visibilite-du-nom-de-loperateur.md)
 
 ## 📒 Territoire AOM <a id="mode-aom"></a>
 
