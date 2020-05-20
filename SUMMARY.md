@@ -32,6 +32,7 @@
   * [Schema CSV \(déprécié\)](alimenter-le-registre-via-des-tableurs/schema-csv.md)
 * [Outils](outils.md)
 * [Vérifier le statut d'un trajet](verifier-le-statut-dun-trajet.md)
+* [Invalider un trajet](invalider-un-trajet.md)
 * [Visibilité du nom de l’opérateur](visibilite-du-nom-de-loperateur.md)
 
 ## 📒 Territoire AOM <a id="mode-aom"></a>
