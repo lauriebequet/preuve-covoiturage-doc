@@ -54,8 +54,8 @@ Les tokens n’expirent pas dans le temps mais ils peuvent être mis sur une lis
 
 Dans la base de données les trajets correspondent à des couples passager-conducteur contenant les informations d'un trajet effectué. Ainsi si dans un covoiturage le nombre de passager est de 2 alors deux couples sont envoyés au registre : 
 
-* Conducteur 1 - Passager 1 : 10 km, etc. 
-* Conducteur 1 - Passager 2 : 10,5 km, etc. 
+* Conducteur.rice 1 - Passager 1 : 10 km, etc. 
+* Conducteur.rice 1 - Passager 2 : 10,5 km, etc. 
 
 ### Quel est le délai d'envoi des preuves de covoiturage ? 
 

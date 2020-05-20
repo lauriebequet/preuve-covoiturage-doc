@@ -8,7 +8,7 @@
 
 **Campagne de distribution d'incitations** - action de distribuer des incitations à une liste de trajets concernés par une politique d'incitation sur une période donnée. Une campagne peut être périodique ou ponctuelle.
 
-**Conducteur** - cela désigne la personne mettant à disposition son véhicule à des fins de covoiturage.
+**Conducteur.rice** - cela désigne la personne mettant à disposition son véhicule à des fins de covoiturage.
 
 **Covoiturage** - tel que défini par l’article L. 3132-1 du code des transports est « l’utilisation en commun d’un véhicule terrestre à moteur par un conducteur et un ou plusieurs passagers, effectuée à titre non onéreux, excepté le partage des frais, dans le cadre d’un déplacement que le conducteur effectue pour son propre compte. Leur mise en relation, à cette fin, peut être effectuée à titre onéreux \[…\] ». Il y a donc covoiturage dès le partage d’un trajet entre un conducteur et un passager.
 
@@ -24,7 +24,7 @@
 
 **Opération** - elle désigne la politique incitative mise en place par un organisme incitateur.
 
-**Passager** - cela désigne la personne transportée par le Conducteur à des fins de Covoiturage.
+**Passager.e** - cela désigne la personne transportée par le Conducteur à des fins de Covoiturage.
 
 **Politique d'incitation** - critères de sélection de trajets covoiturés et règles de calcul permettant de lier une action de covoiturage à une incitation.
 
