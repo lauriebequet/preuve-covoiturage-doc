@@ -49,4 +49,5 @@
 * [Pourquoi encourager le covoiturage ?](boite-a-outils/pourquoi-encourager-le-covoiturage.md)
 * [Kit de communication](boite-a-outils/kit-de-communication.md)
 * [Compte rendu](boite-a-outils/compte-rendu.md)
+* [Attestations de covoiturage](attestations-de-covoiturage.md)
 
