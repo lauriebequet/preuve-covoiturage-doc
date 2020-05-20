@@ -45,9 +45,9 @@
 
 * [Open Data - Ouverture des données](boite-a-outils/open-data-ouverture-des-donnees.md)
 * [Utiliser les outils du registre pour mettre en place le Forfait Mobilité Durable](boite-a-outils/utiliser-les-outils-du-registre-pour-mettre-en-place-le-forfait-mobilite-durable.md)
+* [Attestations de covoiturage](boite-a-outils/attestations-de-covoiturage.md)
 * [Guide des incitations](boite-a-outils/guide-des-incitations.md)
 * [Pourquoi encourager le covoiturage ?](boite-a-outils/pourquoi-encourager-le-covoiturage.md)
 * [Kit de communication](boite-a-outils/kit-de-communication.md)
 * [Compte rendu](boite-a-outils/compte-rendu.md)
-* [Attestations de covoiturage](attestations-de-covoiturage.md)
 
