@@ -30,6 +30,7 @@
   * [❌ Schema JSON V1 \(déprécié\)](api/envoyer-des-trajets/schema-json-v1.md)
 * [Alimenter le registre via des tableurs](alimenter-le-registre-via-des-tableurs/README.md)
   * [Schema CSV \(déprécié\)](alimenter-le-registre-via-des-tableurs/schema-csv.md)
+* [Documentation technique](documentation-technique.md)
 * [Outils](outils.md)
 * [Vérifier le statut d'un trajet](verifier-le-statut-dun-trajet.md)
 * [Invalider un trajet](invalider-un-trajet.md)
