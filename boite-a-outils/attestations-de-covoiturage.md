@@ -41,6 +41,10 @@ Les opérateurs de [covoiturage partenaires du Registre de Preuve de Covoiturage
 
 Les données personnelles collectées par le Registre de preuve de covoiturage sont très limitées et concernent strictement des données nécessaires aux finalités du Service \(voir [protection de la vie privée](https://registre-preuve-de-covoiturage.gitbook.io/produit/protectiondonnees)\). Le Registre de preuve de covoiturage est soumis au cadre juridique de la protection de la vie privée, incarné notamment par le RGPD \(règlement général relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données\) et la loi informatique & libertés.
 
+### Comment télécharger mon attestation qui fait office de preuve de covoiturage ?
+
+L'usager télécharge sa preuve de covoiturage sur la solution de covoiturage qu'il a pour habitude d'utiliser \(sous réserve que cette solution soit liée au registre de preuve de covoiturage\).
+
 ### Comment transmettre mon attestation à mon employeur ?
 
 Vous pouvez imprimer l'attestation \(couleur ou noir et blanc\) ou l'envoyer comme pièce jointe par courriel. Ces dispositions seront à confirmer auprès de votre employeur.
@@ -53,7 +57,13 @@ Vous pouvez imprimer l'attestation \(couleur ou noir et blanc\) ou l'envoyer com
 
 Chaque opérateur vous fournit une attestation pour les trajets effectués sur sa plateforme, c'est à vous de demander toutes les attestations vous concernant et de les transmettre à votre employeur ou collectivité.
 
-## Je suis un employeur ou une collectivité
+## Je suis une collectivité ou un employeur
+
+### Je suis une collectivité. Comment faire pour être partie prenante du système des attestations de covoiturage ?
+
+### Je suis un employeur. Comment faire pour être partie prenante du système des attestations de covoiturage ?
+
+
 
 ### Comment vérifier une attestation ?
 
@@ -80,4 +90,10 @@ L'attestation est personnelle, l'organisme incitateur \(employeur, collectivité
 ### Je constate une fraude, qui contacter ?
 
 S'il s'agit d'une fraude de la part d'un‧e usager‧e nous vous invitons dans un premier temps à signaler auprès de l'opérateur de covoiturage concerné ce cas avéré. Dans un second temps, si nécessaire, l'opérateur pourra revenir vers le Service.
+
+## Je suis un opérateur
+
+### Comment faire pour être partie prenante du système des attestations de covoiturage ? 
+
+\(Cf. ici la rubrique attestations pour les opérateurs\)
 
