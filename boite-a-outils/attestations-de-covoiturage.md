@@ -27,6 +27,10 @@ Le Registre propose un service d'attestation pour les collectivités et les empl
 Pour information, le **forfait mobilité durable** \(**Article 82**, loi d'orientation des mobilités\) permet aux employeurs la prise en charge facultative des frais engagés par ses salariés pour se rendre sur leur lieu de travail, notamment en covoiturage. Le forfait mobilité durable s'applique sur des frais de covoiturage engagés par les salariés jusqu'à **400€ par an**. Cette prise en charge par l'employeur est entièrement exonérée d'impôt et de cotisations sociales et elle est cumulable avec le remboursement des frais de transport en commun.
 {% endhint %}
 
+
+
+{% embed url="https://www.youtube.com/watch?v=TMD0kvrWrag" %}
+
 ## Je suis un‧e covoitureur‧euse
 
 ### Qu'est-ce qu'un opérateur de covoiturage ?
