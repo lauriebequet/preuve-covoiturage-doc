@@ -20,8 +20,15 @@ Cette attestation, réalisée par opérateur, regroupe trois informations princi
 
 Le Registre propose un service d'attestation pour les collectivités et les employeurs avec deux objectifs distincts. 
 
-* Les **attestations de covoiturage à destination des collectivités** ont pour objectif de certifier le trajet d'un usager pour que celui-ci puisse l'échanger contre **une incitation non financière** de la part de la **collectivité**.  
-* Les **attestations de covoiturage à destination des employeurs** \(collectivités comprises\) ont pour objectif de certifier le trajet d'un employé pour que celui-ci puisse l'échanger contre **une incitation financière** de la part de l'**employeur** dans le cadre du **Forfait Mobilités Durables**.  L'employeur peut **se servir des attestations** pour développer **en interne** son propre système d'**incitation non financière**. _\(cf. la rubrique ci-dessous : Comment suivre le décompte des points / euros consommés par les covoitureur‧euse‧s ?\)_
+* Les **attestations de covoiturage à destination des collectivités** ont pour objectif de certifier le trajet d'un usager pour que celui-ci puisse l'échanger contre **une incitation non financière** de la part de la **collectivité**.   
+  
+  Exemples : 
+
+  * Accès à des places de stationnement réservées ou à tarif préférentiel.
+  * Tarif préférentiel à des péages.
+  * Accès à tarif réduit ou gratuit à d’autres services publics \(piscine municipale, bibliothèque, musée, etc.\).
+
+* Les **attestations de covoiturage à destination des employeurs** \(collectivités comprises\) ont pour objectif de certifier le trajet d'un employé pour que celui-ci puisse l'échanger contre **une incitation financière** de la part de l'**employeur** dans le cadre du **Forfait Mobilités Durables**.  L'employeur peut **se servir des attestations** pour développer **en interne** son propre système d'**incitation non financière**. \(Cf. [Comment suivre le décompte des points / euros consommés par les covoitureur‧euse‧s ?](https://registre-preuve-de-covoiturage.gitbook.io/produit/boite-a-outils/attestations-de-covoiturage#comment-suivre-le-decompte-des-points-euros-consommes-par-les-covoitureur-euse-s)\)
 
 {% hint style="info" %}
 Pour information, le **forfait mobilité durable** \(**Article 82**, loi d'orientation des mobilités\) permet aux employeurs la prise en charge facultative des frais engagés par ses salariés pour se rendre sur leur lieu de travail, notamment en covoiturage. Le forfait mobilité durable s'applique sur des frais de covoiturage engagés par les salariés jusqu'à **400€ par an**. Cette prise en charge par l'employeur est entièrement exonérée d'impôt et de cotisations sociales et elle est cumulable avec le remboursement des frais de transport en commun.
