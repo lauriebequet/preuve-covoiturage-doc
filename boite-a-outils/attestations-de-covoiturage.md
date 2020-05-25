@@ -54,7 +54,7 @@ Les données personnelles collectées par le Registre de preuve de covoiturage s
 
 ### Comment télécharger mon attestation qui fait office de preuve de covoiturage ?
 
-L'usager télécharge sa preuve de covoiturage sur la solution de covoiturage qu'il a pour habitude d'utiliser \(sous réserve que cette solution soit liée au registre de preuve de covoiturage\).
+L'usager télécharge sa preuve de covoiturage sur la solution de covoiturage qu'il a pour habitude d'utiliser \(sous réserve que cette solution soit liée au registre de preuve de covoiturage\) et peut la transmettre à son employeur ou à la collectivité afin de bénéficier d'une incitation.
 
 ### Comment transmettre mon attestation à mon employeur ?
 
