@@ -63,9 +63,9 @@ Chaque opérateur vous fournit une attestation pour les trajets effectués sur s
 
 ### Je suis un employeur. Comment faire pour être partie prenante du système des attestations de covoiturage ?
 
-Si la solution de covoiturage utilisée dans mon entreprise est déjà connectée au registre de preuve de covoiturage, je n'ai rien à faire. Voir [ici](http://covoiturage.beta.gouv.fr/) la liste de nos partenaires. L'attestation de covoiturage est certifiée par le registre de preuve de covoiturage puis téléchargeable sur la solution de l'opérateur de covoiturage utilisée dans l'entreprise.
+Si la solution de covoiturage utilisée dans mon entreprise est déjà connectée au registre de preuve de covoiturage, je n'ai rien à faire. Voir [ici](http://covoiturage.beta.gouv.fr/) la liste de nos partenaires. L'attestation de covoiturage est certifiée par le registre de preuve de covoiturage puis téléchargeable par l'employé sur la solution de l'opérateur de covoiturage utilisée dans l'entreprise.
 
-Si la solution de covoiturage utilisée dans mon entreprise n'est pas connectée au registre de preuve de covoiturage, l'employeur peut se rapprocher de l'opérateur de covoiturage afin de savoir s'il souhaite se connecter au registre de preuve de covoiturage.  Pour rappel, l'employeur n'a aucun contact direct avec le registre de preuve de covoiturage, sauf si l'entreprise souhaite connecter sa solution de covoiturage développée en interne. Dans ce cas, l'entreprise peut suivre la procédure de connexion au Registre pour un opérateur de covoiturage. 
+Si la solution de covoiturage utilisée dans mon entreprise n'est pas connectée au registre de preuve de covoiturage, l'employeur peut se rapprocher de l'opérateur de covoiturage afin de savoir s'il souhaite se connecter au registre de preuve de covoiturage.  Pour rappel, l'employeur n'a aucun contact direct avec le registre de preuve de covoiturage, sauf si l'entreprise souhaite connecter sa solution de covoiturage développée en interne. Dans ce cas, l'entreprise peut suivre la [procédure](https://app.gitbook.com/@registre-preuve-de-covoiturage/s/produit/api/partenaireoperateur) de connexion au Registre pour un opérateur de covoiturage. 
 
 ### Comment vérifier une attestation ?
 
