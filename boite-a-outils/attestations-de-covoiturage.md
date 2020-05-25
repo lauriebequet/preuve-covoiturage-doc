@@ -106,7 +106,7 @@ L'attestation est personnelle, l'organisme incitateur \(employeur, collectivité
 
 S'il s'agit d'une fraude de la part d'un‧e usager‧e nous vous invitons dans un premier temps à signaler auprès de l'opérateur de covoiturage concerné ce cas avéré. Dans un second temps, si nécessaire, l'opérateur pourra revenir vers le Service.
 
-## Je suis un opérateur
+## Je suis un opérateur de covoiturage
 
 ### Comment faire pour être partie prenante du système des attestations de covoiturage ? 
 
