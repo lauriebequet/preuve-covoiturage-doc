@@ -59,5 +59,5 @@ Il s'agit d'un blocage de la part de l'opérateur de la perception de l'incitati
 
 ### Prochaine étape
 
-Aujourd'hui, ceci est un exemple de bonne pratique incitée par le Service à destination des opérateurs de covoiturage. Par la suite, nous l’intégrerons à nos Conditions Générales d’Utilisation \(obligations des opérateurs\) au 1 septembre 2020 \(date envisagée\). A noter que nous comprenons que la date d’application dans les CGU au 1er septembre puisse être complexe, à la vue du contexte actuel. Nous gardons en tête la date du 1 septembre et évaluerons la possibilité d'un report durant la période estivale.
+Aujourd'hui, ceci est un exemple de bonne pratique incitée par le Service à destination des opérateurs de covoiturage. Par la suite, nous l’intégrerons à nos Conditions Générales d’Utilisation \(obligations des opérateurs\) au 1 septembre 2020. Nous gardons en tête la date du 1 septembre et évaluerons la possibilité d'un report durant la période estivale. Nous invitons donc les opérateurs partenaires à se conformer à ces prochaines obligations. 
 
