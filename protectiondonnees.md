@@ -92,3 +92,13 @@ Néanmoins, nous encourageons les Opérateurs de covoiturage à s’assurer de l
 
 Enfin, l’ensemble de ces éléments juridiques ont été renforcés par une approche complémentaire de sécurité informatique élémentaire. Ainsi, dès réception de ces données à caractère personnel, le Registre effectue une série de traitement visant par exemple à pseudonymiser les données collectées, chiffrer lesdites informations et s’assurer du contrôle d’accès des différentes parties prenantes \(sur ce point, [voir l’étape 5](https://registre-preuve-de-covoiturage.gitbook.io/produit/juridique#etape-5)\).
 
+### Droit d'accès, de rectification et de suppression des informations
+
+La procédure à suivre est la suivante : 
+
+1. Entrez en contact avec votre opérateur de covoiturage afin de lui demander l'identifiant unique qu'il communique auprès du Service. Cet identifiant prend la forme soit d'un numéro de téléphone complet \(en l’occurrence le votre\) soit d'un numéro de téléphone tronqué aux 8 premiers chiffres accompagné d'un identifiant propre à l'opérateur.
+2. Entrez en contact avec l'équipe du Service via [contact@covoiturage.beta.gouv.fr](mailto:contact@covoiturage.beta.gouv.fr) en joignant à votre demande : 
+   1. Le motif : accès, restriction ou suppression des informations ; 
+   2. Votre identifiant ;
+   3. Une justification d'identité \(facture téléphonique, pièce d'identité, etc.\).
+

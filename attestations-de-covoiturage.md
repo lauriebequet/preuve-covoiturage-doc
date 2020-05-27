@@ -4,29 +4,30 @@ description: Génération d'attestations pour les utilisateurs de services de co
 
 # Attestations de covoiturage
 
-
-
 {% hint style="warning" %}
 Cette fonctionnalité est en cours de développement.  
-En tant qu'opérateur de covoiturage, contactez nous si vous souhaitez y participer :  
-[contact@covoiturage.beta.gouv.fr](mailto:contact@covoiturage.beta.gouv.fr)  
+En tant qu'opérateur de covoiturage, contactez nous si vous souhaitez y participer : [technique@covoiturage.beta.gouv.fr](mailto:technique@covoiturage.beta.gouv.fr)  
   
 Merci de [créer des tickets](https://github.com/betagouv/preuve-covoiturage/issues/new) si vous rencontrez des problèmes.
 {% endhint %}
 
-## Statut des développements
+## Statut de développement des fonctionnalités 
 
-* [x] Génération de l'API par l'opérateur
-* [x] Téléchargement d'un PDF
-* [x] Téléchargement d'un PNG
-* [x] Page de vérification de l'attestation en ligne \(accès public\)
+* [x] Génération de l'API par l'opérateur ;
+* [x] Téléchargement d'un PDF ;
+* [x] Téléchargement d'un PNG ;
+* [x] Page de vérification de l'attestation en ligne \(accès public\) ;
 * [ ] Envoi de meta-données pour injecter les données personnelles du covoitureur
 
 ## **Création de l’attestation**
 
 La requête est faite par le serveur de l’opérateur et authentifiée avec un token applicatif dans les _headers_ \(même token que pour envoyer des preuves\).
 
-Chaque appel crée un nouveau certificat même si les paramètres sont exactement les mêmes. _Les valeurs de km ou coût on pu changer entre deux appels._
+Chaque appel crée un nouveau certificat même si les paramètres sont exactement les mêmes. 
+
+{% hint style="info" %}
+_Les valeurs de km ou coût ont pu changer entre deux appels._
+{% endhint %}
 
 Le token renvoyé dans la réponse permet d’identifier l’appelant lors de la génération du PDF/PNG. Il doit être envoyé dans les _headers_ de l’appel à `/v2/certificates/pdf/{uuid}` pour permettre le téléchargement direct du PDF par une application mobile sans repasser par le token applicatif du serveur.
 
