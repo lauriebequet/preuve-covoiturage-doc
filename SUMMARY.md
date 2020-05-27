@@ -36,6 +36,7 @@
   * [Vérifier le statut d'un trajet](modes-demploi/verifier-le-statut-dun-trajet.md)
   * [Invalider un trajet](modes-demploi/invalider-un-trajet.md)
   * [Visibilité du nom de l’opérateur](modes-demploi/visibilite-du-nom-de-loperateur.md)
+* [Attestations de covoiturage](attestations-de-covoiturage.md)
 
 ## 📒 Territoire AOM <a id="mode-aom"></a>
 
