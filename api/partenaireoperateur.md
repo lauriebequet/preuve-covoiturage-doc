@@ -40,8 +40,8 @@ Nous vous recommandons de tester dans un premier temps votre connexion sur l’e
 
 Il existe deux possibilités pour faire converger des preuves de covoiturage.
 
-* Via l'API : la procédure est explicitée[ ici](https://registre-preuve-de-covoiturage.gitbook.io/produit/api/envoyer-des-trajets) et le format JSON attendu[ ici](https://registre-preuve-de-covoiturage.gitbook.io/produit/api/schema-json).
-* Via un fichier CSV : la méthodologie pour alimenter le registre est exposée[ ici](https://registre-preuve-de-covoiturage.gitbook.io/produit/mode-demploi/alimenter-le-registre-via-des-tableurs) et le format attendu[ ici](https://registre-preuve-de-covoiturage.gitbook.io/produit/api/schema-csv).
+* Via l'API : la procédure est explicitée[ ici](https://registre-preuve-de-covoiturage.gitbook.io/produit/api/envoyer-des-trajets) et le format JSON attendu [ici](https://registre-preuve-de-covoiturage.gitbook.io/produit/api/envoyer-des-trajets/schema-json-v2).
+* Via un fichier CSV : la méthodologie pour alimenter le registre est exposée [ici](https://registre-preuve-de-covoiturage.gitbook.io/produit/alimenter-le-registre-via-des-tableurs) et le format attendu [ici](https://registre-preuve-de-covoiturage.gitbook.io/produit/alimenter-le-registre-via-des-tableurs/schema-csv).
 
 Si vous en avez la capacité nous vous recommandons la méthode via l'API.
 
