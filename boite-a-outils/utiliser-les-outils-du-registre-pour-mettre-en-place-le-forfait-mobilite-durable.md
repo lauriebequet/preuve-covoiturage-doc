@@ -12,7 +12,7 @@ Le registre propose un système d'**attestation unique et homogène au niveau na
 
 ## [Je suis un‧e covoitureur‧euse,](https://registre-preuve-de-covoiturage.gitbook.io/produit/boite-a-outils/attestations-de-covoiturage#je-suis-un-e-covoitureur-euse)
 
-## [je suis un employeur, ](https://registre-preuve-de-covoiturage.gitbook.io/produit/boite-a-outils/attestations-de-covoiturage#je-suis-une-collectivite-ou-un-employeur)
+## [je suis un employeur,](https://registre-preuve-de-covoiturage.gitbook.io/produit/boite-a-outils/attestations-de-covoiturage#je-suis-un-employeur-collectivite-comprise-comment-faire-pour-etre-partie-prenante-du-systeme-des-attestations-de-covoiturage) 
 
 ## [je suis un opérateur de covoiturage. ](https://registre-preuve-de-covoiturage.gitbook.io/produit/boite-a-outils/attestations-de-covoiturage#je-suis-un-operateur)
 
