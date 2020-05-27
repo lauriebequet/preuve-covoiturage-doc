@@ -13,7 +13,7 @@ Nous vous invitons à nous communiquer :
   * Identité délégué à la protection des données \(Nom, Prénom, Email\) ➡️ [définition CNIL](https://www.cnil.fr/fr/definition/delegue-protection-donnees)
   * Identité responsable de traitement \(Nom, Prénom, Email\) ➡️ [définition CNIL](https://www.cnil.fr/fr/definition/responsable-de-traitement)
   * Identité responsable technique \(Nom, Prénom, Email, N° téléphone\)
-* Un logo à mettre sur notre site.
+* Un logo à mettre sur notre site. Pour information, votre contact n'est pas communiqué.
 
 #### Etape 2 
 
@@ -44,7 +44,7 @@ Conformément aux CGU nous vous invitons à nous communiquer :
   * Identité délégué à la protection des données \(Nom, Prénom, Email\) ➡️ [définition CNIL](https://www.cnil.fr/fr/definition/delegue-protection-donnees)
   * Identité responsable de traitement \(Nom, Prénom, Email\) ➡️ [définition CNIL](https://www.cnil.fr/fr/definition/responsable-de-traitement)
   * Identité responsable technique \(Nom, Prénom, Email, N° téléphone\)
-* Un logo à mettre sur notre site.
+* Un logo à mettre sur notre site. Pour information, votre contact n'est pas communiqué.
 
 #### **Etape 3**
 
