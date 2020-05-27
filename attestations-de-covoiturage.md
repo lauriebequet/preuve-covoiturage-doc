@@ -1,10 +1,10 @@
 ---
-description: >-
-  Génération d'attestations de covoiturage pour les utilisateurs de services de
-  covoiturage
+description: Génération d'attestations pour les utilisateurs de services de covoiturage
 ---
 
 # Attestations de covoiturage
+
+
 
 {% hint style="warning" %}
 Cette fonctionnalité est en cours de développement.  
