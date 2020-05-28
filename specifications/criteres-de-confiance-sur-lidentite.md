@@ -28,6 +28,10 @@ Les pièces d’identité considérées sont les suivantes :
 
 _\*Cette disposition est uniquement valable pour les cartes de transport dont l'identité associée aura pu être contrôlée et validée par un service mis à disposition par l’autorité organisatrice \(exemple : une API de consultation de l’identité associée à un numéro de carte de transport._
 
+{% hint style="warning" %}
+Le recours à un dispositif permettant de garantir l’identité d’un utilisateur en s’appuyant sur des comptes existants pour lesquels son identité a déjà été vérifiée est également accepté. Par exemple, le recours à [France Connect](https://franceconnect.gouv.fr/) est accepté. 
+{% endhint %}
+
 #### Définitions
 
 * **1 trajet** correspond à 1 couple passager / conducteur. \(nb : un véhicule avec 2 passagers équivaut à 2 trajets\)
