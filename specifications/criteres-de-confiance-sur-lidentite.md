@@ -67,7 +67,7 @@ Notre souhait d'intégrer ces bonnes pratiques aux Conditions Générales d’Ut
 
 Nous rappelons tout de même que les réflexions sur ce sujet ont débuté le 2 décembre 2019 lors d’un atelier réalisé à la demande de plusieurs opérateurs. 
 
-Le nouveau calendrier proposé est le suivant : 
+Le nouveau calendrier est le suivant : 
 
 * Dès à présent, nous invitons les opérateurs volontaires ayant déjà mis en oeuvre ces bonnes pratiques à se signaler. Nous échangerons alors avec eux et leur proposerons l’obtention d’un “label de confiance sur l’identité” \(nom donné à titre indicatif et surtout non définitif\). Les opérateurs pourront tout à fait communiquer sur ce “label” ;
 * Dès à présent, nous invitons également les opérateurs volontaires souhaitant mettre en oeuvre ces bonnes pratiques à nous l’indiquer. Nous pouvons vous accompagner si jamais vous avez des questions. Attention, l’aide proposée ici ne consiste pas à vous aider techniquement dans l’implémentation de ces bonnes pratiques ;
