@@ -72,7 +72,9 @@ Cette même étude met également en avant que pour 53% des répondants, le covo
     </tr>
   </thead>
   <tbody></tbody>
-</table>Le schéma ci-dessous, volontairement très simplifié montre que le coût des déplacements est un enjeu majeur. Les incitations permettent une diminution du reste à charge et participent en répondant à cet enjeu, à augmenter le pouvoir d'achat des covoitureurs. 
+</table>
+
+Le schéma ci-dessous, volontairement très simplifié montre que le coût des déplacements est un enjeu majeur. Les incitations permettent une diminution du reste à charge et participent en répondant à cet enjeu, à augmenter le pouvoir d'achat des covoitureurs. 
 
 ![](../.gitbook/assets/gainachat-2x.png)
 

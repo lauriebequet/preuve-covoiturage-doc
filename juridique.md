@@ -161,7 +161,9 @@ La mission Incubateur de Services Numériques propose un modèle de convention s
     </tr>
   </thead>
   <tbody></tbody>
-</table>L’article 35 de la Loi d’Orientation des Mobilités prévoit les mentions suivantes pour les Autorités Organisatrices de la Mobilité et les régions :
+</table>
+
+L’article 35 de la Loi d’Orientation des Mobilités prévoit les mentions suivantes pour les Autorités Organisatrices de la Mobilité et les régions :
 
 * « Elle peut également, lorsque le covoiturage est effectué par l'intermédiaire d'une plateforme dématérialisée, verser une allocation aux passagers qui effectuent un déplacement en covoiturage ou aux conducteurs qui ont proposé un trajet.
 * « Pour le passager, l'allocation perçue ne peut excéder les frais qu'il engage, tels que définis à l'article L. 3132-1.
@@ -209,7 +211,9 @@ A titre d’exemple les frais partagés maximum pour les occupants du trajet pr�
     </tr>
   </thead>
   <tbody></tbody>
-</table>#### **Incitation non financière**
+</table>
+
+#### **Incitation non financière**
 
 L'incubateur des services numériques préconise la rédaction d'une convention de partenariat que l'incitation soit financière ou non.
 

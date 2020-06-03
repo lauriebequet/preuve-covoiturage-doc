@@ -63,5 +63,18 @@ Il s'agit d'un blocage de la part de l'opérateur de la perception de l'incitati
 
 ### Prochaine étape
 
-Aujourd'hui, ceci est un exemple de bonne pratique incitée par le Service à destination des opérateurs de covoiturage. Par la suite, nous l’intégrerons à nos Conditions Générales d’Utilisation \(obligations des opérateurs\) au 1 septembre 2020. Nous gardons en tête la date du 1 septembre et évaluerons la possibilité d'un report durant la période estivale. Nous invitons donc les opérateurs partenaires à se conformer à ces prochaines obligations. 
+Notre souhait d'intégrer ces bonnes pratiques aux Conditions Générales d’Utilisation dans la partie “obligations des opérateurs” est toujours d’actualité. Toutefois, après une phase de réflexion nous comprenons que la date d’application dans les CGU au 1er septembre 2020 puisse être complexe, à la vue du contexte actuel. 
+
+Nous rappelons tout de même que les réflexions sur ce sujet ont débuté le 2 décembre 2019 lors d’un atelier réalisé à la demande de plusieurs opérateurs. 
+
+Le nouveau calendrier proposé est le suivant : 
+
+* Dès à présent, nous invitons les opérateurs volontaires ayant déjà mis en oeuvre ces bonnes pratiques à se signaler. Nous échangerons alors avec eux et leur proposerons l’obtention d’un “label de confiance sur l’identité” \(nom donné à titre indicatif et surtout non définitif\). Les opérateurs pourront tout à fait communiquer sur ce “label” ;
+* Dès à présent, nous invitons également les opérateurs volontaires souhaitant mettre en oeuvre ces bonnes pratiques à nous l’indiquer. Nous pouvons vous accompagner si jamais vous avez des questions. Attention, l’aide proposée ici ne consiste pas à vous aider techniquement dans l’implémentation de ces bonnes pratiques ;
+* Symboliquement ces bonnes pratiques seront intégrées dans les Conditions Générales d’Utilisation comme une obligation de la part des opérateurs\* au 2 décembre 2020 \(un an après la première réunion\).
+
+\*Ces obligations s’appliqueront uniquement pour les opérateurs dont le volume mensuel de trajets remontés auprès du Service est supérieur à 5 000.  
+
+
+ 
 

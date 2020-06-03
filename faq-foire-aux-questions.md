@@ -37,7 +37,9 @@ La distribution d’incitation entre la collectivité et l’opérateur s’appu
     </tr>
   </thead>
   <tbody></tbody>
-</table>La définition légale de la notion de subvention vise en particulier à prévenir le risque de requalification de certaines subventions en marchés publics, ce qui peut être le cas lorsque la subvention sert à financer un projet d**’initiative publique** ou peut être regardée **comme la rémunération d’une prestation ou la contrepartie d’un service rendu** \(v. not., [CE, 26 mars 2008, Région de la Réunion, n° 284412](https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000018503400) ; [CE, 23 mai 2011, Commune de Six-Fours-Les-Plages, n° 342520](https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000024081926&fastReqId=235803971&fastPos=1)\).
+</table>
+
+La définition légale de la notion de subvention vise en particulier à prévenir le risque de requalification de certaines subventions en marchés publics, ce qui peut être le cas lorsque la subvention sert à financer un projet d**’initiative publique** ou peut être regardée **comme la rémunération d’une prestation ou la contrepartie d’un service rendu** \(v. not., [CE, 26 mars 2008, Région de la Réunion, n° 284412](https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000018503400) ; [CE, 23 mai 2011, Commune de Six-Fours-Les-Plages, n° 342520](https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000024081926&fastReqId=235803971&fastPos=1)\).
 
 La subvention se distingue également d’une délégation de service public en ce qu’elle n’a pas pour objet de mettre à la charge de l**’organisme bénéficiaire l’organisation, la gestion et le fonctionnement d’un service public**.
 
@@ -67,7 +69,9 @@ De ce fait, des personnes de droit public et de droit privé peuvent se retrouve
     </tr>
   </thead>
   <tbody></tbody>
-</table>En d’autres termes, une **collectivité territoriale peut légalement inciter des opérateurs de covoiturage privés au même titre que les solutions publiques qu’elle met en œuvre, à condition  de respecter les principes de liberté du commerce et de l’industrie et du droit à la concurrence et les dispositions de l’article L. 1241-1 du code des transports**.
+</table>
+
+En d’autres termes, une **collectivité territoriale peut légalement inciter des opérateurs de covoiturage privés au même titre que les solutions publiques qu’elle met en œuvre, à condition  de respecter les principes de liberté du commerce et de l’industrie et du droit à la concurrence et les dispositions de l’article L. 1241-1 du code des transports**.
 
 ### **Comment mettre en œuvre une subvention ?**
 
@@ -107,7 +111,9 @@ Les procédures de sélection des bénéficiaires de la subvention peuvent varie
     </tr>
   </thead>
   <tbody></tbody>
-</table>### **Comment verser une subvention sans affecter la concurrence ?**
+</table>
+
+### **Comment verser une subvention sans affecter la concurrence ?**
 
 <table>
   <thead>
@@ -124,7 +130,9 @@ Les procédures de sélection des bénéficiaires de la subvention peuvent varie
     </tr>
   </thead>
   <tbody></tbody>
-</table>On constate que la notion d’affectation de la concurrence est très large. Qui plus est, elle peut être constatée à un instant t, ou bien potentielle. L’affectation de la concurrence peut intervenir sur le marché principal, comme sur les marchés connexes et dérivés. L’existence d’une distorsion de concurrence est, en pratique, généralement constatée lorsqu’une aide favorise une ou plusieurs entreprises ou productions dans un secteur ouvert à la concurrence.
+</table>
+
+On constate que la notion d’affectation de la concurrence est très large. Qui plus est, elle peut être constatée à un instant t, ou bien potentielle. L’affectation de la concurrence peut intervenir sur le marché principal, comme sur les marchés connexes et dérivés. L’existence d’une distorsion de concurrence est, en pratique, généralement constatée lorsqu’une aide favorise une ou plusieurs entreprises ou productions dans un secteur ouvert à la concurrence.
 
 **Ainsi, les demandes de subventions doivent être émises sur la base du volontariat, par les opérateurs de covoiturage**. La collectivité territoriale définie les règles générales s’appliquant à la dite subvention. Les opérateurs de covoiturage respectant ces conditions sont invités à se manifester. Le secteur reste ainsi ouvert à la concurrence.
 
@@ -216,7 +224,9 @@ En cas d’incitation multiple à différentes échelles nous proposons d’affe
     </tr>
   </thead>
   <tbody></tbody>
-</table>En d’autres termes, la gestion de fait fait référence au maniement de deniers publics par une personne n’ayant pas la qualité de comptable public. Il s’agit d’une violation du principe de séparation des ordonnateurs et des comptables. La constitution d’une gestion de fait assimile donc le gestionnaire à un comptable public devant rendre des comptes vis-à-vis de sa gestion dans les mêmes conditions d’un comptable public.
+</table>
+
+En d’autres termes, la gestion de fait fait référence au maniement de deniers publics par une personne n’ayant pas la qualité de comptable public. Il s’agit d’une violation du principe de séparation des ordonnateurs et des comptables. La constitution d’une gestion de fait assimile donc le gestionnaire à un comptable public devant rendre des comptes vis-à-vis de sa gestion dans les mêmes conditions d’un comptable public.
 
 Au niveau de la jurisprudence des Chambres régionales des comptes, il y a gestion de fait dans les cas suivants :
 
@@ -263,7 +273,9 @@ C'est tout à fait possible si ceci n'amène à une rupture d'égalité notoire.
     </tr>
   </thead>
   <tbody></tbody>
-</table>## Technique & données
+</table>
+
+## Technique & données
 
 ### **Que signifie que la plateforme est open-source ? Est-ce que les données sont ouvertes ?**
 
@@ -380,7 +392,9 @@ Les mécanismes de détection de fraudes et d’incohérences sont continuelleme
     </tr>
   </thead>
   <tbody></tbody>
-</table>#### **Vous êtes un covoitureur conducteur et déclarez vos frais réels ?**
+</table>
+
+#### **Vous êtes un covoitureur conducteur et déclarez vos frais réels ?**
 
 * Vous devez indiquer **les montants reçus** au titre des covoiturages réalisés dans votre déclaration de revenus. 
 * Vous devez déclarer **vos dépenses engagées** : carburant, péages, parking, etc. 

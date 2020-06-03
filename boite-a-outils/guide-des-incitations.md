@@ -50,7 +50,9 @@ L’incitation financière peut soit prendre la forme d’une prise en charge to
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">
@@ -69,7 +71,9 @@ L’incitation financière peut soit prendre la forme d’une prise en charge to
     </tr>
   </thead>
   <tbody></tbody>
-</table>### **Incitations basées sur les compétences des collectivités territoriales françaises**
+</table>
+
+### **Incitations basées sur les compétences des collectivités territoriales françaises**
 
 En fonction des compétences de la collectivité l’incitation peut prendre la forme de cadeaux, permis/droits d’entrée ou bons d’achat pour des commodités spécifiques. Ci après sont mentionnées, sous la forme d’une liste non exhaustive, des compétences de collectivités pouvant èufaire l’objet d’incitations.
 
@@ -97,7 +101,9 @@ En fonction des compétences de la collectivité l’incitation peut prendre la 
     </tr>
   </thead>
   <tbody></tbody>
-</table>#### ![](https://lh6.googleusercontent.com/-joCP0FthciVXYOWTcznJH5sjirmHDsMw3zCq-QVAw1TFGIorqEORS_9BF4FEMUeGL3HmeCFhwaEH-yAnSA-tw3UHtlwcHBp5Ea1WaPt9AHq_pqtI6lyKflStyimayzIA-X9fiZW)**Vie économique**
+</table>
+
+#### ![](https://lh6.googleusercontent.com/-joCP0FthciVXYOWTcznJH5sjirmHDsMw3zCq-QVAw1TFGIorqEORS_9BF4FEMUeGL3HmeCFhwaEH-yAnSA-tw3UHtlwcHBp5Ea1WaPt9AHq_pqtI6lyKflStyimayzIA-X9fiZW)**Vie économique**
 
 * Actions de développement économique.
 
@@ -113,7 +119,9 @@ En fonction des compétences de la collectivité l’incitation peut prendre la 
     </tr>
   </thead>
   <tbody></tbody>
-</table>#### ![](https://lh3.googleusercontent.com/-_Ab_0C1XqEEZavmtrrx-edxiF1c-2Sv0R_RTz9QSL_ZOD4r2ghJ_hSq7fX5tHaoKOXoS55VhRNTlWUZUnWf0POUBLHNS99UvZNn0fIOpsHDyd87C-yjUZs5dSJye5ssW_eGZEq4)**Environnement**
+</table>
+
+#### ![](https://lh3.googleusercontent.com/-_Ab_0C1XqEEZavmtrrx-edxiF1c-2Sv0R_RTz9QSL_ZOD4r2ghJ_hSq7fX5tHaoKOXoS55VhRNTlWUZUnWf0POUBLHNS99UvZNn0fIOpsHDyd87C-yjUZs5dSJye5ssW_eGZEq4)**Environnement**
 
 * Actions sur les thématiques de l'énergie, des déchets et du développement durable : dons ou bons d’achat pour des composteurs, paniers de légumes locaux, etc.
 
@@ -145,3 +153,4 @@ Il est envisageable de débloquer l’incitation à l’atteinte d’un grade \(
   </thead>
   <tbody></tbody>
 </table>
+

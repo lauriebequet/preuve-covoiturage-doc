@@ -589,7 +589,9 @@ Afin de déterminer la classe pouvant être atteinte par un opérateur, ce derni
         <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>  
+</table>
+
+  
   
 
 
