@@ -94,7 +94,6 @@ Une fois l’attestation créée en base \(201 created\), on peut télécharger 
 
 ```javascript
 GET ${response.pdf_url} OU ${response.png_url}
-Authorization: Bearer ${response.authorization}
 
 Request {} // objet vide
 
