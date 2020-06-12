@@ -4,7 +4,7 @@
 
 ### Etape N°1
 
-Vous trouverez nos[ Conditions Générales d'Utilisation \(CGU\) en ligne](https://registre-preuve-de-covoiturage.gitbook.io/produit/cgu).
+Vous trouverez nos [Conditions Générales d'Utilisation \(CGU\) en ligne](../presentation/cgu.md).
 
 Merci de nous indiquer par retour de mail \(contact@covoiturage.beta.gouv.fr\) votre acceptation de ces CGU.
 
