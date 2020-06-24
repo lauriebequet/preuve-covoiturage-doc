@@ -12,6 +12,8 @@
 
 ## 📐Fonctionnement
 
+---
+
 * [Protection de la vie privée](protectiondonnees.md)
 * [Juridique](juridique.md)
 * [FAQ - Foire Aux Questions](faq-foire-aux-questions.md)
@@ -28,6 +30,9 @@
 * [Alimenter le registre via l'API](api/envoyer-des-trajets/README.md)
   * [✅ Schema JSON V2](api/envoyer-des-trajets/schema-json-v2.md)
   * [❌ Schema JSON V1 \(déprécié\)](api/envoyer-des-trajets/schema-json-v1.md)
+
+---
+
 * [Alimenter le registre via des tableurs](alimenter-le-registre-via-des-tableurs/README.md)
   * [Schema CSV \(déprécié\)](alimenter-le-registre-via-des-tableurs/schema-csv.md)
 * [Attestations de covoiturage](attestations-de-covoiturage.md)
@@ -42,7 +47,7 @@
 
 * [Devenir partenaire](mode-aom/onboarding.md)
 * [Définir une politique d'incitation dans l'interface AOM](mode-aom/definir-une-politique-incitative-dans-linterface-aom.md)
-* [Charte engament en faveur du covoiturage](mode-aom/charte-engament-en-faveur-du-covoiturage.md)
+* [Charte engagement en faveur du covoiturage](mode-aom/charte-engament-en-faveur-du-covoiturage.md)
 
 ## 🛠️ Boite à outils
 
