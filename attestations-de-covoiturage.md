@@ -37,6 +37,9 @@ Authorization: Bearer ${application_token}
 
 Request {
     // Paramètres obligatoires
+    
+    // const tz = Intl.DateTimeFormat().resolvedOptions().timeZone
+    "tz": "Europe/Paris",
     "identity": {
         "phone": "+33612345678"
         // OU
