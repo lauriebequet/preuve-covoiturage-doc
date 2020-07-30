@@ -19,6 +19,12 @@ Nous vous invitons à nous communiquer :
 
 Nous vous ouvrons un accès au registre sur [https://app.covoiturage.beta.gouv.fr](https://app.covoiturage.beta.gouv.fr).
 
+{% hint style="success" %}
+Vous pouvez nous communiquer ces informations par mail à territoire@covoiturage.beta.gouv.fr ou directement via le [formulaire suivant](https://startupdetat.typeform.com/to/zOoV4Mkz). 
+{% endhint %}
+
+
+
 ### Accès complet : vous avez voté une campagne d’incitation au covoiturage
 
 #### Etape N°1
