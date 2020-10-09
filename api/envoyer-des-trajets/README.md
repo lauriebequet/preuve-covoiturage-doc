@@ -44,6 +44,11 @@ Un code de retour `201 Created` est retourné quand la preuve est acceptée.
 Les tokens n’expirent pas dans le temps mais ils peuvent être mis sur une liste noire en cas d’utilisation anormale.
 {% endhint %}
 
+### Limitations du nombre de requêtes
+
+Le nombre de requêtes envoyées sur la route d'acquisition des preuves est de **20000 par minute**. Au delà, merci de différer les envois en plusieurs blocs espacés de quelques minutes.  
+_Les autres routes de l'application ont des limites beaucoup plus basses._
+
 ## Foire Aux Questions 
 
 ### Qu'est-ce qu'un trajet ?
