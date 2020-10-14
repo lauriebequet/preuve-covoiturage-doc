@@ -10,7 +10,7 @@
 
 **Conducteur.rice** - cela désigne la personne mettant à disposition son véhicule à des fins de covoiturage.
 
-**Covoiturage** - tel que défini par l’article L. 3132-1 du code des transports est « l’utilisation en commun d’un véhicule terrestre à moteur par un conducteur et un ou plusieurs passagers, effectuée à titre non onéreux, excepté le partage des frais, dans le cadre d’un déplacement que le conducteur effectue pour son propre compte. Leur mise en relation, à cette fin, peut être effectuée à titre onéreux \[…\] ». Il y a donc covoiturage dès le partage d’un trajet entre un conducteur et un passager.
+**Covoiturage** - tel que défini par l’article L. 3132-1 du code des transports est « l’utilisation en commun d’un véhicule terrestre à moteur par un conducteur et un ou plusieurs passagers, effectuée à titre non onéreux, excepté le partage des frais, dans le cadre d’un déplacement que le conducteur effectue pour son propre compte. Leur mise en relation, à cette fin, peut être effectuée à titre onéreux \[…\] ». Il y a donc covoiturage dès le partage d’un trajet entre un conducteur et un passager. \(le covoiturage peut donc être interne à la famille\)
 
 **Covoitureur \(ou occupant\)** - cela désigne aussi bien le conducteur que le passager formant un équipage de covoiturage.
 
@@ -38,5 +38,5 @@
 
 **Startup d'État** - cela désigne une équipe autonome, qui sans business model et statut juridique propre, répond à un problème de politique publique via une approche incrémentale.
 
-**Trajet de covoiturage** - cela désigne le trajet réalisé par un couple passager/conducteursé par le biais d’un « Opérateur de covoiturage ».
+**Trajet de covoiturage** - cela désigne le trajet réalisé par un couple passager/conducteur par le biais d’un « Opérateur de covoiturage ».
 
