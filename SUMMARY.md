@@ -22,7 +22,6 @@
 
 * [Classes de preuve de covoiturage](specifications/classes-de-preuve-de-covoiturage.md)
 * [Critères de confiance sur l’identité](specifications/criteres-de-confiance-sur-lidentite.md)
-* [Données financières](specifications/financieres.md)
 * [Statistiques](specifications/statistiques.md)
 
 ## ⚙️Opérateur <a id="api"></a>

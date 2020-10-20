@@ -16,6 +16,23 @@ Cette attestation, réalisée par opérateur, regroupe trois informations princi
 * le nombre de trajets ;
 * les informations financières.
 
+{% hint style="info" %}
+Pour le **conducteur** 
+
+* Coût : frais engagés par le conducteur selon le barème kilométrique **AVANT** que toutes les possibles incitations aient été versées \(subventions employeurs, promotions opérateurs, incitations AOM, etc\).
+
+  Seuls les kilomètres covoiturés sont pris en compte.
+
+* Restant à charge : somme restante à charge du conducteur **APRÈS** avoir perçu les contributions des passagers et que toutes les possibles incitations aient été versées \(subventions employeurs, promotions opérateurs, incitations AOM, etc\) et prise de commission éventuelle de l’opérateur.
+
+Pour le **passager**
+
+* Coût : coût initial du trajet pour le passager **AVANT** que toutes les possibles incitations aient été versées \(subventions employeurs, promotions opérateurs, incitations AOM, etc\)
+* Restant à charge : somme restante à charge du passager **APRES** que toutes les possibles incitations aient été versées \(subventions employeurs, promotions opérateurs, incitations AOM, etc\).
+
+En cas d'alternance entre un statut de passager et conducteur, le coût total et le restant à charge total correspondent à la somme en tant que passager et conducteur. 
+{% endhint %}
+
 ### Quels sont les deux objectifs des attestations ? 
 
 Le Registre propose un service d'attestation pour les collectivités et les employeurs avec deux objectifs distincts. 
