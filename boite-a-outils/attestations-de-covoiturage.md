@@ -6,7 +6,7 @@
 
 Pour rappel, le Registre est une plateforme numérique dédiée aux collectivités pour que celles-ci puissent inciter financièrement la pratique du covoiturage sans crainte de fraude massive.  
   
-Le Registre propose également un système d'attestations. Une attestation de covoiturage est une photographie, au moment de sa génération, des données d'un.e utilisateur‧rice d'un [opérateur de covoiturage partenaire](http://covoiturage.beta.gouv.fr/#operateurs) du Service sur une période précise.
+Le Registre propose un système d'attestations. Une attestation de covoiturage est une photographie, au moment de sa génération, des données d'un.e utilisateur‧rice d'un [opérateur de covoiturage partenaire](http://covoiturage.beta.gouv.fr/#operateurs) du Service sur une période précise.
 
 Une attestation recense sous forme d'un document les informations de covoiturage d'une personne \(passager‧e ou conducteur‧rice\) dont les données sont collectées par le Registre de preuve de covoiturage via son opérateur de covoiturage \(voir [protection de la vie privée](https://registre-preuve-de-covoiturage.gitbook.io/produit/protectiondonnees)\).
 
