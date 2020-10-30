@@ -5,7 +5,7 @@ Il est possible d'alimenter le registre via des tableurs de données en respecta
 * 1️⃣ Une entité “opérateur de covoiturage” est créé sur l’application du registre.
 * 2️⃣ Un utilisateur appartenant à cet opérateur de covoiturage est administrateur.
 
-Afin de valider les critères 1️⃣ et 2️⃣, veuillez à respecter la procédure [Rejoindre le registre](../mode-aom/onboarding.md). En effet, ces opérations sont réalisées par un membre de l’équipe du Registre de Preuve de Covoiturage.
+Afin de valider les critères 1️⃣ et 2️⃣, veuillez à respecter la procédure [Rejoindre le registre](../../mode-aom/onboarding.md). En effet, ces opérations sont réalisées par un membre de l’équipe du Registre de Preuve de Covoiturage.
 
 Une fois ces deux prérequis réalisés, voici la démarche à suivre expliquée pas à pas. 
 
@@ -43,21 +43,21 @@ Une fois le fichier téléchargé, l'ouvrir avec un logiciel de bureautique adap
 
 Le fichier va s'ouvrir dans un format peu lisible \(cf figure ci-dessous\).
 
-![Ouverture d&apos;un fichier .csv dans le logiciel Excel. ](../.gitbook/assets/image%20%2815%29.png)
+![Ouverture d&apos;un fichier .csv dans le logiciel Excel. ](../../.gitbook/assets/image%20%2815%29.png)
 
 Afin de nous faciliter la lecture nous vous conseillons d'effectuer les manipulations suivantes :
 
 Manipulation 1 : Sélectionner l'ensemble de la feuille en cliquant sur la case compris entre la première ligne et la première colonne \(indiqué en rouge ci-dessous\). 
 
-![Manipulation de mise en forme : s&#xE9;lectionner tout.](../.gitbook/assets/image%20%2813%29.png)
+![Manipulation de mise en forme : s&#xE9;lectionner tout.](../../.gitbook/assets/image%20%2813%29.png)
 
 Manipulation 2 : Dans l'onglet "Accueil" cliquer sur "Renvoyer à la ligne automatiquement".
 
-![Manipulation de mise en forme - renvoi &#xE0; la ligne.](../.gitbook/assets/image%20%2810%29.png)
+![Manipulation de mise en forme - renvoi &#xE0; la ligne.](../../.gitbook/assets/image%20%2810%29.png)
 
 Résultat : le fichier est davantage lisible.
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 ## Etape 3 : Alimentation du fichier
 
@@ -67,7 +67,7 @@ Les données obligatoires sont les suivantes :
 
 * Opérateur : 
   * Colonne A : Identifiant unique du trajet \(vous pouvez tout à fait en inventer un, tant que celui-ci reste unique\).
-  * Colonne C : Classe de preuve du trajet définie en fonction des [spécifications de classes de preuve de covoiturage](../specifications/classes-de-preuve-de-covoiturage.md).
+  * Colonne C : Classe de preuve du trajet définie en fonction des [spécifications de classes de preuve de covoiturage](../../specifications/classes-de-preuve-de-covoiturage.md).
 * Passager : 
   * Colonne G : Numéro de téléphone.
   * Colonne J : Date/Heure départ.
@@ -88,7 +88,7 @@ Une fois le fichier complété, **supprimer les 5 premières lignes**.
 
 Vous pouvez ensuite enregistrer votre fichier en veillant à le conserver en format .csv tel qu’initialement téléchargé. 
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ## Etape 5 : Dépôt du fichier sur la plateforme
 
@@ -96,19 +96,19 @@ Se connecter avec vos identifiants habituels à la plateforme : [https://app.cov
 
 Une fois connecté, aller dans l'onglet "Import". Vous pouvez alors sélectionner un fichier puis le télécharger. 
 
-![Interface d&apos;import op&#xE9;rateur](../.gitbook/assets/image%20%285%29.png)
+![Interface d&apos;import op&#xE9;rateur](../../.gitbook/assets/image%20%285%29.png)
 
 ### Succès : les trajets ont été uploadés. 
 
 Dans ce cas on voit apparaître l'image ci-dessous.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ### Échec : Erreur
 
 Dans le cas où l'une des étapes n'aurait pas été attentivement suivi, des messages d'erreur peuvent apparaître. Les indications mentionnées vous aident à corriger votre fichier avant d'effectuer une nouvelle tentative de dépôt. 
 
-![Message d&apos;erreur en cas d&apos;&#xE9;chec d&apos;import d&apos;un fichier.](../.gitbook/assets/image%20%287%29.png)
+![Message d&apos;erreur en cas d&apos;&#xE9;chec d&apos;import d&apos;un fichier.](../../.gitbook/assets/image%20%287%29.png)
 
 
 

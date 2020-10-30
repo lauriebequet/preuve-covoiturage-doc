@@ -12,7 +12,7 @@ L’application est découpée en services de manière fonctionnelle. Chaque ser
 
 
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 Le **proxy** joue un rôle d’_API manager_ \(routes, auth\).  Il a vocation à moyen terme à disparaître pour être remplacé par un _reverse-proxy_ ou un _API manager_.
 
