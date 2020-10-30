@@ -418,6 +418,14 @@ Plus d’informations sur [impots.gouv.fr](https://www.impots.gouv.fr/portail/no
 
 ## **Perspectives et questions diverses** 
 
+### **Je réalise mes trajets avec un⸱e conjoint⸱e ou un⸱e voisin⸱e est-ce du covoiturage ?** 
+
+Pour rappel, tel que défini par l’article L. 3132-1 du code des transports le covoiturage est  « _l’utilisation en commun d’un véhicule terrestre à moteur par un conducteur et un ou plusieurs passagers, effectuée à titre non onéreux, excepté le partage des frais, dans le cadre d’un déplacement que le conducteur effectue pour son propre compte. Leur mise en relation, à cette fin, peut être effectuée à titre onéreux \[…\] »._ Il y a donc covoiturage dès le partage d’un trajet entre un conducteur et un passager. En conséquence, le covoiturage peut donc être interne à la famille ou extra familial tel que pour des trajets réalisés dans le cadre de sorties de loisirs proches \(réunion associative, etc.\) ou plus éloignées \(balade, cinéma, piscine, salle de sport, etc.\).  
+
+
+Voir également [ecologie.gouv.fr](https://www.ecologie.gouv.fr/covoiturage-en-france-avantages-et-reglementationen-vigueur)   
+
+
 ### **Est-ce qu’un équivalent de registre de preuve de covoiturage existe à l’étranger ?**
 
 A notre connaissance, il n’existe pas d’équivalent. Aussi, si vous avez connaissance d’initiatives similaires, merci de nous l’indiquer. 
