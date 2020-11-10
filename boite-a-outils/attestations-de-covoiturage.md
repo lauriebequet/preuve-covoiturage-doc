@@ -127,5 +127,5 @@ S'il s'agit d'une fraude de la part d'un‧e usager‧e nous vous invitons dans 
 
 ### Comment faire pour être partie prenante du système des attestations de covoiturage ? 
 
-Il suffit que l'opérateur de covoiturage soit partenaire du registre de preuve de covoiturage. L'opérateur peut ensuite mettre en place un dispositif de téléchargement des attestations basé sur le service mis à disposition par le registre de preuve de covoiturage. \(Cf. la rubrique implémenter le système d'attestations pour les opérateurs\)
+Il suffit que l'opérateur de covoiturage soit partenaire du registre de preuve de covoiturage. L'opérateur peut ensuite mettre en place un dispositif de téléchargement des attestations basé sur le service mis à disposition par le registre de preuve de covoiturage. \(Cf. la rubrique [implémenter le système d'attestations pour les opérateurs](../api/attestations-de-covoiturage.md)\)
 
