@@ -1,5 +1,13 @@
 # Attestations de covoiturage
 
+{% hint style="info" %}
+**Attestation sur l'honneur de covoiturage**
+
+Cette page concerne les attestations fournies par les opérateurs de covoiturage.
+
+Rendez-vous sur [https://attestation.covoiturage.beta.gouv.fr/](http://attestation.covoiturage.beta.gouv.fr/) pour générer votre attestation sur l'honneur.
+{% endhint %}
+
 ## Introduction
 
 ### A quoi correspond une attestation de covoiturage ? 
