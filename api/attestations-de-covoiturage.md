@@ -30,13 +30,7 @@ Merci de [créer des tickets](https://github.com/betagouv/preuve-covoiturage/iss
 
 La requête est faite par le serveur de l’opérateur et authentifiée avec un token applicatif dans les _headers_ \(même token que pour envoyer des preuves\).
 
-Chaque appel crée un nouveau certificat même si les paramètres sont exactement les mêmes. 
-
-{% hint style="info" %}
-_Les valeurs de km ou coût ont pu changer entre deux appels._
-{% endhint %}
-
-Le token renvoyé dans la réponse permet d’identifier l’appelant lors de la génération du PDF/PNG. Il doit être envoyé dans les _headers_ de l’appel à `/v2/certificates/pdf/{uuid}` pour permettre le téléchargement direct du PDF par une application mobile sans repasser par le token applicatif du serveur.
+Chaque appel crée un nouveau certificat même si les paramètres sont exactement les mêmes, les valeurs calculées ont pu changer entre deux appels.
 
 ```javascript
 POST /v2/certificates
@@ -57,8 +51,8 @@ Request {
     // Paramètres optionnels
     "start_at": "2019-01-01T00:00:00Z",
     "end_at": "2019-12-31T23:59:59Z",
-    // départ et arrivée par exemple. Radius de 1km
-    // maximum 2 positions
+    // départ et arrivée par exemple.
+    // Radius de 1km. Maximum 2 positions
     "positions": [{
         "lon": -0.557483,
         "lat": 47.682821
@@ -70,7 +64,28 @@ Request {
 
 Response [201 Created] {
     "uuid": "8a9d2da9-39e3-4db7-be8e-12b4d2179fda",
-    "created_at": "2020-01-01T00:00:00+0100"
+    "created_at": "2020-01-01T00:00:00+0100",
+
+    // données calculées pour l'attestation
+    // peut permettre de faire un retour visuel à l'usager
+    // sans avoir à télécharger le PDF.
+    "meta": {
+        "tz": "Europe/Paris",
+        "rows": [
+            {
+                "index": 0,
+                "month": "Juin 2020",
+                "trips": 27,
+                "distance": 147,
+                "remaining": 0
+            },
+            ...
+        ],
+        "total_km": 0,         // distance
+        "total_rm": 14.283,    // reste à charge
+        "total_tr": 119,       // nb de trajets
+        "total_point": 0       // nb de points
+    }
 }
 
 Response [204 No Content] {
