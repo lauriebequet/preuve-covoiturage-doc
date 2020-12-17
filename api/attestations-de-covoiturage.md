@@ -77,8 +77,7 @@ Request {
 
 Response [201 Created] {
     "uuid": "8a9d2da9-39e3-4db7-be8e-12b4d2179fda",
-    "created_at": "2020-01-01T00:00:00+0100",
-    "pdf_url": "{API_URL}/v2/certificates/pdf/8a9d2da9-39e3-4db7-be8e-12b4d2179fda"
+    "created_at": "2020-01-01T00:00:00+0100"
 }
 
 Response [204 No Content] {
