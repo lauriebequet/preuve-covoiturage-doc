@@ -21,10 +21,11 @@ Merci de [créer des tickets](https://github.com/betagouv/preuve-covoiturage/iss
 
 ## Statut de développement des fonctionnalités 
 
-* [x] Génération de l'API par l'opérateur ;
+* [x] Génération de l'attestation par l'opérateur ;
 * [x] Téléchargement d'un PDF ;
 * [x] Page de vérification de l'attestation en ligne \(accès public\) ;
-* [x] Envoi de meta-données pour injecter les données personnelles du covoitureur
+* [x] Envoi de meta-données pour injecter les données personnelles du covoitureur ;
+* [x] Upload du logo de l'opérateur dans son profil.
 
 ## **Création de l’attestation**
 
@@ -157,4 +158,13 @@ Response [404 Not Found] {
     "error": "Not Found"
 }
 ```
+
+Ci-dessous l'attestation avec les méta-données ajoutées au PDF.
+
+* `operator.content` en **zone A**
+* `identity.name` en **zone B**
+* `identity.content` en **zone C**
+* `notes` en **zone D**
+
+![](../.gitbook/assets/att%20%281%29.png)
 
