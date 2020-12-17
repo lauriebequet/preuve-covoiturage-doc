@@ -1,5 +1,10 @@
 # Alimenter le registre via des tableurs
 
+{% hint style="warning" %}
+**Cette fonctionnalité n'est plus disponible sur l'application !**  
+Si vous souhaitez soumettre des trajets via un tableur, merci de nous contacter directement : [contact@covoiturage.beta.gouv.fr](mailto:contact@covoiturage.beta.gouv.fr)
+{% endhint %}
+
 Il est possible d'alimenter le registre via des tableurs de données en respectant les spécifications [schéma CSV](schema-csv.md) et les prérequis suivants : 
 
 * 1️⃣ Une entité “opérateur de covoiturage” est créé sur l’application du registre.
