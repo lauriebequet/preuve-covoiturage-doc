@@ -31,7 +31,7 @@ La fonctionnalité de génération de PNG va être supprimée dans une prochaine
 * [x] Téléchargement d'un PDF ;
 * [x] Téléchargement d'un PNG ;
 * [x] Page de vérification de l'attestation en ligne \(accès public\) ;
-* [ ] Envoi de meta-données pour injecter les données personnelles du covoitureur
+* [x] Envoi de meta-données pour injecter les données personnelles du covoitureur
 
 ## **Création de l’attestation**
 
