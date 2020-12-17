@@ -16,7 +16,7 @@ Rendez-vous sur [https://attestation.covoiturage.beta.gouv.fr/](http://attestati
 Cette fonctionnalité est en cours de développement.  
 En tant qu'opérateur de covoiturage, contactez nous si vous souhaitez y participer : [technique@covoiturage.beta.gouv.fr](mailto:technique@covoiturage.beta.gouv.fr)  
   
-Merci de [créer des tickets](https://github.com/betagouv/preuve-covoiturage/issues/new) si vous rencontrez des problèmes.
+Merci de [créer des tickets](https://github.com/betagouv/preuve-covoiturage/issues/new?template=certificate.md) si vous rencontrez des problèmes.
 {% endhint %}
 
 {% hint style="warning" %}
