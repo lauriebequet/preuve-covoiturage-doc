@@ -19,17 +19,10 @@ En tant qu'opérateur de covoiturage, contactez nous si vous souhaitez y partici
 Merci de [créer des tickets](https://github.com/betagouv/preuve-covoiturage/issues/new?template=certificate.md&labels=ATTESTATION&assignees=jonathanfallon) si vous rencontrez des problèmes.
 {% endhint %}
 
-{% hint style="warning" %}
-La fonctionnalité de génération de PNG va être supprimée dans une prochaine mise à jour pour ne garder que l'attestation au format PDF.
-{% endhint %}
-
-
-
 ## Statut de développement des fonctionnalités 
 
 * [x] Génération de l'API par l'opérateur ;
 * [x] Téléchargement d'un PDF ;
-* [x] Téléchargement d'un PNG ;
 * [x] Page de vérification de l'attestation en ligne \(accès public\) ;
 * [x] Envoi de meta-données pour injecter les données personnelles du covoitureur
 
