@@ -58,7 +58,7 @@ Request {
         "phone": "+33612345678"
         // OU
         "phone_trunc": "+336123456",
-        "operator_user_id": "111-222-333-4444"
+        "operator_user_id": "1111-222-333-4444"
     },
     
     // Paramètres optionnels
@@ -76,10 +76,9 @@ Request {
 }
 
 Response [201 Created] {
-    "uuid": "34999a03-cfc5-463e-8d64-97af0f507004",
+    "uuid": "8a9d2da9-39e3-4db7-be8e-12b4d2179fda",
     "created_at": "2020-01-01T00:00:00+0100",
-    "pdf_url": "{API_URL}/v2/certificates/pdf/34999a03-cfc5-463e-8d64-97af0f507004",
-    "png_url": "{API_URL}/v2/certificates/png/34999a03-cfc5-463e-8d64-97af0f507004"
+    "pdf_url": "{API_URL}/v2/certificates/pdf/8a9d2da9-39e3-4db7-be8e-12b4d2179fda"
 }
 
 Response [204 No Content] {
@@ -107,12 +106,37 @@ Response [404 Not Found] {
 
 ## Télécharger une attestation
 
-Une fois l’attestation créée en base \(201 created\), on peut télécharger un PDF ou un PNG en appelant l’URL renvoyée.
+Une fois l’attestation créée en base \(201 created\), on peut télécharger un PDF en y ajoutant des données permettant une identification simplifiée de la personne.
+
+Ces données ne sont pas stockées sur nos serveurs, elles sont ajoutées au document généré à la volée.
 
 ```javascript
-GET ${response.pdf_url} OU ${response.png_url}
+POST /v2/certificates/pdf
+Authorization: Bearer ${application_token}
 
-Request {} // objet vide
+Request {
+    "uuid": "8a9d2da9-39e3-4db7-be8e-12b4d2179fda",
+    // personnalisation optionnelle de l'en-tête
+    // omettre 'meta' si pas de personnalisation
+    // toutes les propriétés sont facultatives
+    "meta": {
+        "operator": {
+            // zone de texte. Maximum de 305 caractères
+            // Maximum de 6 lignes séparées par \n
+            "content": "..."
+        },
+        "identity": {
+            // Nom de la personne. Maximum de 26 caractères
+            "name": "...",
+            // zone de texte. Maximum de 305 caractères
+            // Maximum de 6 lignes séparées par \n
+            "content": "..."
+        },
+        // zone de texte. Maximum de 440 caractères
+        // retour à la ligne auto.
+        "notes": "..."
+    }
+}
 
 Response [200 OK] { Buffer... }
 
