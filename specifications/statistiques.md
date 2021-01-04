@@ -66,5 +66,5 @@ Un algorithme calcule ensuite le produit du nombre de kilomètres parcourus par 
 
 Actuellement les dates des statistiques sont en GMT + 0 et ne prennent pas en compte les différences de fuseaux horaires. Un chantier est en cours de réalisation sur le sujet. 
 
-Notre promesse est “retrouvez dans le registre de preuve de covoiturage, les trajets réalisés en maximum une semaine”. En effet, il peut y avoir un décalage qui peut aller jusqu'à 7 jours entre la réception d'une preuve et son affichage par le registre \(voir [explications techniques](../api/envoyer-des-trajets/#quel-est-le-delai-denvoi-des-preuves-de-covoiturage)\). 
+Notre promesse est “retrouvez dans le registre de preuve de covoiturage, les trajets réalisés en maximum une semaine”. En effet, il peut y avoir un décalage qui peut aller jusqu'à 7 jours entre la réception d'une preuve et son affichage par le registre \(voir [explications techniques](../operateurs/envoyer-des-trajets/#quel-est-le-delai-denvoi-des-preuves-de-covoiturage)\). 
 
