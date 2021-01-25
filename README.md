@@ -14,7 +14,7 @@ Le registre de preuve de covoiturage \([covoiturage.beta.gouv.fr](http://covoitu
 * Un **label** qui permet aux autorités organisatrices de mobilité de visualiser les différentes [classes de preuve de covoiturage](specifications/classes-de-preuve-de-covoiturage.md) définies en fonction des mécanismes et processus de vérification du trajet mis en place par l’opérateur de covoiturage ; 
 * Un **observatoire du covoiturage** en France tenu par un tiers de confiance permettant de suivre les résultats et impacts de campagnes d’incitation au covoiturage ;
 * Des **outils d’accompagnement** pour faciliter le développement du covoiturage sur le territoire en facilitant au maximum l’ingénierie financière, opérationnelle et juridique à mettre en place. 
-* Des **outils** pour faciliter la mise en oeuvre du **Forfait Mobilité Durable**.
+* Des **outils** pour faciliter la mise en oeuvre du **Forfait Mobilités Durables**.
 
 Grâce au registre, une autorité organisatrice de mobilité \(et bientôt un employeur\) a désormais en main, l’ensemble des cartes lui permettant de mettre en oeuvre une politique incitative efficace en faveur du covoiturage. 
 
