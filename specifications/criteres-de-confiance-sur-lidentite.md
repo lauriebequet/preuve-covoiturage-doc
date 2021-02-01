@@ -63,6 +63,10 @@ Il s'agit d'un blocage de la part de l'opérateur de la perception de l'incitati
 
 ### Prochaine étape
 
+{% hint style="danger" %}
+En raison des difficultés rencontrées par la profession, le calendrier suivant n'a pas pu être tenu. Nous reviendrons rapidement vers les opérateurs pour la suite des actions. 
+{% endhint %}
+
 Notre souhait d'intégrer ces bonnes pratiques aux Conditions Générales d’Utilisation dans la partie “obligations des opérateurs” est toujours d’actualité. Toutefois, après une phase de réflexion nous comprenons que la date d’application dans les CGU au 1er septembre 2020 puisse être complexe, à la vue du contexte actuel. 
 
 Nous rappelons tout de même que les réflexions sur ce sujet ont débuté le 2 décembre 2019 lors d’un atelier réalisé à la demande de plusieurs opérateurs. 
